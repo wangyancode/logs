@@ -5018,3 +5018,6 @@
 [6624]	2025-11-21 09:22:03.955	- Info  -	[get_last_version_thread] update_rand_time:6; is_green:false; is_free_install:false ;is_control:false
 [6622]	2025-11-21 09:22:03.983	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
 [6622]	2025-11-21 09:22:14.554	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(4323649604>=4323639303+10000)
+[6624]	2025-11-21 15:22:04.355	- Info  -	[get_last_version_thread] update_rand_time:6; is_green:false; is_free_install:false ;is_control:false
+[6622]	2025-11-21 15:22:05.788	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[6622]	2025-11-21 15:22:16.245	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(4345251045>=4345240855+10000)
