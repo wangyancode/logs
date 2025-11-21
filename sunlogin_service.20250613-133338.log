@@ -1,0 +1,515 @@
+[3051]	2025-05-21 11:04:14.934	- Info  -	Version: 15.6.2.13600, PID: 288
+[3051]	2025-05-21 11:04:14.934	- Info  -	Version: 15.6.2.13600, PID: 288
+[3051]	2025-05-21 11:04:14.936	- Info  -	[LocalServer] iniconfig create config: /etc/orayconfig.conf
+[3051]	2025-05-21 11:04:14.938	- Info  -	DesktopAgentServer created with port 16067.
+[3051]	2025-05-21 11:04:14.948	- Info  -	[LoadProxy] Not use proxy
+[3051]	2025-05-21 11:04:14.952	- Info  -	[get_client_info] get mac address: d0:11:e5:8c:99:6c
+[3051]	2025-05-21 11:04:14.952	- Info  -	[get_client_info] os name:Darwin 24.5.0
+[3051]	2025-05-21 11:04:14.953	- Info  -	[LoginServer] [LocalServer] m_clientinfo.mac: d0:11:e5:8c:99:6c
+[3051]	2025-05-21 11:04:14.953	- Info  -	[OnGetClientIdResult][LocalServer] get client-id result
+[3639]	2025-05-21 11:04:14.953	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:04:14.953	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:04:14.953	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3634]	2025-05-21 11:04:14.953	- Info  -	[get_last_version_thread] update_rand_time:7; is_green:false; is_free_install:false ;is_control:false
+[3051]	2025-05-21 11:04:14.953	- Info  -	[Init][LocalServer] @ 1242
+[3051]	2025-05-21 11:04:14.953	* Error *	[Bind] rpc remove addr errcode 2
+[3627]	2025-05-21 11:04:14.955	* Error *	[CSockConnector] Resolve(client-api.oray.com:443) failed
+[3627]	2025-05-21 11:04:14.955	- Info  -	[http::call3][1] disconnected, error( 57394 )
+[3627]	2025-05-21 11:04:14.957	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:04:14.957	- Info  -	[http::call3][2] disconnected, error( 57394 )
+[3627]	2025-05-21 11:04:14.957	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:04:14.957	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:04:14.957	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:04:14.957	- Info  -	[client] retry login after 1000 seconds.
+[3627]	2025-05-21 11:04:14.957	- Info  -	[OnLogout] OnLogout end
+[3641]	2025-05-21 11:04:15.071	- Info  -	[server::handler] new agent client connected!
+
+[3641]	2025-05-21 11:04:15.071	- Info  -	[server::handler] agent(-1) client disconnected, user(), console()!
+
+[3641]	2025-05-21 11:04:15.071	- Info  -	[mdesktop] revoke remote 0 OK(11242)
+[3640]	2025-05-21 11:04:15.348	- Info  -	++++++++++++++++++ system configure changed old() -> current(wangyan)
+[3640]	2025-05-21 11:04:15.349	- Info  -	[mdesktop] 
+[3640]	2025-05-21 11:04:15.349	- Info  -	[wts_thread] *********************** Waiting for user wangyan login.
+[3639]	2025-05-21 11:04:15.999	- Info  -	[client] Do login end with license login type, status: offline.
+[3639]	2025-05-21 11:04:15.999	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:04:16.000	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:04:16.000	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:04:16.003	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:04:16.003	- Info  -	[http::call3][3] disconnected, error( 57394 )
+[3627]	2025-05-21 11:04:16.003	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:04:16.003	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:04:16.003	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:04:16.003	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:04:17.034	- Info  -	[client] Do login end with license login type, status: offline.
+[3640]	2025-05-21 11:04:21.745	- Info  -	++++++++++++++++++ system configure network changed
+[3640]	2025-05-21 11:04:21.746	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 0, netwok status: 1.
+[3640]	2025-05-21 11:04:21.746	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, do retry.
+[3640]	2025-05-21 11:04:21.746	- Info  -	[LocalServer] call Logout @ 6605
+[3639]	2025-05-21 11:04:21.746	- Info  -	[client] doLogout ...
+[3640]	2025-05-21 11:04:21.746	- Info  -	[LoadProxy] Not use proxy
+[3640]	2025-05-21 11:04:21.746	- Info  -	[client] retry login after 0 seconds.
+[3639]	2025-05-21 11:04:21.746	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:04:21.746	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:04:21.746	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:04:21.750	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:04:21.750	- Info  -	[http::call3][4] disconnected, error( 57394 )
+[3627]	2025-05-21 11:04:21.750	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:04:21.750	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:04:21.750	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:04:21.750	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:04:21.750	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:04:22.816	- Info  -	[client] Do login end with license login type, status: offline.
+[3640]	2025-05-21 11:04:23.465	- Info  -	++++++++++++++++++ system configure network changed
+[3640]	2025-05-21 11:04:23.465	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 0, netwok status: 1.
+[3640]	2025-05-21 11:04:23.465	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, do retry.
+[3640]	2025-05-21 11:04:23.465	- Info  -	[LocalServer] call Logout @ 6605
+[3640]	2025-05-21 11:04:23.465	- Info  -	[LoadProxy] Not use proxy
+[3640]	2025-05-21 11:04:23.465	- Info  -	[client] retry login after 0 seconds.
+[3639]	2025-05-21 11:04:23.465	- Info  -	[client] doLogout ...
+[3639]	2025-05-21 11:04:23.465	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:04:23.465	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:04:23.465	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:04:23.466	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:04:23.466	- Info  -	[http::call3][5] disconnected, error( 57394 )
+[3627]	2025-05-21 11:04:23.466	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:04:23.466	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:04:23.466	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:04:23.466	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:04:23.466	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:04:24.468	- Info  -	[client] Do login end with license login type, status: offline.
+[3639]	2025-05-21 11:04:24.822	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:04:24.822	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:04:24.822	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:04:24.824	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:04:24.824	- Info  -	[http::call3][6] disconnected, error( 57394 )
+[3627]	2025-05-21 11:04:24.824	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:04:24.824	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:04:24.824	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:04:24.824	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:04:24.824	- Info  -	[OnLogout] OnLogout end
+[3641]	2025-05-21 11:04:24.955	- Info  -	[server::handler] new agent client connected!
+
+[3641]	2025-05-21 11:04:24.955	- Info  -	[server::handler] agent(-1) client disconnected, user(), console(wangyan)!
+
+[3641]	2025-05-21 11:04:24.955	- Info  -	[mdesktop] revoke remote 0 OK(21125)
+[3635]	2025-05-21 11:04:25.643	- Info  -	[OnNewClient] login success
+[3639]	2025-05-21 11:04:25.863	- Info  -	[client] Do login end with license login type, status: offline.
+[3641]	2025-05-21 11:04:25.964	- Info  -	[server::handler] new agent client connected!
+
+[3641]	2025-05-21 11:04:25.985	- Info  -	[desktop] user_name = wangyan, user_full_name = wangyan
+[3641]	2025-05-21 11:04:25.985	- Info  -	[desktop] ============Recv sid 100003, agent id 782, user name(wangyan)
+[3641]	2025-05-21 11:04:25.985	- Info  -	[mdesktop][tagremote] RegisterRemote 782 OK(22155)
+[3641]	2025-05-21 11:04:25.985	- Info  -	[refresh_user_list]
+[3641]	2025-05-21 11:04:25.985	- Info  -	[refresh_user_list] console wangyan
+[3641]	2025-05-21 11:04:25.985	- Info  -	[mdesktop] (wangyan, 782);
+[3641]	2025-05-21 11:04:25.985	- Info  -	enum user list console(wangyan)([*]782, wangyan);
+[3639]	2025-05-21 11:04:26.541	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:04:26.541	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:04:26.541	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:04:26.542	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:04:26.542	- Info  -	[http::call3][7] disconnected, error( 57394 )
+[3627]	2025-05-21 11:04:26.542	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:04:26.542	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:04:26.542	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:04:26.542	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:04:26.542	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:04:27.557	- Info  -	[client] Do login end with license login type, status: offline.
+[3639]	2025-05-21 11:04:27.842	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:04:27.842	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:04:27.842	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:04:27.844	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:04:27.844	- Info  -	[http::call3][8] disconnected, error( 57394 )
+[3627]	2025-05-21 11:04:27.844	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:04:27.844	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:04:27.844	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:04:27.844	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:04:27.844	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:04:28.910	- Info  -	[client] Do login end with license login type, status: offline.
+[3639]	2025-05-21 11:04:29.611	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:04:29.611	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:04:29.611	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:04:29.613	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:04:29.613	- Info  -	[http::call3][9] disconnected, error( 57394 )
+[3627]	2025-05-21 11:04:29.613	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:04:29.613	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:04:29.613	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:04:29.613	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:04:29.613	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:04:30.657	- Info  -	[client] Do login end with license login type, status: offline.
+[3639]	2025-05-21 11:04:30.893	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:04:30.893	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:04:30.893	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:04:30.895	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:04:30.895	- Info  -	[http::call3][10] disconnected, error( 57394 )
+[3627]	2025-05-21 11:04:30.895	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:04:30.895	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:04:30.895	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:04:30.895	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:04:30.895	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:04:31.929	- Info  -	[client] Do login end with license login type, status: offline.
+[3639]	2025-05-21 11:04:32.649	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:04:32.649	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:04:32.649	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:04:32.651	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:04:32.651	- Info  -	[http::call3][11] disconnected, error( 57394 )
+[3627]	2025-05-21 11:04:32.651	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:04:32.651	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:04:32.651	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:04:32.651	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:04:32.651	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:04:33.724	- Info  -	[client] Do login end with license login type, status: offline.
+[3639]	2025-05-21 11:04:33.927	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:04:33.927	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:04:33.927	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:04:33.929	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:04:33.929	- Info  -	[http::call3][12] disconnected, error( 57394 )
+[3627]	2025-05-21 11:04:33.929	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:04:33.929	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:04:33.929	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:04:33.929	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:04:33.929	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:04:34.968	- Info  -	[client] Do login end with license login type, status: offline.
+[3639]	2025-05-21 11:04:35.702	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:04:35.702	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:04:35.703	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:04:35.705	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:04:35.705	- Info  -	[http::call3][13] disconnected, error( 57394 )
+[3627]	2025-05-21 11:04:35.705	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:04:35.705	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:04:35.705	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:04:35.705	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:04:35.705	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:04:36.734	- Info  -	[client] Do login end with license login type, status: offline.
+[3639]	2025-05-21 11:04:36.986	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:04:36.986	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:04:36.986	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:04:36.988	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:04:36.988	- Info  -	[http::call3][14] disconnected, error( 57394 )
+[3627]	2025-05-21 11:04:36.988	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:04:36.988	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:04:36.988	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:04:36.988	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:04:36.988	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:04:38.048	- Info  -	[client] Do login end with license login type, status: offline.
+[3639]	2025-05-21 11:04:38.780	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:04:38.780	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:04:38.780	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:04:38.781	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:04:38.782	- Info  -	[http::call3][15] disconnected, error( 57394 )
+[3627]	2025-05-21 11:04:38.782	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:04:38.782	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:04:38.782	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:04:38.782	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:04:38.782	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:04:39.782	- Info  -	[client] Do login end with license login type, status: offline.
+[3639]	2025-05-21 11:04:39.994	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:04:39.994	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:04:39.994	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:04:39.995	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:04:39.995	- Info  -	[http::call3][16] disconnected, error( 57394 )
+[3627]	2025-05-21 11:04:39.995	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:04:39.995	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:04:39.995	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:04:39.995	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:04:39.995	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:04:41.069	- Info  -	[client] Do login end with license login type, status: offline.
+[3639]	2025-05-21 11:04:41.856	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:04:41.857	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:04:41.857	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:04:41.858	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:04:41.858	- Info  -	[http::call3][17] disconnected, error( 57394 )
+[3627]	2025-05-21 11:04:41.858	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:04:41.858	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:04:41.858	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:04:41.858	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:04:41.858	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:04:42.927	- Info  -	[client] Do login end with license login type, status: offline.
+[3639]	2025-05-21 11:04:42.999	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:04:42.999	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:04:42.999	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:04:43.000	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:04:43.000	- Info  -	[http::call3][18] disconnected, error( 57394 )
+[3627]	2025-05-21 11:04:43.001	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:04:43.001	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:04:43.001	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:04:43.001	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:04:43.001	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:04:44.069	- Info  -	[client] Do login end with license login type, status: offline.
+[3639]	2025-05-21 11:04:44.933	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:04:44.933	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:04:44.933	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:04:44.935	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:04:44.935	- Info  -	[http::call3][19] disconnected, error( 57394 )
+[3627]	2025-05-21 11:04:44.935	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:04:44.935	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:04:44.935	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:04:44.935	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:04:44.935	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:04:45.945	- Info  -	[client] Do login end with license login type, status: offline.
+[3639]	2025-05-21 11:04:46.027	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:04:46.027	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:04:46.027	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:04:46.028	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:04:46.028	- Info  -	[http::call3][20] disconnected, error( 57394 )
+[3627]	2025-05-21 11:04:46.028	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:04:46.028	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:04:46.029	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:04:46.029	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:04:46.029	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:04:47.088	- Info  -	[client] Do login end with license login type, status: offline.
+[3639]	2025-05-21 11:04:48.009	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:04:48.010	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:04:48.010	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:04:48.011	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:04:48.012	- Info  -	[http::call3][21] disconnected, error( 57394 )
+[3627]	2025-05-21 11:04:48.012	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:04:48.012	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:04:48.012	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:04:48.012	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:04:48.012	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:04:49.012	- Info  -	[client] Do login end with license login type, status: offline.
+[3639]	2025-05-21 11:04:49.029	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:04:49.029	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:04:49.029	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:04:49.031	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:04:49.031	- Info  -	[http::call3][22] disconnected, error( 57394 )
+[3627]	2025-05-21 11:04:49.031	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:04:49.031	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:04:49.031	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:04:49.031	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:04:49.031	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:04:50.040	- Info  -	[client] Do login end with license login type, status: offline.
+[9162]	2025-05-21 11:04:50.760	- Info  -	[LocalServer] call UpdateConfigImpl @ 6159
+[3627]	2025-05-21 11:04:50.785	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:04:50.785	- Info  -	[http::call3][23] disconnected, error( 57394 )
+[3627]	2025-05-21 11:04:50.785	+Warning+	[uploadRemoteInfo] upload remote info failed,error:-1, msg:net error
+[3639]	2025-05-21 11:04:51.063	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:04:51.063	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:04:51.063	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:04:51.064	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:04:51.064	- Info  -	[http::call3][24] disconnected, error( 57394 )
+[3627]	2025-05-21 11:04:51.064	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:04:51.064	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:04:51.064	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:04:51.064	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:04:51.064	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:04:52.063	- Info  -	[client] Do login end with license login type, status: offline.
+[3639]	2025-05-21 11:04:52.063	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:04:52.063	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:04:52.063	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:04:52.065	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:04:52.066	- Info  -	[http::call3][25] disconnected, error( 57394 )
+[3627]	2025-05-21 11:04:52.066	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:04:52.066	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:04:52.066	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:04:52.066	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:04:52.066	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:04:53.137	- Info  -	[client] Do login end with license login type, status: offline.
+[3639]	2025-05-21 11:04:54.139	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:04:54.139	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:04:54.139	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:04:54.141	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:04:54.141	- Info  -	[http::call3][26] disconnected, error( 57394 )
+[3627]	2025-05-21 11:04:54.141	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:04:54.141	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:04:54.141	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:04:54.141	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:04:54.141	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:04:55.141	- Info  -	[client] Do login end with license login type, status: offline.
+[3639]	2025-05-21 11:04:55.141	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:04:55.141	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:04:55.141	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:04:55.143	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:04:55.143	- Info  -	[http::call3][27] disconnected, error( 57394 )
+[3627]	2025-05-21 11:04:55.143	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:04:55.143	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:04:55.143	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:04:55.143	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:04:55.143	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:04:56.170	- Info  -	[client] Do login end with license login type, status: offline.
+[3639]	2025-05-21 11:04:57.176	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:04:57.176	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:04:57.177	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:04:57.178	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:04:57.178	- Info  -	[http::call3][28] disconnected, error( 57394 )
+[3627]	2025-05-21 11:04:57.178	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:04:57.178	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:04:57.178	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:04:57.178	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:04:57.178	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:04:58.194	- Info  -	[client] Do login end with license login type, status: offline.
+[3639]	2025-05-21 11:04:58.195	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:04:58.195	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:04:58.195	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:04:58.197	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:04:58.197	- Info  -	[http::call3][29] disconnected, error( 57394 )
+[3627]	2025-05-21 11:04:58.197	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:04:58.197	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:04:58.197	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:04:58.197	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:04:58.197	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:04:59.268	- Info  -	[client] Do login end with license login type, status: offline.
+[3639]	2025-05-21 11:05:00.206	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:05:00.206	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:05:00.206	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:05:00.208	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:05:00.208	- Info  -	[http::call3][30] disconnected, error( 57394 )
+[3627]	2025-05-21 11:05:00.208	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:05:00.208	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:05:00.208	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:05:00.208	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:05:00.208	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:05:01.223	- Info  -	[client] Do login end with license login type, status: offline.
+[3639]	2025-05-21 11:05:01.223	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:05:01.223	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:05:01.223	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:05:01.225	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:05:01.225	- Info  -	[http::call3][31] disconnected, error( 57394 )
+[3627]	2025-05-21 11:05:01.225	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:05:01.225	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:05:01.225	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:05:01.225	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:05:01.225	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:05:02.224	- Info  -	[client] Do login end with license login type, status: offline.
+[3639]	2025-05-21 11:05:03.234	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:05:03.234	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:05:03.234	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:05:03.236	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:05:03.236	- Info  -	[http::call3][32] disconnected, error( 57394 )
+[3627]	2025-05-21 11:05:03.236	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:05:03.236	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:05:03.237	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:05:03.237	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:05:03.237	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:05:04.275	- Info  -	[client] Do login end with license login type, status: offline.
+[3639]	2025-05-21 11:05:04.275	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:05:04.275	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:05:04.275	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:05:04.276	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:05:04.277	- Info  -	[http::call3][33] disconnected, error( 57394 )
+[3627]	2025-05-21 11:05:04.277	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:05:04.277	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:05:04.277	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:05:04.277	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:05:04.277	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:05:05.343	- Info  -	[client] Do login end with license login type, status: offline.
+[3639]	2025-05-21 11:05:06.310	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:05:06.310	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:05:06.310	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:05:06.311	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:05:06.311	- Info  -	[http::call3][34] disconnected, error( 57394 )
+[3627]	2025-05-21 11:05:06.311	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:05:06.311	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:05:06.311	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:05:06.311	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:05:06.311	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:05:07.334	- Info  -	[client] Do login end with license login type, status: offline.
+[3639]	2025-05-21 11:05:07.334	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:05:07.334	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:05:07.334	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:05:07.335	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:05:07.335	- Info  -	[http::call3][35] disconnected, error( 57394 )
+[3627]	2025-05-21 11:05:07.335	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:05:07.335	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:05:07.336	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:05:07.336	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:05:07.336	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:05:08.363	- Info  -	[client] Do login end with license login type, status: offline.
+[3639]	2025-05-21 11:05:09.384	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:05:09.384	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:05:09.384	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:05:09.385	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:05:09.385	- Info  -	[http::call3][36] disconnected, error( 57394 )
+[3627]	2025-05-21 11:05:09.385	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:05:09.385	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:05:09.385	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:05:09.385	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:05:09.385	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:05:10.421	- Info  -	[client] Do login end with license login type, status: offline.
+[3639]	2025-05-21 11:05:10.422	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:05:10.422	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:05:10.422	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:05:10.423	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:05:10.423	- Info  -	[http::call3][37] disconnected, error( 57394 )
+[3627]	2025-05-21 11:05:10.423	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:05:10.423	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:05:10.423	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:05:10.423	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:05:10.423	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:05:11.496	- Info  -	[client] Do login end with license login type, status: offline.
+[3639]	2025-05-21 11:05:12.406	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:05:12.407	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:05:12.407	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:05:12.408	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:05:12.408	- Info  -	[http::call3][38] disconnected, error( 57394 )
+[3627]	2025-05-21 11:05:12.408	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:05:12.409	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:05:12.409	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:05:12.409	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:05:12.409	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:05:13.417	- Info  -	[client] Do login end with license login type, status: offline.
+[3639]	2025-05-21 11:05:13.435	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:05:13.436	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:05:13.436	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:05:13.437	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:05:13.437	- Info  -	[http::call3][39] disconnected, error( 57394 )
+[3627]	2025-05-21 11:05:13.437	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:05:13.437	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:05:13.437	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:05:13.437	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:05:13.437	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:05:14.475	- Info  -	[client] Do login end with license login type, status: offline.
+[3639]	2025-05-21 11:05:15.418	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:05:15.418	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:05:15.418	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:05:15.420	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:05:15.420	- Info  -	[http::call3][40] disconnected, error( 57394 )
+[3627]	2025-05-21 11:05:15.420	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:05:15.420	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:05:15.420	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:05:15.420	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:05:15.420	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:05:16.476	- Info  -	[client] Do login end with license login type, status: offline.
+[3639]	2025-05-21 11:05:16.476	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:05:16.476	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:05:16.476	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:05:16.478	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:05:16.478	- Info  -	[http::call3][41] disconnected, error( 57394 )
+[3627]	2025-05-21 11:05:16.478	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:05:16.478	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:05:16.478	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:05:16.479	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:05:16.479	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:05:17.544	- Info  -	[client] Do login end with license login type, status: offline.
+[3639]	2025-05-21 11:05:18.449	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:05:18.450	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:05:18.450	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:05:18.451	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:05:18.451	- Info  -	[http::call3][42] disconnected, error( 57394 )
+[3627]	2025-05-21 11:05:18.451	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:05:18.451	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:05:18.452	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:05:18.452	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:05:18.452	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:05:19.508	- Info  -	[client] Do login end with license login type, status: offline.
+[3639]	2025-05-21 11:05:19.508	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:05:19.508	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:05:19.508	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:05:19.510	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:05:19.510	- Info  -	[http::call3][43] disconnected, error( 57394 )
+[3627]	2025-05-21 11:05:19.510	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:05:19.510	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:05:19.510	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:05:19.510	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:05:19.510	- Info  -	[OnLogout] OnLogout end
+[3639]	2025-05-21 11:05:20.567	- Info  -	[client] Do login end with license login type, status: offline.
+[3639]	2025-05-21 11:05:21.476	- Info  -	[client] Do login start with type: license login type
+[3639]	2025-05-21 11:05:21.476	- Info  -	[client] change status to logging
+[3639]	2025-05-21 11:05:21.477	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3627]	2025-05-21 11:05:21.478	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3627]	2025-05-21 11:05:21.478	- Info  -	[http::call3][44] disconnected, error( 57394 )
+[3627]	2025-05-21 11:05:21.478	- Info  -	[client] change status to offline
+[3627]	2025-05-21 11:05:21.478	- Info  -	[OnLogout] OnLogout start
+[3627]	2025-05-21 11:05:21.478	- Info  -	[StopAllProjections] stop all projections
+[3627]	2025-05-21 11:05:21.479	- Info  -	[client] retry login after 3000 seconds.
+[3627]	2025-05-21 11:05:21.479	- Info  -	[OnLogout] OnLogout end

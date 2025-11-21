@@ -1,0 +1,112 @@
+[6928]	2025-05-21 11:04:25.059	- Info  -	Version: 15.6.2.13600, PID: 697
+[6928]	2025-05-21 11:04:25.063	* Error *	[Bind] rpc remove addr errcode 2
+[8075]	2025-05-21 11:04:25.618	- Info  -	[OnConnect] [shell] OnConnect
+[8075]	2025-05-21 11:04:25.746	- Info  -	[OnReceive] [shell] status_changed:0
+[7462]	2025-05-21 11:04:26.075	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[7462]	2025-05-21 11:04:26.075	- Info  -	[http::call3][1] disconnected, error( 57394 )
+[8075]	2025-05-21 11:04:26.541	- Info  -	[OnReceive] [shell] status_changed:2
+[8075]	2025-05-21 11:04:26.543	- Info  -	[OnReceive] [shell] status_changed:0
+[8124]	2025-05-21 11:04:26.687	- Info  -	[DoLogin]
+[7462]	2025-05-21 11:04:26.688	* Error *	[CSockConnector] Resolve(api-std.sunlogin.oray.com:443) failed
+[7462]	2025-05-21 11:04:26.688	- Info  -	[http::call3][3] disconnected, error( 57394 )
+[8288]	2025-05-21 11:04:26.688	* Error *	[login_with_token_ok] errorcode:-1
+[8288]	2025-05-21 11:04:26.690	- Info  -	[disconnect]
+[8288]	2025-05-21 11:04:26.690	- Info  -	[ondisconnect] is disconnected(-1)
+[8288]	2025-05-21 11:04:26.690	- Info  -	[disconnect]
+[8288]	2025-05-21 11:04:26.690	- Info  -	[ondisconnect] is disconnected(-1)
+[8288]	2025-05-21 11:04:26.690	- Info  -	[disconnect]
+[8288]	2025-05-21 11:04:26.690	- Info  -	[ondisconnect] is disconnected(-1)
+[7462]	2025-05-21 11:04:26.706	* Error *	[CSockConnector] Resolve(sl-tk.oray.com:443) failed
+[7462]	2025-05-21 11:04:26.706	- Info  -	[http::call3][4] disconnected, error( 57394 )
+[8075]	2025-05-21 11:04:27.842	- Info  -	[OnReceive] [shell] status_changed:2
+[8075]	2025-05-21 11:04:27.844	- Info  -	[OnReceive] [shell] status_changed:0
+[7462]	2025-05-21 11:04:29.483	* Error *	[CSockConnector] Resolve(api-std.sunlogin.oray.com:443) failed
+[7462]	2025-05-21 11:04:29.483	- Info  -	[http::call3][5] disconnected, error( 57394 )
+[8075]	2025-05-21 11:04:29.611	- Info  -	[OnReceive] [shell] status_changed:2
+[8075]	2025-05-21 11:04:29.613	- Info  -	[OnReceive] [shell] status_changed:0
+[8075]	2025-05-21 11:04:30.894	- Info  -	[OnReceive] [shell] status_changed:2
+[8075]	2025-05-21 11:04:30.895	- Info  -	[OnReceive] [shell] status_changed:0
+[8075]	2025-05-21 11:04:32.649	- Info  -	[OnReceive] [shell] status_changed:2
+[8075]	2025-05-21 11:04:32.652	- Info  -	[OnReceive] [shell] status_changed:0
+[8075]	2025-05-21 11:04:33.928	- Info  -	[OnReceive] [shell] status_changed:2
+[8075]	2025-05-21 11:04:33.929	- Info  -	[OnReceive] [shell] status_changed:0
+[8075]	2025-05-21 11:04:35.703	- Info  -	[OnReceive] [shell] status_changed:2
+[8075]	2025-05-21 11:04:35.706	- Info  -	[OnReceive] [shell] status_changed:0
+[8075]	2025-05-21 11:04:36.987	- Info  -	[OnReceive] [shell] status_changed:2
+[8075]	2025-05-21 11:04:36.989	- Info  -	[OnReceive] [shell] status_changed:0
+[8075]	2025-05-21 11:04:38.780	- Info  -	[OnReceive] [shell] status_changed:2
+[8075]	2025-05-21 11:04:38.782	- Info  -	[OnReceive] [shell] status_changed:0
+[6928]	2025-05-21 11:04:39.841	- Info  -	[set_url] [WebBrowser]  openshareurl = https://sunlogin.oray.com/client/discovery?white=0
+[6928]	2025-05-21 11:04:39.841	- Info  -	[update_url] [WebBrowser] update_url
+[7462]	2025-05-21 11:04:39.858	* Error *	[CSockConnector] Resolve(api-std.sunlogin.oray.com:443) failed
+[7462]	2025-05-21 11:04:39.859	- Info  -	[http::call3][6] disconnected, error( 57394 )
+[6928]	2025-05-21 11:04:39.874	- Info  -	[OnUserMessage] [MainDialog] WM_UPDATE_DISCOVER_URL
+[6928]	2025-05-21 11:04:39.875	- Info  -	[update_url] [WebBrowser] update_url
+[8075]	2025-05-21 11:04:39.994	- Info  -	[OnReceive] [shell] status_changed:2
+[8075]	2025-05-21 11:04:39.995	- Info  -	[OnReceive] [shell] status_changed:0
+[8075]	2025-05-21 11:04:41.857	- Info  -	[OnReceive] [shell] status_changed:2
+[8075]	2025-05-21 11:04:41.858	- Info  -	[OnReceive] [shell] status_changed:0
+[8075]	2025-05-21 11:04:42.999	- Info  -	[OnReceive] [shell] status_changed:2
+[8075]	2025-05-21 11:04:43.001	- Info  -	[OnReceive] [shell] status_changed:0
+[8075]	2025-05-21 11:04:44.934	- Info  -	[OnReceive] [shell] status_changed:2
+[8075]	2025-05-21 11:04:44.935	- Info  -	[OnReceive] [shell] status_changed:0
+[8075]	2025-05-21 11:04:46.027	- Info  -	[OnReceive] [shell] status_changed:2
+[8075]	2025-05-21 11:04:46.029	- Info  -	[OnReceive] [shell] status_changed:0
+[8075]	2025-05-21 11:04:48.010	- Info  -	[OnReceive] [shell] status_changed:2
+[8075]	2025-05-21 11:04:48.012	- Info  -	[OnReceive] [shell] status_changed:0
+[8075]	2025-05-21 11:04:49.030	- Info  -	[OnReceive] [shell] status_changed:2
+[8075]	2025-05-21 11:04:49.031	- Info  -	[OnReceive] [shell] status_changed:0
+[8075]	2025-05-21 11:04:51.063	- Info  -	[OnReceive] [shell] status_changed:2
+[8075]	2025-05-21 11:04:51.064	- Info  -	[OnReceive] [shell] status_changed:0
+[8075]	2025-05-21 11:04:52.063	- Info  -	[OnReceive] [shell] status_changed:2
+[8075]	2025-05-21 11:04:52.066	- Info  -	[OnReceive] [shell] status_changed:0
+[6928]	2025-05-21 11:04:52.707	- Info  -	[show_wechat_login_dlg] wechat dlg with type = login
+[6928]	2025-05-21 11:04:52.752	- Info  -	[update_url] [WebBrowser] update_url
+[8075]	2025-05-21 11:04:54.139	- Info  -	[OnReceive] [shell] status_changed:2
+[8075]	2025-05-21 11:04:54.141	- Info  -	[OnReceive] [shell] status_changed:0
+[8075]	2025-05-21 11:04:55.141	- Info  -	[OnReceive] [shell] status_changed:2
+[8075]	2025-05-21 11:04:55.143	- Info  -	[OnReceive] [shell] status_changed:0
+[8075]	2025-05-21 11:04:57.177	- Info  -	[OnReceive] [shell] status_changed:2
+[8075]	2025-05-21 11:04:57.179	- Info  -	[OnReceive] [shell] status_changed:0
+[8075]	2025-05-21 11:04:58.195	- Info  -	[OnReceive] [shell] status_changed:2
+[8075]	2025-05-21 11:04:58.197	- Info  -	[OnReceive] [shell] status_changed:0
+[8075]	2025-05-21 11:05:00.206	- Info  -	[OnReceive] [shell] status_changed:2
+[8075]	2025-05-21 11:05:00.208	- Info  -	[OnReceive] [shell] status_changed:0
+[8075]	2025-05-21 11:05:01.223	- Info  -	[OnReceive] [shell] status_changed:2
+[8075]	2025-05-21 11:05:01.225	- Info  -	[OnReceive] [shell] status_changed:0
+[8075]	2025-05-21 11:05:03.234	- Info  -	[OnReceive] [shell] status_changed:2
+[8075]	2025-05-21 11:05:03.237	- Info  -	[OnReceive] [shell] status_changed:0
+[8075]	2025-05-21 11:05:04.275	- Info  -	[OnReceive] [shell] status_changed:2
+[8075]	2025-05-21 11:05:04.277	- Info  -	[OnReceive] [shell] status_changed:0
+[6928]	2025-05-21 11:05:04.901	- Info  -	[show_wechat_login_dlg] wechat dlg with type = login
+[6928]	2025-05-21 11:05:04.941	- Info  -	[update_url] [WebBrowser] update_url
+[8075]	2025-05-21 11:05:06.310	- Info  -	[OnReceive] [shell] status_changed:2
+[8075]	2025-05-21 11:05:06.312	- Info  -	[OnReceive] [shell] status_changed:0
+[8075]	2025-05-21 11:05:07.334	- Info  -	[OnReceive] [shell] status_changed:2
+[8075]	2025-05-21 11:05:07.336	- Info  -	[OnReceive] [shell] status_changed:0
+[8075]	2025-05-21 11:05:09.384	- Info  -	[OnReceive] [shell] status_changed:2
+[8075]	2025-05-21 11:05:09.386	- Info  -	[OnReceive] [shell] status_changed:0
+[8075]	2025-05-21 11:05:10.422	- Info  -	[OnReceive] [shell] status_changed:2
+[8075]	2025-05-21 11:05:10.423	- Info  -	[OnReceive] [shell] status_changed:0
+[8075]	2025-05-21 11:05:12.407	- Info  -	[OnReceive] [shell] status_changed:2
+[8075]	2025-05-21 11:05:12.409	- Info  -	[OnReceive] [shell] status_changed:0
+[8075]	2025-05-21 11:05:13.436	- Info  -	[OnReceive] [shell] status_changed:2
+[8075]	2025-05-21 11:05:13.438	- Info  -	[OnReceive] [shell] status_changed:0
+[8075]	2025-05-21 11:05:15.418	- Info  -	[OnReceive] [shell] status_changed:2
+[8075]	2025-05-21 11:05:15.420	- Info  -	[OnReceive] [shell] status_changed:0
+[6928]	2025-05-21 11:05:15.930	- Info  -	[show_wechat_login_dlg] wechat dlg with type = login
+[6928]	2025-05-21 11:05:15.970	- Info  -	[update_url] [WebBrowser] update_url
+[8075]	2025-05-21 11:05:16.476	- Info  -	[OnReceive] [shell] status_changed:2
+[8075]	2025-05-21 11:05:16.479	- Info  -	[OnReceive] [shell] status_changed:0
+[8075]	2025-05-21 11:05:18.450	- Info  -	[OnReceive] [shell] status_changed:2
+[8075]	2025-05-21 11:05:18.452	- Info  -	[OnReceive] [shell] status_changed:0
+[8075]	2025-05-21 11:05:19.509	- Info  -	[OnReceive] [shell] status_changed:2
+[8075]	2025-05-21 11:05:19.510	- Info  -	[OnReceive] [shell] status_changed:0
+[8075]	2025-05-21 11:05:21.477	- Info  -	[OnReceive] [shell] status_changed:2
+[8075]	2025-05-21 11:05:21.479	- Info  -	[OnReceive] [shell] status_changed:0
+[8124]	2025-05-21 11:05:21.657	- Info  -	[StopService] [STOP SERVICE] send before
+[8124]	2025-05-21 11:05:21.657	- Info  -	[StopService] [STOP SERVICE] send after
+[6928]	2025-05-21 11:05:21.754	- Info  -	[disconnect]
+[6928]	2025-05-21 11:05:21.754	- Info  -	[ondisconnect] is disconnected(-1)
+[6928]	2025-05-21 11:05:21.754	- Info  -	[disconnect]
+[6928]	2025-05-21 11:05:21.754	- Info  -	[ondisconnect] is disconnected(-1)

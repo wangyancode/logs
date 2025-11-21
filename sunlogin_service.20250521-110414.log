@@ -1,0 +1,1389 @@
+[3127]	2025-05-21 11:00:15.531	- Info  -	Version: 15.6.2.13600, PID: 292
+[3127]	2025-05-21 11:00:15.531	- Info  -	Version: 15.6.2.13600, PID: 292
+[3127]	2025-05-21 11:00:15.532	- Info  -	[LocalServer] iniconfig create config: /etc/orayconfig.conf
+[3127]	2025-05-21 11:00:15.534	- Info  -	DesktopAgentServer created with port 16067.
+[3662]	2025-05-21 11:00:15.685	- Info  -	[server::handler] new agent client connected!
+
+[3662]	2025-05-21 11:00:15.685	- Info  -	[server::handler] agent(-1) client disconnected, user(), console()!
+
+[3662]	2025-05-21 11:00:15.685	- Info  -	[mdesktop] revoke remote 0 OK(11917)
+[3127]	2025-05-21 11:00:15.689	- Info  -	[LoadProxy] Not use proxy
+[3127]	2025-05-21 11:00:15.690	- Info  -	[get_client_info] get mac address: d0:11:e5:8c:99:6c
+[3127]	2025-05-21 11:00:15.691	- Info  -	[get_client_info] os name:Darwin 24.5.0
+[3127]	2025-05-21 11:00:15.692	- Info  -	[LoginServer] [LocalServer] m_clientinfo.mac: d0:11:e5:8c:99:6c
+[3127]	2025-05-21 11:00:15.692	- Info  -	[OnGetClientIdResult][LocalServer] get client-id result
+[3660]	2025-05-21 11:00:15.692	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:00:15.692	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:00:15.692	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3127]	2025-05-21 11:00:15.692	- Info  -	[Init][LocalServer] @ 1242
+[3127]	2025-05-21 11:00:15.692	* Error *	[Bind] rpc remove addr errcode 2
+[3656]	2025-05-21 11:00:15.693	- Info  -	[get_last_version_thread] update_rand_time:7; is_green:false; is_free_install:false ;is_control:false
+[3655]	2025-05-21 11:00:15.695	* Error *	[CSockConnector] Resolve(client-api.oray.com:443) failed
+[3655]	2025-05-21 11:00:15.695	- Info  -	[http::call3][2] disconnected, error( 57394 )
+[3655]	2025-05-21 11:00:15.696	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3655]	2025-05-21 11:00:15.696	- Info  -	[http::call3][1] disconnected, error( 57394 )
+[3655]	2025-05-21 11:00:15.696	- Info  -	[client] change status to offline
+[3655]	2025-05-21 11:00:15.696	- Info  -	[OnLogout] OnLogout start
+[3655]	2025-05-21 11:00:15.696	- Info  -	[StopAllProjections] stop all projections
+[3655]	2025-05-21 11:00:15.696	- Info  -	[client] retry login after 1000 seconds.
+[3655]	2025-05-21 11:00:15.696	- Info  -	[OnLogout] OnLogout end
+[3661]	2025-05-21 11:00:15.849	- Info  -	++++++++++++++++++ system configure changed old() -> current(wangyan)
+[3661]	2025-05-21 11:00:15.850	- Info  -	[mdesktop] 
+[3661]	2025-05-21 11:00:15.850	- Info  -	[wts_thread] *********************** Waiting for user wangyan login.
+[3660]	2025-05-21 11:00:16.703	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:00:16.703	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:00:16.703	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:00:16.703	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3655]	2025-05-21 11:00:16.711	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[3655]	2025-05-21 11:00:16.711	- Info  -	[http::call3][3] disconnected, error( 57394 )
+[3655]	2025-05-21 11:00:16.711	- Info  -	[client] change status to offline
+[3655]	2025-05-21 11:00:16.711	- Info  -	[OnLogout] OnLogout start
+[3655]	2025-05-21 11:00:16.712	- Info  -	[StopAllProjections] stop all projections
+[3655]	2025-05-21 11:00:16.712	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:00:17.732	- Info  -	[client] Do login end with license login type, status: offline.
+[3661]	2025-05-21 11:00:23.348	- Info  -	++++++++++++++++++ system configure network changed
+[3661]	2025-05-21 11:00:23.349	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 0, netwok status: 1.
+[3661]	2025-05-21 11:00:23.349	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, do retry.
+[3661]	2025-05-21 11:00:23.354	- Info  -	[LocalServer] call Logout @ 6605
+[3660]	2025-05-21 11:00:23.363	- Info  -	[client] doLogout ...
+[3661]	2025-05-21 11:00:23.364	- Info  -	[LoadProxy] Not use proxy
+[3661]	2025-05-21 11:00:23.364	- Info  -	[client] retry login after 0 seconds.
+[3660]	2025-05-21 11:00:23.364	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:00:23.364	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:00:23.364	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3655]	2025-05-21 11:00:23.490	- Info  -	[CSockConnector] attempt to connect server slapi.oray.net:443(47.98.232.26:443)
+[3661]	2025-05-21 11:00:24.088	- Info  -	++++++++++++++++++ system configure network changed
+[3661]	2025-05-21 11:00:24.089	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 2, netwok status: 1.
+[3661]	2025-05-21 11:00:24.089	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, do retry.
+[3661]	2025-05-21 11:00:24.091	- Info  -	[LocalServer] call Logout @ 6605
+[3661]	2025-05-21 11:00:24.091	- Info  -	[LoadProxy] Not use proxy
+[3661]	2025-05-21 11:00:24.091	* Error *	[client] retry login is no needed.
+[3655]	2025-05-21 11:00:24.388	- Info  -	[loginWithLicenses] [SunloginClient] IT process_run is 0
+[3655]	2025-05-21 11:00:24.392	* Error *	[CSockConnector] Resolve(rc10-g8.oray.com:443) failed
+[3655]	2025-05-21 11:00:24.392	* Error *	[service] connected server failed,errorcode:57394
+[3655]	2025-05-21 11:00:24.392	- Info  -	[client] change status to offline
+[3655]	2025-05-21 11:00:24.392	- Info  -	[OnLogout] OnLogout start
+[3655]	2025-05-21 11:00:24.392	- Info  -	[StopAllProjections] stop all projections
+[3655]	2025-05-21 11:00:24.392	- Info  -	[client] retry login after 3000 seconds.
+[3655]	2025-05-21 11:00:24.392	- Info  -	[OnLogout] OnLogout end
+[3655]	2025-05-21 11:00:24.392	* Error *	[loginServer] [SunloginClient] connect server rc10-g8.oray.com:443 failed
+[3660]	2025-05-21 11:00:25.452	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:00:25.452	- Info  -	[client] doLogout ...
+[3660]	2025-05-21 11:00:25.452	* Error *	[service] connected server failed,errorcode:0
+[3662]	2025-05-21 11:00:25.883	- Info  -	[server::handler] new agent client connected!
+
+[3662]	2025-05-21 11:00:25.883	- Info  -	[server::handler] agent(-1) client disconnected, user(), console(wangyan)!
+
+[3662]	2025-05-21 11:00:25.883	- Info  -	[mdesktop] revoke remote 0 OK(22107)
+[3657]	2025-05-21 11:00:26.720	- Info  -	[OnNewClient] login success
+[3662]	2025-05-21 11:00:26.961	- Info  -	[server::handler] new agent client connected!
+
+[3662]	2025-05-21 11:00:26.991	- Info  -	[desktop] user_name = wangyan, user_full_name = wangyan
+[3662]	2025-05-21 11:00:26.991	- Info  -	[desktop] ============Recv sid 100003, agent id 782, user name(wangyan)
+[3662]	2025-05-21 11:00:26.991	- Info  -	[mdesktop][tagremote] RegisterRemote 782 OK(23215)
+[3662]	2025-05-21 11:00:26.991	- Info  -	[refresh_user_list]
+[3662]	2025-05-21 11:00:26.991	- Info  -	[refresh_user_list] console wangyan
+[3662]	2025-05-21 11:00:26.991	- Info  -	[mdesktop] (wangyan, 782);
+[3662]	2025-05-21 11:00:26.991	- Info  -	enum user list console(wangyan)([*]782, wangyan);
+[3660]	2025-05-21 11:00:27.398	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:00:27.421	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:00:27.421	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3655]	2025-05-21 11:00:27.488	- Info  -	[loginWithLicenses] [SunloginClient] IT process_run is 0
+[3655]	2025-05-21 11:00:27.490	* Error *	[CSockConnector] Resolve(rc10-g9.oray.com:443) failed
+[3655]	2025-05-21 11:00:27.490	* Error *	[service] connected server failed,errorcode:57394
+[3655]	2025-05-21 11:00:27.490	- Info  -	[client] change status to offline
+[3655]	2025-05-21 11:00:27.490	- Info  -	[OnLogout] OnLogout start
+[3655]	2025-05-21 11:00:27.490	- Info  -	[StopAllProjections] stop all projections
+[3655]	2025-05-21 11:00:27.490	- Info  -	[client] retry login after 3000 seconds.
+[3655]	2025-05-21 11:00:27.490	- Info  -	[OnLogout] OnLogout end
+[3655]	2025-05-21 11:00:27.490	* Error *	[loginServer] [SunloginClient] connect server rc10-g9.oray.com:443 failed
+[3660]	2025-05-21 11:00:28.425	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:00:30.565	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:00:30.565	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:00:30.566	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:00:30.566	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:00:30.566	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:00:30.566	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:00:30.566	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:00:30.566	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:00:30.568	* Error *	[CSockConnector] Resolve(rc10-g9.oray.com:443) failed
+[3660]	2025-05-21 11:00:30.568	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:00:30.568	* Error *	[loginServer] [SunloginClient] connect server rc10-g9.oray.com:443 failed
+[3660]	2025-05-21 11:00:30.568	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:00:33.616	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:00:33.616	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:00:33.616	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:00:33.616	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:00:33.616	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:00:33.617	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:00:33.617	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:00:33.617	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:00:33.619	* Error *	[CSockConnector] Resolve(rc10-g9.oray.com:443) failed
+[3660]	2025-05-21 11:00:33.619	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:00:33.619	* Error *	[loginServer] [SunloginClient] connect server rc10-g9.oray.com:443 failed
+[3660]	2025-05-21 11:00:33.619	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:00:36.683	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:00:36.683	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:00:36.683	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:00:36.684	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:00:36.684	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:00:36.684	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:00:36.684	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:00:36.684	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:00:36.686	* Error *	[CSockConnector] Resolve(rc10-g9.oray.com:443) failed
+[3660]	2025-05-21 11:00:36.686	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:00:36.686	* Error *	[loginServer] [SunloginClient] connect server rc10-g9.oray.com:443 failed
+[3660]	2025-05-21 11:00:36.686	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:00:39.755	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:00:39.755	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:00:39.755	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:00:39.755	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:00:39.755	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:00:39.755	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:00:39.755	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:00:39.755	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:00:39.757	* Error *	[CSockConnector] Resolve(rc10-g9.oray.com:443) failed
+[3660]	2025-05-21 11:00:39.757	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:00:39.757	* Error *	[loginServer] [SunloginClient] connect server rc10-g9.oray.com:443 failed
+[3660]	2025-05-21 11:00:39.757	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:00:42.783	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:00:42.784	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:00:42.784	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:00:42.784	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:00:42.784	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:00:42.784	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:00:42.784	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:00:42.784	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:00:42.786	* Error *	[CSockConnector] Resolve(rc10-g9.oray.com:443) failed
+[3660]	2025-05-21 11:00:42.786	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:00:42.786	* Error *	[loginServer] [SunloginClient] connect server rc10-g9.oray.com:443 failed
+[3660]	2025-05-21 11:00:42.786	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:00:45.860	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:00:45.860	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:00:45.860	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:00:45.860	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:00:45.860	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:00:45.861	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:00:45.861	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:00:45.861	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:00:45.863	* Error *	[CSockConnector] Resolve(rc10-g9.oray.com:443) failed
+[3660]	2025-05-21 11:00:45.863	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:00:45.863	* Error *	[loginServer] [SunloginClient] connect server rc10-g9.oray.com:443 failed
+[3660]	2025-05-21 11:00:45.863	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:00:48.894	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:00:48.894	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:00:48.894	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:00:48.894	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:00:48.894	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:00:48.895	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:00:48.895	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:00:48.895	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:00:48.897	* Error *	[CSockConnector] Resolve(rc10-g9.oray.com:443) failed
+[3660]	2025-05-21 11:00:48.897	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:00:48.897	* Error *	[loginServer] [SunloginClient] connect server rc10-g9.oray.com:443 failed
+[3660]	2025-05-21 11:00:48.897	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:00:51.970	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:00:51.970	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:00:51.971	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:00:51.971	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:00:51.971	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:00:51.971	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:00:51.971	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:00:51.971	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:00:51.973	* Error *	[CSockConnector] Resolve(rc10-g9.oray.com:443) failed
+[3660]	2025-05-21 11:00:51.973	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:00:51.973	* Error *	[loginServer] [SunloginClient] connect server rc10-g9.oray.com:443 failed
+[3660]	2025-05-21 11:00:51.973	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:00:54.983	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:00:54.983	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:00:54.983	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:00:54.983	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:00:54.983	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:00:54.983	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:00:54.983	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:00:54.983	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:00:54.985	* Error *	[CSockConnector] Resolve(rc10-g9.oray.com:443) failed
+[3660]	2025-05-21 11:00:54.985	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:00:54.985	* Error *	[loginServer] [SunloginClient] connect server rc10-g9.oray.com:443 failed
+[3660]	2025-05-21 11:00:54.985	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:00:58.058	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:00:58.058	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:00:58.058	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:00:58.058	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:00:58.058	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:00:58.058	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:00:58.058	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:00:58.058	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:00:58.060	* Error *	[CSockConnector] Resolve(rc10-g9.oray.com:443) failed
+[3660]	2025-05-21 11:00:58.060	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:00:58.060	* Error *	[loginServer] [SunloginClient] connect server rc10-g9.oray.com:443 failed
+[3660]	2025-05-21 11:00:58.060	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:01:01.133	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:01:01.133	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:01:01.134	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:01:01.134	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:01:01.134	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:01:01.134	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:01:01.134	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:01:01.134	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:01:01.136	* Error *	[CSockConnector] Resolve(rc10-g9.oray.com:443) failed
+[3660]	2025-05-21 11:01:01.136	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:01:01.136	* Error *	[loginServer] [SunloginClient] connect server rc10-g9.oray.com:443 failed
+[3660]	2025-05-21 11:01:01.136	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:01:04.209	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:01:04.209	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:01:04.210	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:01:04.210	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:01:04.210	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:01:04.210	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:01:04.210	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:01:04.210	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:01:04.212	* Error *	[CSockConnector] Resolve(rc10-g9.oray.com:443) failed
+[3660]	2025-05-21 11:01:04.212	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:01:04.212	* Error *	[loginServer] [SunloginClient] connect server rc10-g9.oray.com:443 failed
+[3660]	2025-05-21 11:01:04.212	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:01:07.212	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:01:07.213	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:01:07.213	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:01:07.213	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:01:07.213	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:01:07.213	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:01:07.213	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:01:07.213	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:01:07.215	* Error *	[CSockConnector] Resolve(rc10-g9.oray.com:443) failed
+[3660]	2025-05-21 11:01:07.215	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:01:07.215	* Error *	[loginServer] [SunloginClient] connect server rc10-g9.oray.com:443 failed
+[3660]	2025-05-21 11:01:07.215	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:01:10.255	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:01:10.255	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:01:10.256	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:01:10.256	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:01:10.256	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:01:10.256	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:01:10.256	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:01:10.256	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:01:10.258	* Error *	[CSockConnector] Resolve(rc10-g9.oray.com:443) failed
+[3660]	2025-05-21 11:01:10.258	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:01:10.258	* Error *	[loginServer] [SunloginClient] connect server rc10-g9.oray.com:443 failed
+[3660]	2025-05-21 11:01:10.258	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:01:13.316	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:01:13.316	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:01:13.316	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:01:13.317	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:01:13.317	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:01:13.317	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:01:13.317	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:01:13.317	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:01:13.319	* Error *	[CSockConnector] Resolve(rc10-g9.oray.com:443) failed
+[3660]	2025-05-21 11:01:13.319	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:01:13.319	* Error *	[loginServer] [SunloginClient] connect server rc10-g9.oray.com:443 failed
+[3660]	2025-05-21 11:01:13.319	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:01:16.368	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:01:16.368	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:01:16.368	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:01:16.368	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:01:16.368	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:01:16.368	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:01:16.368	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:01:16.368	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:01:16.369	* Error *	[CSockConnector] Resolve(rc10-g9.oray.com:443) failed
+[3660]	2025-05-21 11:01:16.369	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:01:16.369	* Error *	[loginServer] [SunloginClient] connect server rc10-g9.oray.com:443 failed
+[3660]	2025-05-21 11:01:16.369	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:01:19.413	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:01:19.414	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:01:19.414	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:01:19.414	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:01:19.414	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:01:19.414	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:01:19.414	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:01:19.414	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:01:19.416	* Error *	[CSockConnector] Resolve(rc10-g9.oray.com:443) failed
+[3660]	2025-05-21 11:01:19.416	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:01:19.416	* Error *	[loginServer] [SunloginClient] connect server rc10-g9.oray.com:443 failed
+[3660]	2025-05-21 11:01:19.416	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:01:22.474	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:01:22.474	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:01:22.475	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:01:22.475	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:01:22.475	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:01:22.475	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:01:22.475	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:01:22.475	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:01:22.478	* Error *	[CSockConnector] Resolve(rc10-g9.oray.com:443) failed
+[3660]	2025-05-21 11:01:22.478	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:01:22.478	* Error *	[loginServer] [SunloginClient] connect server rc10-g9.oray.com:443 failed
+[3660]	2025-05-21 11:01:22.478	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:01:25.501	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:01:25.501	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:01:25.501	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:01:25.501	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:01:25.501	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:01:25.501	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:01:25.501	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:01:25.501	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:01:25.503	* Error *	[CSockConnector] Resolve(rc10-g9.oray.com:443) failed
+[3660]	2025-05-21 11:01:25.503	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:01:25.503	* Error *	[loginServer] [SunloginClient] connect server rc10-g9.oray.com:443 failed
+[3660]	2025-05-21 11:01:25.503	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:01:28.548	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:01:28.549	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:01:28.549	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:01:28.549	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:01:28.549	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:01:28.549	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:01:28.549	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:01:28.549	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:01:28.551	* Error *	[CSockConnector] Resolve(rc10-g9.oray.com:443) failed
+[3660]	2025-05-21 11:01:28.551	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:01:28.551	* Error *	[loginServer] [SunloginClient] connect server rc10-g9.oray.com:443 failed
+[3660]	2025-05-21 11:01:28.551	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:01:31.614	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:01:31.614	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:01:31.614	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:01:31.614	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:01:31.614	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:01:31.614	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:01:31.615	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:01:31.615	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:01:31.616	* Error *	[CSockConnector] Resolve(rc10-g9.oray.com:443) failed
+[3660]	2025-05-21 11:01:31.616	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:01:31.616	* Error *	[loginServer] [SunloginClient] connect server rc10-g9.oray.com:443 failed
+[3660]	2025-05-21 11:01:31.616	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:01:34.623	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:01:34.623	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:01:34.624	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:01:34.624	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:01:34.624	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:01:34.624	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:01:34.624	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:01:34.624	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:01:34.626	* Error *	[CSockConnector] Resolve(rc10-g9.oray.com:443) failed
+[3660]	2025-05-21 11:01:34.626	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:01:34.626	* Error *	[loginServer] [SunloginClient] connect server rc10-g9.oray.com:443 failed
+[3660]	2025-05-21 11:01:34.626	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:01:37.699	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:01:37.699	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:01:37.699	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:01:37.699	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:01:37.699	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:01:37.699	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:01:37.699	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:01:37.699	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:01:37.702	* Error *	[CSockConnector] Resolve(rc10-g9.oray.com:443) failed
+[3660]	2025-05-21 11:01:37.702	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:01:37.702	* Error *	[loginServer] [SunloginClient] connect server rc10-g9.oray.com:443 failed
+[3660]	2025-05-21 11:01:37.702	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:01:40.774	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:01:40.774	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:01:40.774	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:01:40.774	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:01:40.774	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:01:40.775	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:01:40.775	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:01:40.775	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:01:40.777	* Error *	[CSockConnector] Resolve(rc10-g9.oray.com:443) failed
+[3660]	2025-05-21 11:01:40.777	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:01:40.777	* Error *	[loginServer] [SunloginClient] connect server rc10-g9.oray.com:443 failed
+[3660]	2025-05-21 11:01:40.777	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:01:43.848	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:01:43.848	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:01:43.848	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:01:43.848	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:01:43.848	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:01:43.849	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:01:43.849	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:01:43.849	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:01:43.851	* Error *	[CSockConnector] Resolve(rc10-g9.oray.com:443) failed
+[3660]	2025-05-21 11:01:43.851	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:01:43.851	* Error *	[loginServer] [SunloginClient] connect server rc10-g9.oray.com:443 failed
+[3660]	2025-05-21 11:01:43.851	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:01:46.879	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:01:46.879	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:01:46.879	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:01:46.879	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:01:46.879	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:01:46.879	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:01:46.879	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:01:46.879	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:01:46.881	* Error *	[CSockConnector] Resolve(rc10-g9.oray.com:443) failed
+[3660]	2025-05-21 11:01:46.881	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:01:46.881	* Error *	[loginServer] [SunloginClient] connect server rc10-g9.oray.com:443 failed
+[3660]	2025-05-21 11:01:46.881	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:01:49.952	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:01:49.952	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:01:49.953	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:01:49.953	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:01:49.953	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:01:49.953	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:01:49.953	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:01:49.953	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:01:49.955	* Error *	[CSockConnector] Resolve(rc10-g9.oray.com:443) failed
+[3660]	2025-05-21 11:01:49.955	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:01:49.955	* Error *	[loginServer] [SunloginClient] connect server rc10-g9.oray.com:443 failed
+[3660]	2025-05-21 11:01:49.955	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:01:52.955	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:01:52.956	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:01:52.956	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:01:52.956	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:01:52.956	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:01:52.956	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:01:52.956	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:01:52.956	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:01:52.958	* Error *	[CSockConnector] Resolve(rc10-g9.oray.com:443) failed
+[3660]	2025-05-21 11:01:52.958	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:01:52.958	* Error *	[loginServer] [SunloginClient] connect server rc10-g9.oray.com:443 failed
+[3660]	2025-05-21 11:01:52.958	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:01:55.986	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:01:55.986	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:01:55.986	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:01:55.986	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:01:55.986	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:01:55.986	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:01:55.986	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:01:55.986	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:01:55.987	* Error *	[CSockConnector] Resolve(rc10-g9.oray.com:443) failed
+[3660]	2025-05-21 11:01:55.987	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:01:55.987	* Error *	[loginServer] [SunloginClient] connect server rc10-g9.oray.com:443 failed
+[3660]	2025-05-21 11:01:55.987	- Info  -	[client] Do login end with license login type, status: offline.
+[3661]	2025-05-21 11:01:57.644	- Info  -	++++++++++++++++++ system configure network changed
+[3661]	2025-05-21 11:01:57.645	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 0, netwok status: 1.
+[3661]	2025-05-21 11:01:57.645	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, do retry.
+[3661]	2025-05-21 11:01:57.646	- Info  -	[LocalServer] call Logout @ 6605
+[3660]	2025-05-21 11:01:57.646	- Info  -	[client] doLogout ...
+[3661]	2025-05-21 11:01:57.646	- Info  -	[LoadProxy] Not use proxy
+[3660]	2025-05-21 11:01:57.646	* Error *	[service] connected server failed,errorcode:0
+[3661]	2025-05-21 11:01:57.646	- Info  -	[client] retry login after 0 seconds.
+[3660]	2025-05-21 11:01:57.646	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:01:57.646	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:01:57.646	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[3655]	2025-05-21 11:01:57.647	- Info  -	[CSockConnector] attempt to connect server slapi.oray.net:443(47.98.232.26:443)
+[3655]	2025-05-21 11:01:57.973	- Info  -	[loginWithLicenses] [SunloginClient] IT process_run is 0
+[3655]	2025-05-21 11:01:57.975	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3655]	2025-05-21 11:01:57.975	* Error *	[service] connected server failed,errorcode:57394
+[3655]	2025-05-21 11:01:57.975	- Info  -	[client] change status to offline
+[3655]	2025-05-21 11:01:57.975	- Info  -	[OnLogout] OnLogout start
+[3655]	2025-05-21 11:01:57.975	- Info  -	[StopAllProjections] stop all projections
+[3655]	2025-05-21 11:01:57.975	- Info  -	[client] retry login after 3000 seconds.
+[3655]	2025-05-21 11:01:57.975	- Info  -	[OnLogout] OnLogout end
+[3655]	2025-05-21 11:01:57.975	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:01:58.650	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:01:58.997	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:01:58.997	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:01:58.997	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:01:58.997	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:01:58.997	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:01:58.998	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:01:58.998	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:01:58.998	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:01:58.999	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:01:58.999	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:01:58.999	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:01:58.999	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:00.997	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:00.997	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:00.997	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:00.997	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:00.997	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:00.997	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:00.997	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:00.997	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:00.999	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:00.999	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:00.999	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:00.999	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:02.062	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:02.062	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:02.063	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:02.063	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:02.063	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:02.063	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:02.063	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:02.063	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:02.064	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:02.064	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:02.064	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:02.064	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:04.064	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:04.064	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:04.064	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:04.064	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:04.064	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:04.064	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:04.064	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:04.064	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:04.066	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:04.066	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:04.066	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:04.066	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:05.068	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:05.068	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:05.068	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:05.068	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:05.068	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:05.069	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:05.069	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:05.069	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:05.070	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:05.070	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:05.070	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:05.070	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:07.120	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:07.120	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:07.120	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:07.120	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:07.120	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:07.120	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:07.120	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:07.120	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:07.122	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:07.122	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:07.122	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:07.122	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:08.121	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:08.121	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:08.121	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:08.121	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:08.121	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:08.121	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:08.121	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:08.121	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:08.123	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:08.123	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:08.123	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:08.123	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:10.194	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:10.194	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:10.195	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:10.195	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:10.195	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:10.195	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:10.195	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:10.195	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:10.197	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:10.198	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:10.198	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:10.198	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:11.128	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:11.128	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:11.128	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:11.128	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:11.128	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:11.129	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:11.129	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:11.129	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:11.130	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:11.130	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:11.130	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:11.130	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:13.220	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:13.220	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:13.220	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:13.220	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:13.220	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:13.220	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:13.220	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:13.220	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:13.222	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:13.222	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:13.222	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:13.222	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:14.198	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:14.198	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:14.199	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:14.199	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:14.199	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:14.199	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:14.199	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:14.199	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:14.200	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:14.200	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:14.200	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:14.200	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:16.232	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:16.232	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:16.233	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:16.233	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:16.233	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:16.233	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:16.233	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:16.233	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:16.235	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:16.235	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:16.235	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:16.235	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:17.240	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:17.240	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:17.241	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:17.241	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:17.241	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:17.241	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:17.241	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:17.241	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:17.245	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:17.245	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:17.245	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:17.245	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:19.301	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:19.301	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:19.301	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:19.301	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:19.301	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:19.301	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:19.301	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:19.301	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:19.304	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:19.304	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:19.304	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:19.304	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:20.292	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:20.292	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:20.292	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:20.292	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:20.292	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:20.292	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:20.292	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:20.292	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:20.294	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:20.294	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:20.294	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:20.294	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:22.308	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:22.308	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:22.309	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:22.309	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:22.309	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:22.309	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:22.309	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:22.309	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:22.310	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:22.310	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:22.310	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:22.310	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:23.295	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:23.295	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:23.295	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:23.295	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:23.295	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:23.295	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:23.295	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:23.295	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:23.297	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:23.297	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:23.297	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:23.297	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:25.354	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:25.354	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:25.354	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:25.354	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:25.354	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:25.354	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:25.354	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:25.354	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:25.356	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:25.356	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:25.356	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:25.356	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:26.303	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:26.303	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:26.303	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:26.303	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:26.303	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:26.303	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:26.303	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:26.303	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:26.305	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:26.305	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:26.305	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:26.305	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:28.428	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:28.428	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:28.428	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:28.428	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:28.428	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:28.428	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:28.428	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:28.428	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:28.430	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:28.430	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:28.430	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:28.430	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:29.330	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:29.330	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:29.331	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:29.331	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:29.331	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:29.331	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:29.331	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:29.331	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:29.332	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:29.332	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:29.332	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:29.332	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:31.503	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:31.503	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:31.503	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:31.503	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:31.503	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:31.504	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:31.504	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:31.504	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:31.505	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:31.505	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:31.505	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:31.505	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:32.338	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:32.338	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:32.338	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:32.338	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:32.338	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:32.338	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:32.338	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:32.338	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:32.340	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:32.340	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:32.340	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:32.340	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:34.563	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:34.563	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:34.563	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:34.563	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:34.563	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:34.564	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:34.564	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:34.564	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:34.565	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:34.565	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:34.565	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:34.565	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:35.412	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:35.412	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:35.413	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:35.413	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:35.413	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:35.413	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:35.413	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:35.413	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:35.415	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:35.415	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:35.415	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:35.415	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:37.636	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:37.636	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:37.637	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:37.637	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:37.637	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:37.637	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:37.637	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:37.637	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:37.639	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:37.639	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:37.639	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:37.639	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:38.449	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:38.449	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:38.450	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:38.450	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:38.450	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:38.450	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:38.450	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:38.450	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:38.451	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:38.451	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:38.451	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:38.451	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:40.649	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:40.649	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:40.649	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:40.649	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:40.649	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:40.649	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:40.649	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:40.649	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:40.651	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:40.651	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:40.651	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:40.651	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:41.489	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:41.489	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:41.489	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:41.489	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:41.489	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:41.490	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:41.490	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:41.490	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:41.492	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:41.492	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:41.492	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:41.492	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:43.701	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:43.701	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:43.701	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:43.701	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:43.702	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:43.702	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:43.702	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:43.702	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:43.704	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:43.705	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:43.705	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:43.705	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:44.562	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:44.562	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:44.563	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:44.563	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:44.563	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:44.563	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:44.563	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:44.563	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:44.564	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:44.564	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:44.564	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:44.564	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:46.771	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:46.771	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:46.772	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:46.772	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:46.772	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:46.772	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:46.772	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:46.772	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:46.775	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:46.775	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:46.775	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:46.775	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:47.637	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:47.637	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:47.638	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:47.638	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:47.638	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:47.638	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:47.638	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:47.638	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:47.639	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:47.639	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:47.639	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:47.639	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:49.847	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:49.847	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:49.848	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:49.848	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:49.848	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:49.848	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:49.848	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:49.848	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:49.850	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:49.850	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:49.850	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:49.850	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:50.690	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:50.690	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:50.690	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:50.690	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:50.690	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:50.691	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:50.691	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:50.691	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:50.692	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:50.692	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:50.692	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:50.693	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:52.883	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:52.888	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:52.889	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:52.889	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:52.890	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:52.890	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:52.890	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:52.890	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:52.892	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:52.892	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:52.892	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:52.892	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:53.759	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:53.759	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:53.760	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:53.760	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:53.760	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:53.760	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:53.760	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:53.760	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:53.762	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:53.762	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:53.762	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:53.762	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:55.895	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:55.895	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:55.895	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:55.895	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:55.895	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:55.895	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:55.896	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:55.896	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:55.898	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:55.898	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:55.898	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:55.898	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:56.815	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:56.815	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:56.815	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:56.815	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:56.815	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:56.815	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:56.815	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:56.815	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:56.817	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:56.817	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:56.817	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:56.817	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:58.971	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:58.971	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:58.971	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:58.971	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:58.971	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:58.971	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:58.971	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:58.971	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:58.974	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:58.974	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:58.974	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:58.974	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:02:59.879	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:02:59.879	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:02:59.879	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:02:59.880	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:02:59.880	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:02:59.880	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:02:59.880	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:02:59.880	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:02:59.881	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:02:59.881	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:02:59.881	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:02:59.881	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:03:02.047	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:03:02.047	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:03:02.047	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:03:02.048	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:03:02.048	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:03:02.048	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:03:02.048	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:03:02.048	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:03:02.050	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:03:02.050	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:03:02.050	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:03:02.050	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:03:02.908	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:03:02.908	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:03:02.909	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:03:02.909	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:03:02.909	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:03:02.909	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:03:02.909	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:03:02.909	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:03:02.910	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:03:02.910	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:03:02.910	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:03:02.910	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:03:05.121	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:03:05.121	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:03:05.121	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:03:05.121	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:03:05.121	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:03:05.122	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:03:05.122	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:03:05.122	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:03:05.123	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:03:05.123	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:03:05.123	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:03:05.123	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:03:05.918	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:03:05.918	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:03:05.918	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:03:05.919	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:03:05.919	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:03:05.919	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:03:05.919	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:03:05.919	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:03:05.921	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:03:05.921	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:03:05.921	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:03:05.921	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:03:08.155	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:03:08.155	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:03:08.155	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:03:08.155	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:03:08.155	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:03:08.155	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:03:08.155	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:03:08.155	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:03:08.157	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:03:08.157	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:03:08.157	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:03:08.157	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:03:08.924	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:03:08.924	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:03:08.924	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:03:08.924	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:03:08.924	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:03:08.925	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:03:08.925	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:03:08.925	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:03:08.927	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:03:08.927	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:03:08.927	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:03:08.927	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:03:11.158	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:03:11.158	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:03:11.158	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:03:11.158	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:03:11.158	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:03:11.159	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:03:11.159	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:03:11.159	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:03:11.160	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:03:11.160	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:03:11.160	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:03:11.160	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:03:12.000	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:03:12.000	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:03:12.000	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:03:12.000	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:03:12.000	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:03:12.001	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:03:12.001	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:03:12.001	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:03:12.002	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:03:12.002	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:03:12.002	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:03:12.002	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:03:14.185	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:03:14.185	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:03:14.185	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:03:14.185	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:03:14.185	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:03:14.186	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:03:14.186	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:03:14.186	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:03:14.187	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:03:14.187	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:03:14.187	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:03:14.187	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:03:15.026	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:03:15.026	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:03:15.027	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:03:15.027	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:03:15.027	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:03:15.027	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:03:15.027	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:03:15.027	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:03:15.028	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:03:15.028	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:03:15.028	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:03:15.028	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:03:17.257	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:03:17.257	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:03:17.257	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:03:17.257	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:03:17.257	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:03:17.258	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:03:17.258	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:03:17.258	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:03:17.260	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:03:17.260	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:03:17.260	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:03:17.260	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:03:18.036	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:03:18.036	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:03:18.036	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:03:18.036	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:03:18.036	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:03:18.037	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:03:18.037	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:03:18.037	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:03:18.040	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:03:18.040	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:03:18.040	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:03:18.040	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:03:20.282	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:03:20.282	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:03:20.283	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:03:20.283	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:03:20.283	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:03:20.283	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:03:20.283	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:03:20.283	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:03:20.285	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:03:20.285	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:03:20.285	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:03:20.285	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:03:21.064	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:03:21.064	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:03:21.064	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:03:21.064	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:03:21.064	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:03:21.064	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:03:21.065	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:03:21.065	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:03:21.066	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:03:21.066	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:03:21.066	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:03:21.066	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:03:23.318	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:03:23.318	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:03:23.319	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:03:23.319	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:03:23.319	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:03:23.319	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:03:23.319	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:03:23.319	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:03:23.322	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:03:23.322	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:03:23.322	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:03:23.322	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:03:24.096	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:03:24.096	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:03:24.096	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:03:24.096	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:03:24.096	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:03:24.097	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:03:24.097	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:03:24.097	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:03:24.098	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:03:24.098	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:03:24.098	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:03:24.098	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:03:26.320	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:03:26.320	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:03:26.320	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:03:26.321	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:03:26.321	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:03:26.321	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:03:26.321	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:03:26.321	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:03:26.323	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:03:26.323	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:03:26.323	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:03:26.323	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:03:27.163	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:03:27.163	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:03:27.164	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:03:27.164	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:03:27.164	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:03:27.164	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:03:27.164	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:03:27.164	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:03:27.166	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:03:27.166	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:03:27.166	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:03:27.166	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:03:29.374	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:03:29.374	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:03:29.374	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:03:29.374	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:03:29.374	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:03:29.374	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:03:29.374	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:03:29.374	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:03:29.376	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:03:29.376	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:03:29.376	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:03:29.376	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:03:30.177	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:03:30.177	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:03:30.177	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:03:30.178	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:03:30.178	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:03:30.178	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:03:30.178	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:03:30.178	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:03:30.180	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:03:30.180	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:03:30.180	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:03:30.180	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:03:32.415	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:03:32.415	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:03:32.416	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:03:32.416	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:03:32.416	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:03:32.416	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:03:32.416	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:03:32.416	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:03:32.418	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:03:32.419	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:03:32.419	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:03:32.419	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:03:33.253	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:03:33.253	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:03:33.253	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:03:33.253	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:03:33.253	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:03:33.253	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:03:33.253	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:03:33.254	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:03:33.255	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:03:33.255	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:03:33.255	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:03:33.255	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:03:35.476	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:03:35.476	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:03:35.476	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:03:35.476	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:03:35.476	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:03:35.476	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:03:35.476	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:03:35.476	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:03:35.478	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:03:35.478	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:03:35.478	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:03:35.478	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:03:36.272	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:03:36.272	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:03:36.273	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:03:36.273	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:03:36.273	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:03:36.273	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:03:36.273	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:03:36.273	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:03:36.275	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:03:36.275	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:03:36.275	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:03:36.275	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:03:38.550	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:03:38.550	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:03:38.550	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:03:38.550	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:03:38.550	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:03:38.551	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:03:38.551	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:03:38.551	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:03:38.553	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:03:38.553	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:03:38.553	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:03:38.553	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:03:39.292	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:03:39.292	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:03:39.293	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:03:39.293	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:03:39.293	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:03:39.293	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:03:39.293	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:03:39.293	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:03:39.295	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:03:39.295	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:03:39.295	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:03:39.295	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:03:41.626	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:03:41.626	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:03:41.627	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:03:41.627	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:03:41.627	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:03:41.627	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:03:41.627	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:03:41.627	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:03:41.629	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:03:41.629	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:03:41.629	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:03:41.629	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:03:42.368	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:03:42.368	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:03:42.368	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:03:42.368	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:03:42.368	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:03:42.368	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:03:42.368	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:03:42.368	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:03:42.370	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:03:42.370	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:03:42.371	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:03:42.371	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:03:44.651	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:03:44.651	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:03:44.651	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:03:44.651	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:03:44.651	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:03:44.652	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:03:44.652	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:03:44.652	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:03:44.654	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:03:44.654	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:03:44.654	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:03:44.654	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:03:45.423	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:03:45.423	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:03:45.423	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:03:45.423	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:03:45.423	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:03:45.424	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:03:45.424	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:03:45.424	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:03:45.426	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:03:45.426	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:03:45.426	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:03:45.426	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:03:47.707	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:03:47.707	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:03:47.707	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:03:47.707	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:03:47.707	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:03:47.708	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:03:47.708	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:03:47.708	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:03:47.710	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:03:47.710	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:03:47.710	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:03:47.710	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:03:48.433	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:03:48.433	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:03:48.433	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:03:48.433	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:03:48.433	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:03:48.433	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:03:48.433	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:03:48.433	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:03:48.435	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:03:48.435	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:03:48.435	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:03:48.435	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:03:50.781	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:03:50.781	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:03:50.781	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:03:50.781	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:03:50.781	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:03:50.782	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:03:50.782	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:03:50.782	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:03:50.784	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:03:50.784	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:03:50.784	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:03:50.784	- Info  -	[client] Do login end with license login type, status: offline.
+[3660]	2025-05-21 11:03:51.508	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:03:51.508	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:03:51.508	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:03:51.508	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:03:51.508	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:03:51.508	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:03:51.508	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:03:51.508	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:03:51.510	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:03:51.510	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:03:51.510	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:03:51.510	- Info  -	[client] Do login end with license login type, status: offline.
+[3662]	2025-05-21 11:03:53.707	- Info  -	[server::handler] agent(100003) client disconnected, user(wangyan), console()!
+
+[3662]	2025-05-21 11:03:53.707	- Info  -	[mdesktop] revoke_remote disconnect 782(229921)
+[3662]	2025-05-21 11:03:53.707	- Info  -	[mdesktop] revoke remote 782 OK(229921)
+[3660]	2025-05-21 11:03:53.804	- Info  -	[client] Do login start with type: license login type
+[3660]	2025-05-21 11:03:53.804	- Info  -	[client] change status to logging
+[3660]	2025-05-21 11:03:53.804	* Error *	[service] connected server failed,errorcode:49153
+[3660]	2025-05-21 11:03:53.804	- Info  -	[client] change status to offline
+[3660]	2025-05-21 11:03:53.804	- Info  -	[OnLogout] OnLogout start
+[3660]	2025-05-21 11:03:53.804	- Info  -	[StopAllProjections] stop all projections
+[3660]	2025-05-21 11:03:53.804	- Info  -	[client] retry login after 3000 seconds.
+[3660]	2025-05-21 11:03:53.804	- Info  -	[OnLogout] OnLogout end
+[3660]	2025-05-21 11:03:53.806	* Error *	[CSockConnector] Resolve(rc10-g6.oray.com:443) failed
+[3660]	2025-05-21 11:03:53.806	* Error *	[service] connected server failed,errorcode:57394
+[3660]	2025-05-21 11:03:53.806	* Error *	[loginServer] [SunloginClient] connect server rc10-g6.oray.com:443 failed
+[3660]	2025-05-21 11:03:53.806	- Info  -	[client] Do login end with license login type, status: offline.
+[3661]	2025-05-21 11:03:54.226	- Info  -	++++++++++++++++++ system configure changed old(wangyan) -> current()
+[3661]	2025-05-21 11:03:54.226	- Info  -	[mdesktop] 
+[3661]	2025-05-21 11:03:54.226	- Info  -	[wts_thread] *********************** Waiting for user  login.

@@ -1,0 +1,4 @@
+[3133]	2025-05-21 11:00:15.681	- Info  -	applicationWillFinishLaunching
+[3133]	2025-05-21 11:00:15.685	- Info  -	sid(100003), username(root)
+[3133]	2025-05-21 11:00:15.685	+Warning+	[agent] detect service ok.
+[3133]	2025-05-21 11:00:15.685	- Info  -	init instance

@@ -1,0 +1,298 @@
+[122405396]	2025-06-13 13:33:38.774	- Info  -	Version: 15.6.2.13600, PID: 35962
+[122405396]	2025-06-13 13:33:38.774	- Info  -	Version: 15.6.2.13600, PID: 35962
+[122405396]	2025-06-13 13:33:38.775	- Info  -	[LocalServer] iniconfig create config: /etc/orayconfig.conf
+[122405396]	2025-06-13 13:33:38.778	- Info  -	DesktopAgentServer created with port 16067.
+[122405396]	2025-06-13 13:33:38.802	- Info  -	[LoadProxy] Not use proxy
+[122405396]	2025-06-13 13:33:38.803	- Info  -	[get_client_info] get mac address: d0:11:e5:8c:99:6c
+[122405396]	2025-06-13 13:33:38.803	- Info  -	[get_client_info] os name:Darwin 24.5.0
+[122405396]	2025-06-13 13:33:38.803	- Info  -	[LoginServer] [LocalServer] m_clientinfo.mac: d0:11:e5:8c:99:6c
+[122405396]	2025-06-13 13:33:38.804	- Info  -	[OnGetClientIdResult][LocalServer] get client-id result
+[122405437]	2025-06-13 13:33:38.804	- Info  -	[client] Do login start with type: license login type
+[122405437]	2025-06-13 13:33:38.804	- Info  -	[client] change status to logging
+[122405437]	2025-06-13 13:33:38.804	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[122405396]	2025-06-13 13:33:38.804	- Info  -	[Init][LocalServer] @ 1242
+[122405396]	2025-06-13 13:33:38.804	* Error *	[Bind] rpc remove addr errcode 2
+[122405433]	2025-06-13 13:33:38.804	- Info  -	[get_last_version_thread] update_rand_time:6; is_green:false; is_free_install:false ;is_control:false
+[122405428]	2025-06-13 13:33:38.808	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(198.18.0.50:443)
+[122405428]	2025-06-13 13:33:38.809	- Info  -	[CSockConnector] attempt to connect server slapi.oray.net:443(198.18.0.74:443)
+[122405439]	2025-06-13 13:33:38.951	- Info  -	[server::handler] new agent client connected!
+
+[122405439]	2025-06-13 13:33:38.951	- Info  -	[server::handler] agent(-1) client disconnected, user(), console()!
+
+[122405439]	2025-06-13 13:33:38.951	- Info  -	[mdesktop] revoke remote 0 OK(1748204715)
+[122405428]	2025-06-13 13:33:39.123	- Info  -	[loginWithLicenses] [SunloginClient] IT process_run is 0
+[122405428]	2025-06-13 13:33:39.125	- Info  -	[CSockConnector] attempt to connect server rc10-g4.oray.com:443(198.18.1.240:443)
+[122405434]	2025-06-13 13:33:39.237	- Info  -	[OnNewClient] login success
+[122405436]	2025-06-13 13:33:39.371	- Info  -	[service] send logon
+[122405436]	2025-06-13 13:33:39.395	- Info  -	[service] logon OK, public address: 58.218.188.178:2162
+[122405436]	2025-06-13 13:33:39.439	- Info  -	[online] OK
+[122405436]	2025-06-13 13:33:39.440	- Info  -	[client] received name: mac mini, description: .
+[122405517]	2025-06-13 13:33:39.441	- Info  -	[service] registering client
+[122405436]	2025-06-13 13:33:39.464	- Info  -	[service] client registered
+[122405436]	2025-06-13 13:33:39.464	- Info  -	[client] change status to online
+[122405428]	2025-06-13 13:33:39.466	- Info  -	[CSockConnector] attempt to connect server sl-log.oray.net:443(198.18.0.78:443)
+[122405436]	2025-06-13 13:33:39.470	- Info  -	[OnLogin] OnLogin start
+[122405436]	2025-06-13 13:33:39.470	- Info  -	[OnLogin] OnLogin end
+[122405428]	2025-06-13 13:33:39.472	- Info  -	[CSockConnector] attempt to connect server api-std.sunlogin.oray.com:443(198.18.0.79:443)
+[122405428]	2025-06-13 13:33:39.542	- Info  -	[LocalServer] call UpdateConfigImpl @ 6159
+[122405428]	2025-06-13 13:33:39.566	- Info  -	[local_server] set client accesspwd from [ChangeLoginTypeConfig : 9929]
+[122405437]	2025-06-13 13:33:39.880	- Info  -	[client] Do login end with license login type, status: online.
+[122405439]	2025-06-13 13:33:40.028	- Info  -	[server::handler] new agent client connected!
+
+[122405439]	2025-06-13 13:33:40.048	- Info  -	[desktop] user_name = wangyan, user_full_name = wangyan
+[122405439]	2025-06-13 13:33:40.049	- Info  -	[desktop] ============Recv sid 100003, agent id 35956, user name(wangyan)
+[122405439]	2025-06-13 13:33:40.049	- Info  -	[mdesktop][tagremote] RegisterRemote 35956 OK(1748205813)
+[122405439]	2025-06-13 13:33:40.049	- Info  -	[refresh_user_list]
+[122405439]	2025-06-13 13:33:40.049	- Info  -	[refresh_user_list] console wangyan
+[122405439]	2025-06-13 13:33:40.049	- Info  -	[mdesktop] (wangyan, 35956);
+[122405439]	2025-06-13 13:33:40.049	- Info  -	enum user list console(wangyan)([*]35956, wangyan);
+[122405434]	2025-06-13 13:33:41.495	- Info  -	[OnReceive] set IT JY process_run
+[122405428]	2025-06-13 13:33:51.534	+Warning+	[passive:keepalive:] 198.18.0.50:443 disconnect by keepalive timeout(1748217298>=1748204961+10000)
+[122405438]	2025-06-13 14:58:19.208	- Info  -	++++++++++++++++++ system configure network changed
+[122405438]	2025-06-13 14:58:19.213	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[122405438]	2025-06-13 14:58:19.213	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[122405438]	2025-06-13 14:58:54.634	- Info  -	++++++++++++++++++ system configure network changed
+[122405438]	2025-06-13 14:58:54.634	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[122405438]	2025-06-13 14:58:54.634	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[122405438]	2025-06-13 17:29:07.085	- Info  -	++++++++++++++++++ system configure network changed
+[122405438]	2025-06-13 17:29:07.086	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[122405438]	2025-06-13 17:29:07.086	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[122405438]	2025-06-13 17:29:42.311	- Info  -	++++++++++++++++++ system configure network changed
+[122405438]	2025-06-13 17:29:42.312	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[122405438]	2025-06-13 17:29:42.313	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[122405433]	2025-06-13 19:33:39.137	- Info  -	[get_last_version_thread] update_rand_time:9; is_green:false; is_free_install:false ;is_control:false
+[122405428]	2025-06-13 19:33:39.141	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(198.18.0.50:443)
+[122405428]	2025-06-13 19:33:49.677	+Warning+	[passive:keepalive:] 198.18.0.50:443 disconnect by keepalive timeout(1769815186>=1769805013+10000)
+[122405436]	2025-06-14 02:57:51.930	* Error *	[online] online disconnected,error code:0
+[122405436]	2025-06-14 02:57:51.939	- Info  -	[oray][erroCode] errorcode=errorcode(0), product=0, type=0, inner code=0 [OnDisconnect:86]
+[122405436]	2025-06-14 02:57:51.947	- Info  -	[RemoteControl] disconnected server(198.18.1.240:443),error code:0
+[122405436]	2025-06-14 02:57:51.947	- Info  -	[service] disconnected server(198.18.1.240:443),errorcode:49152
+[122405436]	2025-06-14 02:57:51.947	- Info  -	[client] change status from online to offline
+[122405436]	2025-06-14 02:57:51.947	- Info  -	[client] change status to offline
+[122405436]	2025-06-14 02:57:51.948	- Info  -	[OnLogout] OnLogout start
+[122405436]	2025-06-14 02:57:51.949	- Info  -	[StopAllProjections] stop all projections
+[122405436]	2025-06-14 02:57:51.949	- Info  -	[client] retry login after 3000 seconds.
+[122405436]	2025-06-14 02:57:51.949	- Info  -	[OnLogout] OnLogout end
+[122405428]	2025-06-14 02:57:52.627	- Info  -	[CSockConnector] attempt to connect server sl-log.oray.net:443(198.18.0.78:443)
+[122405437]	2025-06-14 02:57:55.064	- Info  -	[client] Do login start with type: license login type
+[122405437]	2025-06-14 02:57:55.064	- Info  -	[client] change status to logging
+[122405437]	2025-06-14 02:57:55.067	- Info  -	[CSockConnector] attempt to connect server rc10-g4.oray.com:443(198.18.1.240:443)
+[122405436]	2025-06-14 02:57:55.287	- Info  -	[service] send logon
+[122405436]	2025-06-14 02:57:55.310	- Info  -	[service] logon OK, public address: 58.218.188.178:3229
+[122405436]	2025-06-14 02:57:55.347	- Info  -	[online] OK
+[122405436]	2025-06-14 02:57:55.348	- Info  -	[client] received name: mac mini, description: .
+[122405517]	2025-06-14 02:57:55.350	- Info  -	[service] registering client
+[122405436]	2025-06-14 02:57:55.368	- Info  -	[service] client registered
+[122405436]	2025-06-14 02:57:55.369	- Info  -	[client] change status to online
+[122405436]	2025-06-14 02:57:55.375	- Info  -	[OnLogin] OnLogin start
+[122405436]	2025-06-14 02:57:55.375	- Info  -	[OnLogin] OnLogin end
+[122405428]	2025-06-14 02:57:55.378	- Info  -	[CSockConnector] attempt to connect server api-std.sunlogin.oray.com:443(198.18.0.79:443)
+[122405428]	2025-06-14 02:57:55.379	- Info  -	[CSockConnector] attempt to connect server slapi.oray.net:443(198.18.0.74:443)
+[122405428]	2025-06-14 02:57:55.686	- Info  -	[LocalServer] call UpdateConfigImpl @ 6159
+[122405428]	2025-06-14 02:57:55.709	- Info  -	[local_server] set client accesspwd from [ChangeLoginTypeConfig : 9929]
+[122405437]	2025-06-14 02:57:56.210	- Info  -	[client] Do login end with license login type, status: online.
+[122405433]	2025-06-14 04:33:39.487	- Info  -	[get_last_version_thread] update_rand_time:12; is_green:false; is_free_install:false ;is_control:false
+[122405428]	2025-06-14 04:33:39.491	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(198.18.0.50:443)
+[122405428]	2025-06-14 04:33:49.935	+Warning+	[passive:keepalive:] 198.18.0.50:443 disconnect by keepalive timeout(1802215234>=1802205169+10000)
+[122405433]	2025-06-14 16:33:39.968	- Info  -	[get_last_version_thread] update_rand_time:7; is_green:false; is_free_install:false ;is_control:false
+[122405428]	2025-06-14 16:33:39.972	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(198.18.0.50:443)
+[122405428]	2025-06-14 16:33:50.422	+Warning+	[passive:keepalive:] 198.18.0.50:443 disconnect by keepalive timeout(1845415389>=1845405321+10000)
+[122405433]	2025-06-14 23:33:40.335	- Info  -	[get_last_version_thread] update_rand_time:7; is_green:false; is_free_install:false ;is_control:false
+[122405428]	2025-06-14 23:33:40.339	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(198.18.0.50:443)
+[122405428]	2025-06-14 23:33:50.910	+Warning+	[passive:keepalive:] 198.18.0.50:443 disconnect by keepalive timeout(1870615652>=1870605456+10000)
+[122405433]	2025-06-15 06:33:40.612	- Info  -	[get_last_version_thread] update_rand_time:11; is_green:false; is_free_install:false ;is_control:false
+[122405428]	2025-06-15 06:33:40.616	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(198.18.0.50:443)
+[122405428]	2025-06-15 06:33:51.109	+Warning+	[passive:keepalive:] 198.18.0.50:443 disconnect by keepalive timeout(1895815727>=1895805600+10000)
+[122405433]	2025-06-15 17:33:40.930	- Info  -	[get_last_version_thread] update_rand_time:8; is_green:false; is_free_install:false ;is_control:false
+[122405428]	2025-06-15 17:33:40.933	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(198.18.0.50:443)
+[122405428]	2025-06-15 17:33:51.404	+Warning+	[passive:keepalive:] 198.18.0.50:443 disconnect by keepalive timeout(1935415853>=1935405753+10000)
+[122405433]	2025-06-16 01:33:41.416	- Info  -	[get_last_version_thread] update_rand_time:9; is_green:false; is_free_install:false ;is_control:false
+[122405428]	2025-06-16 01:33:41.424	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(198.18.0.50:443)
+[122405428]	2025-06-16 01:33:51.954	+Warning+	[passive:keepalive:] 198.18.0.50:443 disconnect by keepalive timeout(1964216062>=1964205889+10000)
+[122405436]	2025-06-16 02:58:25.798	* Error *	[online] online disconnected,error code:0
+[122405436]	2025-06-16 02:58:25.804	- Info  -	[oray][erroCode] errorcode=errorcode(0), product=0, type=0, inner code=0 [OnDisconnect:86]
+[122405436]	2025-06-16 02:58:25.823	- Info  -	[RemoteControl] disconnected server(198.18.1.240:443),error code:0
+[122405436]	2025-06-16 02:58:25.823	- Info  -	[service] disconnected server(198.18.1.240:443),errorcode:49152
+[122405436]	2025-06-16 02:58:25.824	- Info  -	[client] change status from online to offline
+[122405436]	2025-06-16 02:58:25.830	- Info  -	[client] change status to offline
+[122405436]	2025-06-16 02:58:25.830	- Info  -	[OnLogout] OnLogout start
+[122405436]	2025-06-16 02:58:25.831	- Info  -	[StopAllProjections] stop all projections
+[122405436]	2025-06-16 02:58:25.832	- Info  -	[client] retry login after 1000 seconds.
+[122405436]	2025-06-16 02:58:25.832	- Info  -	[OnLogout] OnLogout end
+[122405428]	2025-06-16 02:58:26.491	- Info  -	[CSockConnector] attempt to connect server sl-log.oray.net:443(198.18.0.78:443)
+[122405437]	2025-06-16 02:58:26.977	- Info  -	[client] Do login start with type: license login type
+[122405437]	2025-06-16 02:58:26.977	- Info  -	[client] change status to logging
+[122405437]	2025-06-16 02:58:26.978	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[122405428]	2025-06-16 02:58:26.981	- Info  -	[CSockConnector] attempt to connect server slapi.oray.net:443(198.18.0.74:443)
+[122405428]	2025-06-16 02:58:27.287	- Info  -	[loginWithLicenses] [SunloginClient] IT process_run is 0
+[122405428]	2025-06-16 02:58:27.290	- Info  -	[CSockConnector] attempt to connect server rc10-g2.oray.com:443(198.18.1.189:443)
+[122405436]	2025-06-16 02:58:27.521	- Info  -	[service] send logon
+[122405436]	2025-06-16 02:58:27.544	- Info  -	[service] logon OK, public address: 58.218.188.178:4281
+[122405436]	2025-06-16 02:58:27.581	- Info  -	[online] OK
+[122405436]	2025-06-16 02:58:27.609	- Info  -	[client] received name: mac mini, description: .
+[122405517]	2025-06-16 02:58:27.610	- Info  -	[service] registering client
+[122405436]	2025-06-16 02:58:27.630	- Info  -	[service] client registered
+[122405436]	2025-06-16 02:58:27.630	- Info  -	[client] change status to online
+[122405436]	2025-06-16 02:58:27.664	- Info  -	[OnLogin] OnLogin start
+[122405436]	2025-06-16 02:58:27.664	- Info  -	[OnLogin] OnLogin end
+[122405428]	2025-06-16 02:58:27.672	- Info  -	[CSockConnector] attempt to connect server api-std.sunlogin.oray.com:443(198.18.0.79:443)
+[122405428]	2025-06-16 02:58:27.768	- Info  -	[LocalServer] call UpdateConfigImpl @ 6159
+[122405428]	2025-06-16 02:58:27.796	- Info  -	[local_server] set client accesspwd from [ChangeLoginTypeConfig : 9929]
+[122405437]	2025-06-16 02:58:28.092	- Info  -	[client] Do login end with license login type, status: online.
+[122405433]	2025-06-16 10:33:41.761	- Info  -	[get_last_version_thread] update_rand_time:10; is_green:false; is_free_install:false ;is_control:false
+[122405428]	2025-06-16 10:33:41.765	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(198.18.0.50:443)
+[122405428]	2025-06-16 10:33:52.243	+Warning+	[passive:keepalive:] 198.18.0.50:443 disconnect by keepalive timeout(1996616134>=1996606097+10000)
+[122405433]	2025-06-16 20:33:42.220	- Info  -	[get_last_version_thread] update_rand_time:9; is_green:false; is_free_install:false ;is_control:false
+[122405428]	2025-06-16 20:33:42.224	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(198.18.0.50:443)
+[122405428]	2025-06-16 20:33:55.173	+Warning+	[passive:keepalive:] 198.18.0.50:443 disconnect by keepalive timeout(2032618750>=2032606181+10000)
+[122405438]	2025-06-17 03:04:39.469	- Info  -	++++++++++++++++++ system configure network changed
+[122405438]	2025-06-17 03:04:39.473	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[122405438]	2025-06-17 03:04:39.473	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[122405438]	2025-06-17 03:04:43.051	- Info  -	++++++++++++++++++ system configure network changed
+[122405438]	2025-06-17 03:04:43.069	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[122405438]	2025-06-17 03:04:43.069	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[122405438]	2025-06-17 03:04:43.156	- Info  -	++++++++++++++++++ system configure network changed
+[122405438]	2025-06-17 03:04:43.157	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[122405438]	2025-06-17 03:04:43.157	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[122405433]	2025-06-17 05:33:42.589	- Info  -	[get_last_version_thread] update_rand_time:8; is_green:false; is_free_install:false ;is_control:false
+[122405428]	2025-06-17 05:33:42.592	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(198.18.0.50:443)
+[122405428]	2025-06-17 05:33:53.086	+Warning+	[passive:keepalive:] 198.18.0.50:443 disconnect by keepalive timeout(2065016433>=2065006324+10000)
+[122405433]	2025-06-17 13:33:42.971	- Info  -	[get_last_version_thread] update_rand_time:8; is_green:false; is_free_install:false ;is_control:false
+[122405428]	2025-06-17 13:33:42.975	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(198.18.0.50:443)
+[122405428]	2025-06-17 13:33:53.452	+Warning+	[passive:keepalive:] 198.18.0.50:443 disconnect by keepalive timeout(2093816567>=2093806454+10000)
+[122405433]	2025-06-17 21:33:43.285	- Info  -	[get_last_version_thread] update_rand_time:12; is_green:false; is_free_install:false ;is_control:false
+[122405428]	2025-06-17 21:33:43.288	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(198.18.0.50:443)
+[122405428]	2025-06-17 21:33:56.226	+Warning+	[passive:keepalive:] 198.18.0.50:443 disconnect by keepalive timeout(2122619152>=2122606587+10000)
+[122405436]	2025-06-18 04:57:24.414	* Error *	[online] online disconnected,error code:0
+[122405436]	2025-06-18 04:57:24.435	- Info  -	[oray][erroCode] errorcode=errorcode(0), product=0, type=0, inner code=0 [OnDisconnect:86]
+[122405436]	2025-06-18 04:57:24.439	- Info  -	[RemoteControl] disconnected server(198.18.1.189:443),error code:0
+[122405436]	2025-06-18 04:57:24.439	- Info  -	[service] disconnected server(198.18.1.189:443),errorcode:49152
+[122405436]	2025-06-18 04:57:24.440	- Info  -	[client] change status from online to offline
+[122405436]	2025-06-18 04:57:24.448	- Info  -	[client] change status to offline
+[122405436]	2025-06-18 04:57:24.449	- Info  -	[OnLogout] OnLogout start
+[122405436]	2025-06-18 04:57:24.449	- Info  -	[StopAllProjections] stop all projections
+[122405436]	2025-06-18 04:57:24.450	- Info  -	[client] retry login after 3000 seconds.
+[122405436]	2025-06-18 04:57:24.450	- Info  -	[OnLogout] OnLogout end
+[122405428]	2025-06-18 04:57:25.098	- Info  -	[CSockConnector] attempt to connect server sl-log.oray.net:443(198.18.0.78:443)
+[122405437]	2025-06-18 04:57:27.600	- Info  -	[client] Do login start with type: license login type
+[122405437]	2025-06-18 04:57:27.601	- Info  -	[client] change status to logging
+[122405437]	2025-06-18 04:57:27.602	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[122405428]	2025-06-18 04:57:27.604	- Info  -	[CSockConnector] attempt to connect server slapi.oray.net:443(198.18.0.74:443)
+[122405428]	2025-06-18 04:57:27.929	- Info  -	[loginWithLicenses] [SunloginClient] IT process_run is 0
+[122405428]	2025-06-18 04:57:27.932	- Info  -	[CSockConnector] attempt to connect server rc10.oray.com:443(198.18.1.236:443)
+[122405436]	2025-06-18 04:57:28.255	- Info  -	[service] send logon
+[122405436]	2025-06-18 04:57:28.281	- Info  -	[service] logon OK, public address: 58.218.188.178:2193
+[122405436]	2025-06-18 04:57:28.327	- Info  -	[online] OK
+[122405436]	2025-06-18 04:57:28.328	- Info  -	[client] received name: mac mini, description: .
+[122405517]	2025-06-18 04:57:28.329	- Info  -	[service] registering client
+[122405436]	2025-06-18 04:57:28.352	- Info  -	[service] client registered
+[122405436]	2025-06-18 04:57:28.353	- Info  -	[client] change status to online
+[122405436]	2025-06-18 04:57:28.358	- Info  -	[OnLogin] OnLogin start
+[122405436]	2025-06-18 04:57:28.358	- Info  -	[OnLogin] OnLogin end
+[122405428]	2025-06-18 04:57:28.361	- Info  -	[CSockConnector] attempt to connect server api-std.sunlogin.oray.com:443(198.18.0.79:443)
+[122405428]	2025-06-18 04:57:28.428	- Info  -	[LocalServer] call UpdateConfigImpl @ 6159
+[122405428]	2025-06-18 04:57:28.455	- Info  -	[local_server] set client accesspwd from [ChangeLoginTypeConfig : 9929]
+[122405437]	2025-06-18 04:57:28.746	- Info  -	[client] Do login end with license login type, status: online.
+[122405433]	2025-06-18 09:33:43.883	- Info  -	[get_last_version_thread] update_rand_time:8; is_green:false; is_free_install:false ;is_control:false
+[122405428]	2025-06-18 09:33:43.886	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(198.18.0.50:443)
+[122405428]	2025-06-18 09:33:56.926	+Warning+	[passive:keepalive:] 198.18.0.50:443 disconnect by keepalive timeout(2165819404>=2165806790+10000)
+[122405433]	2025-06-18 17:33:44.423	- Info  -	[get_last_version_thread] update_rand_time:12; is_green:false; is_free_install:false ;is_control:false
+[122405428]	2025-06-18 17:33:44.427	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(198.18.0.50:443)
+[122405428]	2025-06-18 17:33:54.962	+Warning+	[passive:keepalive:] 198.18.0.50:443 disconnect by keepalive timeout(2194617049>=2194606881+10000)
+[122405428]	2025-06-19 04:57:29.681	- Info  -	[CSockConnector] attempt to connect server api-std.sunlogin.oray.com:443(198.18.0.79:443)
+[122405433]	2025-06-19 05:33:45.149	- Info  -	[get_last_version_thread] update_rand_time:9; is_green:false; is_free_install:false ;is_control:false
+[122405428]	2025-06-19 05:33:45.152	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(198.18.0.50:443)
+[122405428]	2025-06-19 05:33:55.633	+Warning+	[passive:keepalive:] 198.18.0.50:443 disconnect by keepalive timeout(2237817132>=2237807019+10000)
+[122405433]	2025-06-19 14:33:45.737	- Info  -	[get_last_version_thread] update_rand_time:8; is_green:false; is_free_install:false ;is_control:false
+[122405428]	2025-06-19 14:33:45.740	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(198.18.0.50:443)
+[122405428]	2025-06-19 14:33:58.719	+Warning+	[passive:keepalive:] 198.18.0.50:443 disconnect by keepalive timeout(2270219777>=2270207194+10000)
+[122405433]	2025-06-19 22:33:46.270	- Info  -	[get_last_version_thread] update_rand_time:8; is_green:false; is_free_install:false ;is_control:false
+[122405428]	2025-06-19 22:33:46.273	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(198.18.0.50:443)
+[122405428]	2025-06-19 22:33:56.806	+Warning+	[passive:keepalive:] 198.18.0.50:443 disconnect by keepalive timeout(2299017472>=2299007304+10000)
+[122405428]	2025-06-20 04:57:31.009	- Info  -	[CSockConnector] attempt to connect server api-std.sunlogin.oray.com:443(198.18.0.79:443)
+[122405436]	2025-06-20 04:58:02.482	* Error *	[online] online disconnected,error code:0
+[122405436]	2025-06-20 04:58:02.482	- Info  -	[oray][erroCode] errorcode=errorcode(0), product=0, type=0, inner code=0 [OnDisconnect:86]
+[122405436]	2025-06-20 04:58:02.495	- Info  -	[RemoteControl] disconnected server(198.18.1.236:443),error code:0
+[122405436]	2025-06-20 04:58:02.495	- Info  -	[service] disconnected server(198.18.1.236:443),errorcode:49152
+[122405436]	2025-06-20 04:58:02.496	- Info  -	[client] change status from online to offline
+[122405436]	2025-06-20 04:58:02.497	- Info  -	[client] change status to offline
+[122405436]	2025-06-20 04:58:02.500	- Info  -	[OnLogout] OnLogout start
+[122405436]	2025-06-20 04:58:02.500	- Info  -	[StopAllProjections] stop all projections
+[122405436]	2025-06-20 04:58:02.502	- Info  -	[OnLogout] OnLogout end
+[122405428]	2025-06-20 04:58:03.139	- Info  -	[CSockConnector] attempt to connect server sl-log.oray.net:443(198.18.0.78:443)
+[122405433]	2025-06-20 05:00:18.816	- Info  -	[LoadProxy] Not use proxy
+[122405433]	2025-06-20 05:00:18.816	- Info  -	[client] retry login after 0 seconds.
+[122405437]	2025-06-20 05:00:18.816	- Info  -	[client] Do login start with type: license login type
+[122405437]	2025-06-20 05:00:18.816	- Info  -	[client] change status to logging
+[122405437]	2025-06-20 05:00:18.817	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[122405428]	2025-06-20 05:00:18.821	- Info  -	[CSockConnector] attempt to connect server slapi.oray.net:443(198.18.0.74:443)
+[122405428]	2025-06-20 05:00:19.137	- Info  -	[loginWithLicenses] [SunloginClient] IT process_run is 0
+[122405428]	2025-06-20 05:00:19.140	- Info  -	[CSockConnector] attempt to connect server rc10-g3.oray.com:443(198.18.1.247:443)
+[122405436]	2025-06-20 05:00:19.424	- Info  -	[service] send logon
+[122405436]	2025-06-20 05:00:19.450	- Info  -	[service] logon OK, public address: 58.218.188.178:2218
+[122405436]	2025-06-20 05:00:19.492	- Info  -	[online] OK
+[122405436]	2025-06-20 05:00:19.493	- Info  -	[client] received name: mac mini, description: .
+[122405517]	2025-06-20 05:00:19.493	- Info  -	[service] registering client
+[122405436]	2025-06-20 05:00:19.513	- Info  -	[service] client registered
+[122405436]	2025-06-20 05:00:19.513	- Info  -	[client] change status to online
+[122405428]	2025-06-20 05:00:19.515	- Info  -	[CSockConnector] attempt to connect server sl-log.oray.net:443(198.18.0.78:443)
+[122405436]	2025-06-20 05:00:19.519	- Info  -	[OnLogin] OnLogin start
+[122405436]	2025-06-20 05:00:19.519	- Info  -	[OnLogin] OnLogin end
+[122405428]	2025-06-20 05:00:19.521	- Info  -	[CSockConnector] attempt to connect server api-std.sunlogin.oray.com:443(198.18.0.79:443)
+[122405428]	2025-06-20 05:00:19.590	- Info  -	[LocalServer] call UpdateConfigImpl @ 6159
+[122405428]	2025-06-20 05:00:19.617	- Info  -	[local_server] set client accesspwd from [ChangeLoginTypeConfig : 9929]
+[122405437]	2025-06-20 05:00:19.950	- Info  -	[client] Do login end with license login type, status: online.
+[122405433]	2025-06-20 06:33:46.809	- Info  -	[get_last_version_thread] update_rand_time:11; is_green:false; is_free_install:false ;is_control:false
+[122405428]	2025-06-20 06:33:46.813	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(198.18.0.50:443)
+[122405428]	2025-06-20 06:33:57.405	+Warning+	[passive:keepalive:] 198.18.0.50:443 disconnect by keepalive timeout(2327817679>=2327807529+10000)
+[122405438]	2025-06-20 08:48:44.976	- Info  -	++++++++++++++++++ system configure network changed
+[122405438]	2025-06-20 08:48:44.982	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[122405438]	2025-06-20 08:48:44.982	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[122405438]	2025-06-20 08:49:21.192	- Info  -	++++++++++++++++++ system configure network changed
+[122405438]	2025-06-20 08:49:21.193	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[122405438]	2025-06-20 08:49:21.193	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[122405438]	2025-06-20 16:23:47.694	- Info  -	++++++++++++++++++ system configure network changed
+[122405438]	2025-06-20 16:23:47.698	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[122405438]	2025-06-20 16:23:47.699	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[122405438]	2025-06-20 16:25:20.522	- Info  -	++++++++++++++++++ system configure network changed
+[122405438]	2025-06-20 16:25:20.523	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[122405438]	2025-06-20 16:25:20.523	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[165621251]	2025-06-20 16:25:48.067	+Warning+	[passive:keepalive:] 198.18.1.247:443 disconnect by keepalive timeout(2363328522>=2363179862+120000)
+[165621251]	2025-06-20 16:25:48.067	* Error *	[online] online disconnected,error code:0
+[165621251]	2025-06-20 16:25:48.068	- Info  -	[oray][erroCode] errorcode=errorcode(0), product=0, type=0, inner code=0 [OnDisconnect:86]
+[165621251]	2025-06-20 16:25:48.069	- Info  -	[RemoteControl] disconnected server(198.18.1.247:443),error code:0
+[165621251]	2025-06-20 16:25:48.069	- Info  -	[service] disconnected server(198.18.1.247:443),errorcode:0
+[165621251]	2025-06-20 16:25:48.069	- Info  -	[client] change status from online to offline
+[165621251]	2025-06-20 16:25:48.071	- Info  -	[client] change status to offline
+[165621251]	2025-06-20 16:25:48.071	- Info  -	[OnLogout] OnLogout start
+[165621251]	2025-06-20 16:25:48.071	- Info  -	[StopAllProjections] stop all projections
+[165621251]	2025-06-20 16:25:48.071	- Info  -	[client] retry login after 3000 seconds.
+[165621251]	2025-06-20 16:25:48.071	- Info  -	[OnLogout] OnLogout end
+[122405428]	2025-06-20 16:25:48.075	- Info  -	[CSockConnector] attempt to connect server sl-log.oray.net:443(198.18.0.78:443)
+[122405437]	2025-06-20 16:25:51.145	- Info  -	[client] Do login start with type: license login type
+[122405437]	2025-06-20 16:25:51.145	- Info  -	[client] change status to logging
+[122405437]	2025-06-20 16:25:51.150	- Info  -	[CSockConnector] attempt to connect server rc10-g3.oray.com:443(198.18.1.247:443)
+[122405436]	2025-06-20 16:25:51.398	- Info  -	[service] send logon
+[122405436]	2025-06-20 16:25:51.421	- Info  -	[service] logon OK, public address: 58.218.188.178:2202
+[122405436]	2025-06-20 16:25:51.464	- Info  -	[online] OK
+[122405436]	2025-06-20 16:25:51.465	- Info  -	[client] received name: mac mini, description: .
+[122405517]	2025-06-20 16:25:51.466	- Info  -	[service] registering client
+[122405436]	2025-06-20 16:25:51.486	- Info  -	[service] client registered
+[122405436]	2025-06-20 16:25:51.487	- Info  -	[client] change status to online
+[122405436]	2025-06-20 16:25:51.492	- Info  -	[OnLogin] OnLogin start
+[122405436]	2025-06-20 16:25:51.492	- Info  -	[OnLogin] OnLogin end
+[122405428]	2025-06-20 16:25:51.495	- Info  -	[CSockConnector] attempt to connect server api-std.sunlogin.oray.com:443(198.18.0.79:443)
+[122405428]	2025-06-20 16:25:51.497	- Info  -	[CSockConnector] attempt to connect server slapi.oray.net:443(198.18.0.74:443)
+[122405428]	2025-06-20 16:25:51.834	- Info  -	[LocalServer] call UpdateConfigImpl @ 6159
+[122405428]	2025-06-20 16:25:51.860	- Info  -	[local_server] set client accesspwd from [ChangeLoginTypeConfig : 9929]
+[122405437]	2025-06-20 16:25:52.157	- Info  -	[client] Do login end with license login type, status: online.
+[122405439]	2025-06-20 16:25:54.787	- Info  -	[server::handler] agent(100003) client disconnected, user(wangyan), console()!
+
+[122405439]	2025-06-20 16:25:54.789	- Info  -	[mdesktop] revoke_remote disconnect 35956(-1931632053)
+[122405439]	2025-06-20 16:25:54.789	- Info  -	[mdesktop] revoke remote 35956 OK(-1931632052)
+[122405438]	2025-06-20 16:25:55.429	- Info  -	++++++++++++++++++ system configure network changed
+[122405438]	2025-06-20 16:25:55.429	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[122405438]	2025-06-20 16:25:55.429	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[122405438]	2025-06-20 16:25:55.903	- Info  -	++++++++++++++++++ system configure changed old(_mbsetupuser) -> current()
+[122405438]	2025-06-20 16:25:55.903	- Info  -	[mdesktop] 
+[122405438]	2025-06-20 16:25:55.903	- Info  -	[wts_thread] *********************** Waiting for user  login.

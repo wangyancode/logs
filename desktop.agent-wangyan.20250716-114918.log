@@ -1,0 +1,518 @@
+[6901]	2025-06-20 16:26:49.152	- Info  -	applicationWillFinishLaunching
+[6901]	2025-06-20 16:26:49.154	- Info  -	sid(100003), username(wangyan)
+[6901]	2025-06-20 16:26:49.154	+Warning+	[agent] detect service ok.
+[6901]	2025-06-20 16:26:49.154	- Info  -	init instance
+[7135]	2025-06-20 16:26:50.213	- Info  -	[CSockConnector] attempt to connect server 127.0.0.1:16067(127.0.0.1:16067)
+[7135]	2025-06-20 16:26:50.238	- Info  -	[client::handler] connected sid(100003)
+[7135]	2025-06-20 16:26:50.238	- Info  -	[client] send CMD_AGENT_SID
+[7135]	2025-07-01 11:16:02.598	- Info  -	[agent] [OnPluginStop] notify = .
+[7135]	2025-07-01 11:16:02.600	- Info  -	plugin stop >>
+[7135]	2025-07-01 11:16:02.600	- Info  -	plugin stop <<
+[7135]	2025-07-01 11:16:02.600	- Info  -	[agent] client::handler::OnPluginStart
+[7135]	2025-07-01 11:16:02.600	- Info  -	[desktop_agent] plugin start enter
+[7135]	2025-07-01 11:16:02.600	- Info  -	plugin stop >>
+[7135]	2025-07-01 11:16:02.600	- Info  -	plugin stop <<
+[7135]	2025-07-01 11:16:02.600	- Info  -	plugin start
+[26907372]	2025-07-01 11:16:04.063	- Info  -	[MacForwardVideoStream] UpdateCaptureParam index 0 size 1920x1080 scale 1.0 output 1920x1080
+[26907372]	2025-07-01 11:16:04.063	- Info  -	[ScreenCaptureAdapter] width 1920, height 1080, scale 1.0
+[26907372]	2025-07-01 11:16:04.064	- Info  -	[displaystream] init size 1920x1080 scale 1.0 access 1 displayid 4 
+[26907372]	2025-07-01 11:16:04.075	- Info  -	[sl_codec] create decoder success, image_id 8
+[26907372]	2025-07-01 11:16:04.075	* Error *	[BlackScreen] create impl fail
+[26907374]	2025-07-01 11:16:04.075	- Info  -	[ClientDesktopMgr] InitListener at 540
+[26907372]	2025-07-01 11:16:04.075	- Info  -	[ClientDesktopMgr] OnCtrlMessage ctrl 1,type 1
+[26907372]	2025-07-01 11:16:04.075	- Info  -	[ClientDesktopMgr] run display start
+[26907374]	2025-07-01 11:16:04.075	- Info  -	[ClientDesktopMgr] InitListener at 540
+[26907374]	2025-07-01 11:16:04.075	- Info  -	[ClientDesktopMgr] DoStartOtherModules at 1905
+[26907372]	2025-07-01 11:16:04.075	- Info  -	[DesktopMonitorServer] bDelayedRun_Sendconfig = TRUE
+[26907372]	2025-07-01 11:16:04.075	- Info  -	[desktop/348140] GetInitBuffer image header compress size(20) time(931776030).
+[26907372]	2025-07-01 11:16:04.075	- Info  -	[desktop][Init] recv prefix message, limit [1920x1080], enable 1 at 525
+[26907372]	2025-07-01 11:16:04.076	- Info  -	[ClientDesktopMgr] run display finish
+[26907372]	2025-07-01 11:16:04.076	- Info  -	[ClientDesktopMgr] OnCtrlMessage ctrl 1,type 3
+[26907372]	2025-07-01 11:16:04.076	- Info  -	[ClientDesktopMgr] OnCtrlMessage ctrl 1,type 6
+[26907372]	2025-07-01 11:16:04.076	- Info  -	[ClientDesktopMgr] OnCtrlMessage ctrl 1,type 7
+[26907374]	2025-07-01 11:16:04.076	- Info  -	[ClientDesktopMgr]Run Keyboard and mouse control ok
+[26907372]	2025-07-01 11:16:04.076	- Info  -	[DesktopMonitorServer] OnProtoSetCompression format 9 fps 15 mode 0
+[26907372]	2025-07-01 11:16:04.076	- Info  -	[DesktopMonitorServer] OnProtoStartDesktopStream
+[26907372]	2025-07-01 11:16:04.076	- Info  -	[UnifiedEncoderAdapter]open width 1920, height 1080, format 9
+[26907372]	2025-07-01 11:16:04.076	- Info  -	[MacH264EncoderBridge]open width 1920, height 1080, mode 1
+[26907374]	2025-07-01 11:16:04.076	- Info  -	[clipboard] run clipboard
+[26907372]	2025-07-01 11:16:04.076	- Info  -	[VideoToolboxEncoder] start
+[26907372]	2025-07-01 11:16:04.076	- Info  -	[VideoToolboxEncoder] width: 1920, height: 1080, bitrate: 199065600, fps: 30 mode 1
+[26907374]	2025-07-01 11:16:04.076	- Info  -	[clipboard] Query Version(2) request is send
+[26907374]	2025-07-01 11:16:04.076	- Info  -	[clipboard] start clipboard...
+[26907374]	2025-07-01 11:16:04.076	- Info  -	[clipboard] start clipboard ok.
+[26907372]	2025-07-01 11:16:04.206	- Info  -	[MacH264EncoderBridge] hw encoder open successs
+[26907372]	2025-07-01 11:16:04.206	- Info  -	[displaystream] stopCapture start
+[26907372]	2025-07-01 11:16:04.206	- Info  -	[displaystream] stopCapture finish
+[26907372]	2025-07-01 11:16:04.206	- Info  -	[displaystream] startCapture mode 1
+[26907372]	2025-07-01 11:16:04.206	- Info  -	[displaystream] createcapturesession displayid 4, src: 1920x1080 out: 1920x1080, fps: 30, scale 1.0, out format 0
+[26907372]	2025-07-01 11:16:04.264	- Info  -	[displaystream] startCapture success
+[26907372]	2025-07-01 11:16:04.264	- Info  -	[DesktopMonitorServer] ID_START_DESKTOP_STREAM 931776218
+[26907372]	2025-07-01 11:16:04.264	- Info  -	[DesktopMonitorServer] OnProtoSetCompression format 9 fps 15 mode 0
+[26906956]	2025-07-01 11:16:04.330	- Info  -	[MacForwardVideoStream] first capture frame arrived
+[26907373]	2025-07-01 11:16:04.330	- Info  -	[CSingleDesktop] first render display start, channel 0
+[26907373]	2025-07-01 11:16:04.330	- Info  -	[MacForwardVideoStream] CreateInitBuffer
+[26907373]	2025-07-01 11:16:04.330	- Info  -	[MacForwardVideoStream] start encode first frame
+[26907661]	2025-07-01 11:16:04.348	- Info  -	[MacForwardVideoStream] first encode frame arrive
+[26907373]	2025-07-01 11:16:04.349	- Info  -	[MacForwardVideoStream] finish encode first frame ok 1
+[26907373]	2025-07-01 11:16:04.349	- Info  -	[ClientDesktopMgr] send first frame
+[26907373]	2025-07-01 11:16:04.349	- Info  -	[ClientDesktopMgr] run statistical task
+[26907373]	2025-07-01 11:16:04.354	- Info  -	[CSingleDesktop] first render display finish, channel 0
+[26907372]	2025-07-01 11:16:04.818	- Info  -	[X264_CrfCalculator] rf control received first remote frame count.
+[26907375]	2025-07-01 11:16:04.868	- Info  -	[BufferSender] send first frame
+[26907372]	2025-07-01 11:16:05.564	+Warning+	[ClientDesktopMgr]packet losted, message1 :32,12, message2:11,4, size=20 channelId=0
+[26907372]	2025-07-01 11:16:05.564	- Info  -	[clipboard] OnReceiveQueryVersionReq 2, func: 7
+[26907372]	2025-07-01 11:16:05.564	- Info  -	[clipboard] Query Version(2) response is send
+[26907372]	2025-07-01 11:16:05.564	+Warning+	[ClientDesktopMgr]packet losted, message1 :32,12, message2:11,4, size=20 channelId=0
+[26907372]	2025-07-01 11:16:05.564	+Warning+	[ClientDesktopMgr]packet losted, message1 :32,12, message2:11,4, size=20 channelId=0
+[26907372]	2025-07-01 11:16:05.596	+Warning+	[ClientDesktopMgr]packet losted, message1 :32,12, message2:11,4, size=20 channelId=0
+[26907372]	2025-07-01 11:16:05.704	- Info  -	[DesktopMonitorServer] OnProtoSetFrameRate
+[26907372]	2025-07-01 11:16:05.704	- Info  -	[ClientDesktopMgr] Receive MY REQ_REMOTE_UPDATE message
+[26907372]	2025-07-01 11:16:05.704	- Info  -	[DesktopMonitorServer] OnProtoSetFrameRate
+[7135]	2025-07-01 11:18:22.955	- Info  -	[agent] [OnPluginStop] notify = .
+[7135]	2025-07-01 11:18:22.956	- Info  -	plugin stop >>
+[7135]	2025-07-01 11:18:22.956	- Info  -	[stop_plugin] plugin stop exit_lock_ with false
+[26907372]	2025-07-01 11:18:22.956	* Error *	m_queInput.PopFrontBuffer == 0, timeout( -1 )
+[26907372]	2025-07-01 11:18:22.985	- Info  -	[displaystream] stopCapture start
+[26907702]	2025-07-01 11:18:22.986	- Info  -	[displaystream] status: Stopped
+[26907372]	2025-07-01 11:18:22.987	- Info  -	[displaystream] stopCapture finish
+[26907372]	2025-07-01 11:18:22.987	- Info  -	[MacH264EncoderBridge] stop
+[26907372]	2025-07-01 11:18:22.987	- Info  -	[VideoToolboxEncoder] stop
+[26907372]	2025-07-01 11:18:22.988	- Info  -	[MacH264EncoderBridge] stop
+[26907372]	2025-07-01 11:18:22.988	- Info  -	[clipboard] pause clipboard
+[26907372]	2025-07-01 11:18:23.010	- Info  -	[clipboard] stop Clipboard ok
+[26907372]	2025-07-01 11:18:23.010	- Info  -	[displaystream] stopCapture start
+[26907372]	2025-07-01 11:18:23.010	- Info  -	[displaystream] stopCapture finish
+[26907372]	2025-07-01 11:18:23.010	- Info  -	[displaystream] stopCapture start
+[26907372]	2025-07-01 11:18:23.010	- Info  -	[displaystream] stopCapture finish
+[26907372]	2025-07-01 11:18:23.010	- Info  -	[displaystream] stopCapture start
+[26907372]	2025-07-01 11:18:23.010	- Info  -	[displaystream] stopCapture finish
+[26907372]	2025-07-01 11:18:23.011	- Info  -	[client_plugin_thread] end @ 3144
+[7135]	2025-07-01 11:18:23.011	- Info  -	plugin stop <<
+[7135]	2025-07-01 11:19:33.796	- Info  -	[agent] [OnPluginStop] notify = .
+[7135]	2025-07-01 11:19:33.797	- Info  -	plugin stop >>
+[7135]	2025-07-01 11:19:33.797	- Info  -	plugin stop <<
+[7135]	2025-07-01 11:19:33.799	- Info  -	[agent] client::handler::OnPluginStart
+[7135]	2025-07-01 11:19:33.799	- Info  -	[desktop_agent] plugin start enter
+[7135]	2025-07-01 11:19:33.799	- Info  -	plugin stop >>
+[7135]	2025-07-01 11:19:33.799	- Info  -	plugin stop <<
+[7135]	2025-07-01 11:19:33.799	- Info  -	plugin start
+[26912159]	2025-07-01 11:19:34.912	- Info  -	[MacForwardVideoStream] UpdateCaptureParam index 0 size 1920x1080 scale 1.0 output 1920x1080
+[26912159]	2025-07-01 11:19:34.912	- Info  -	[ScreenCaptureAdapter] width 1920, height 1080, scale 1.0
+[26912159]	2025-07-01 11:19:34.913	- Info  -	[displaystream] init size 1920x1080 scale 1.0 access 1 displayid 4 
+[26912159]	2025-07-01 11:19:34.913	- Info  -	[sl_codec] create decoder success, image_id 8
+[26912159]	2025-07-01 11:19:34.913	* Error *	[BlackScreen] create impl fail
+[26912159]	2025-07-01 11:19:34.913	- Info  -	[ClientDesktopMgr] OnCtrlMessage ctrl 1,type 1
+[26912159]	2025-07-01 11:19:34.913	- Info  -	[ClientDesktopMgr] run display start
+[26912161]	2025-07-01 11:19:34.913	- Info  -	[ClientDesktopMgr] InitListener at 540
+[26912161]	2025-07-01 11:19:34.914	- Info  -	[ClientDesktopMgr] InitListener at 540
+[26912161]	2025-07-01 11:19:34.914	- Info  -	[ClientDesktopMgr] DoStartOtherModules at 1905
+[26912159]	2025-07-01 11:19:34.914	- Info  -	[DesktopMonitorServer] bDelayedRun_Sendconfig = TRUE
+[26912159]	2025-07-01 11:19:34.914	- Info  -	[desktop/345680] GetInitBuffer image header compress size(20) time(931986864).
+[26912159]	2025-07-01 11:19:34.914	- Info  -	[desktop][Init] recv prefix message, limit [1920x1080], enable 1 at 525
+[26912159]	2025-07-01 11:19:34.914	- Info  -	[ClientDesktopMgr] run display finish
+[26912159]	2025-07-01 11:19:34.914	- Info  -	[ClientDesktopMgr] OnCtrlMessage ctrl 1,type 3
+[26912159]	2025-07-01 11:19:34.914	- Info  -	[ClientDesktopMgr] OnCtrlMessage ctrl 1,type 6
+[26912159]	2025-07-01 11:19:34.914	- Info  -	[ClientDesktopMgr] OnCtrlMessage ctrl 1,type 7
+[26912159]	2025-07-01 11:19:34.914	+Warning+	[ClientDesktopMgr]packet losted, message1 :242,8, message2:15,0, size=16 channelId=0
+[26912159]	2025-07-01 11:19:34.914	- Info  -	[DesktopMonitorServer] OnProtoSetCompression format 9 fps 15 mode 0
+[26912161]	2025-07-01 11:19:34.914	- Info  -	[ClientDesktopMgr]Run Keyboard and mouse control ok
+[26912159]	2025-07-01 11:19:34.914	- Info  -	[DesktopMonitorServer] OnProtoStartDesktopStream
+[26912159]	2025-07-01 11:19:34.914	- Info  -	[UnifiedEncoderAdapter]open width 1920, height 1080, format 9
+[26912159]	2025-07-01 11:19:34.914	- Info  -	[MacH264EncoderBridge]open width 1920, height 1080, mode 1
+[26912161]	2025-07-01 11:19:34.914	- Info  -	[clipboard] run clipboard
+[26912161]	2025-07-01 11:19:34.914	- Info  -	[clipboard] Query Version(2) request is send
+[26912161]	2025-07-01 11:19:34.914	- Info  -	[clipboard] start clipboard...
+[26912159]	2025-07-01 11:19:34.914	- Info  -	[VideoToolboxEncoder] start
+[26912159]	2025-07-01 11:19:34.914	- Info  -	[VideoToolboxEncoder] width: 1920, height: 1080, bitrate: 199065600, fps: 30 mode 1
+[26912161]	2025-07-01 11:19:34.914	- Info  -	[clipboard] start clipboard ok.
+[26912159]	2025-07-01 11:19:34.938	- Info  -	[MacH264EncoderBridge] hw encoder open successs
+[26912159]	2025-07-01 11:19:34.938	- Info  -	[displaystream] stopCapture start
+[26912159]	2025-07-01 11:19:34.938	- Info  -	[displaystream] stopCapture finish
+[26912159]	2025-07-01 11:19:34.938	- Info  -	[displaystream] startCapture mode 1
+[26912159]	2025-07-01 11:19:34.938	- Info  -	[displaystream] createcapturesession displayid 4, src: 1920x1080 out: 1920x1080, fps: 30, scale 1.0, out format 0
+[26912159]	2025-07-01 11:19:34.973	- Info  -	[displaystream] startCapture success
+[26912159]	2025-07-01 11:19:34.973	- Info  -	[DesktopMonitorServer] ID_START_DESKTOP_STREAM 931986923
+[26912159]	2025-07-01 11:19:34.973	- Info  -	[DesktopMonitorServer] OnProtoSetCompression format 9 fps 15 mode 0
+[26912089]	2025-07-01 11:19:34.989	- Info  -	[MacForwardVideoStream] first capture frame arrived
+[26912160]	2025-07-01 11:19:34.989	- Info  -	[CSingleDesktop] first render display start, channel 0
+[26912160]	2025-07-01 11:19:34.989	- Info  -	[MacForwardVideoStream] CreateInitBuffer
+[26912160]	2025-07-01 11:19:34.989	- Info  -	[MacForwardVideoStream] start encode first frame
+[26912219]	2025-07-01 11:19:35.014	- Info  -	[MacForwardVideoStream] first encode frame arrive
+[26912160]	2025-07-01 11:19:35.014	- Info  -	[MacForwardVideoStream] finish encode first frame ok 1
+[26912160]	2025-07-01 11:19:35.014	- Info  -	[ClientDesktopMgr] send first frame
+[26912160]	2025-07-01 11:19:35.014	- Info  -	[ClientDesktopMgr] run statistical task
+[26912160]	2025-07-01 11:19:35.019	- Info  -	[CSingleDesktop] first render display finish, channel 0
+[26912159]	2025-07-01 11:19:35.376	- Info  -	[X264_CrfCalculator] rf control received first remote frame count.
+[26912162]	2025-07-01 11:19:35.394	- Info  -	[BufferSender] send first frame
+[26912162]	2025-07-01 11:19:35.710	- Info  -	[BufferSender] send first frame
+[26912159]	2025-07-01 11:19:35.710	- Info  -	[DesktopMonitorServer] OnProtoSetFrameRate
+[26912159]	2025-07-01 11:19:35.710	- Info  -	[ClientDesktopMgr] Receive MY REQ_REMOTE_UPDATE message
+[26912162]	2025-07-01 11:19:35.710	- Info  -	[BufferSender] send first frame
+[26912159]	2025-07-01 11:19:35.710	- Info  -	[DesktopMonitorServer] OnProtoSetFrameRate
+[26912159]	2025-07-01 11:19:36.742	+Warning+	[ClientDesktopMgr]packet losted, message1 :32,12, message2:11,4, size=20 channelId=0
+[26912159]	2025-07-01 11:19:36.744	- Info  -	[clipboard] OnReceiveQueryVersionReq 2, func: 7
+[26912159]	2025-07-01 11:19:36.744	- Info  -	[clipboard] Query Version(2) response is send
+[26912159]	2025-07-01 11:19:36.744	+Warning+	[ClientDesktopMgr]packet losted, message1 :32,12, message2:11,4, size=20 channelId=0
+[26912159]	2025-07-01 11:19:36.744	+Warning+	[ClientDesktopMgr]packet losted, message1 :32,12, message2:11,4, size=20 channelId=0
+[26912159]	2025-07-01 11:19:36.745	+Warning+	[ClientDesktopMgr]packet losted, message1 :32,12, message2:11,4, size=20 channelId=0
+[7135]	2025-07-01 11:19:58.137	- Info  -	[agent] [OnPluginStop] notify = .
+[7135]	2025-07-01 11:19:58.137	- Info  -	plugin stop >>
+[7135]	2025-07-01 11:19:58.137	- Info  -	[stop_plugin] plugin stop exit_lock_ with false
+[26912159]	2025-07-01 11:19:58.137	* Error *	m_queInput.PopFrontBuffer == 0, timeout( -1 )
+[26912159]	2025-07-01 11:19:58.167	- Info  -	[displaystream] stopCapture start
+[26912159]	2025-07-01 11:20:01.243	- Info  -	[displaystream] stopCapture finish
+[26912159]	2025-07-01 11:20:01.244	- Info  -	[MacH264EncoderBridge] stop
+[26912159]	2025-07-01 11:20:01.244	- Info  -	[VideoToolboxEncoder] stop
+[26912159]	2025-07-01 11:20:01.245	- Info  -	[MacH264EncoderBridge] stop
+[26912159]	2025-07-01 11:20:01.245	- Info  -	[clipboard] pause clipboard
+[26912159]	2025-07-01 11:20:01.281	- Info  -	[clipboard] stop Clipboard ok
+[26912159]	2025-07-01 11:20:01.281	- Info  -	[displaystream] stopCapture start
+[26912159]	2025-07-01 11:20:01.281	- Info  -	[displaystream] stopCapture finish
+[26912159]	2025-07-01 11:20:01.281	- Info  -	[displaystream] stopCapture start
+[26912159]	2025-07-01 11:20:01.281	- Info  -	[displaystream] stopCapture finish
+[26912159]	2025-07-01 11:20:01.281	- Info  -	[displaystream] stopCapture start
+[26912159]	2025-07-01 11:20:01.281	- Info  -	[displaystream] stopCapture finish
+[26912159]	2025-07-01 11:20:01.281	- Info  -	[client_plugin_thread] end @ 3144
+[7135]	2025-07-01 11:20:01.281	- Info  -	plugin stop <<
+[7135]	2025-07-15 08:54:32.158	- Info  -	[agent] [OnPluginStop] notify = .
+[7135]	2025-07-15 08:54:32.159	- Info  -	plugin stop >>
+[7135]	2025-07-15 08:54:32.159	- Info  -	plugin stop <<
+[7135]	2025-07-15 08:54:32.159	- Info  -	[agent] client::handler::OnPluginStart
+[7135]	2025-07-15 08:54:32.160	- Info  -	[desktop_agent] plugin start enter
+[7135]	2025-07-15 08:54:32.160	- Info  -	plugin stop >>
+[7135]	2025-07-15 08:54:32.160	- Info  -	plugin stop <<
+[7135]	2025-07-15 08:54:32.160	- Info  -	plugin start
+[61643703]	2025-07-15 08:54:33.250	- Info  -	[MacForwardVideoStream] UpdateCaptureParam index 0 size 1920x1080 scale 1.0 output 1920x1080
+[61643703]	2025-07-15 08:54:33.251	- Info  -	[ScreenCaptureAdapter] width 1920, height 1080, scale 1.0
+[61643703]	2025-07-15 08:54:33.251	- Info  -	[displaystream] init size 1920x1080 scale 1.0 access 1 displayid 4 
+[61643703]	2025-07-15 08:54:33.254	- Info  -	[sl_codec] create decoder success, image_id 8
+[61643703]	2025-07-15 08:54:33.255	* Error *	[BlackScreen] create impl fail
+[61643705]	2025-07-15 08:54:33.259	- Info  -	[ClientDesktopMgr] InitListener at 540
+[61643703]	2025-07-15 08:54:33.259	+Warning+	[ClientDesktopMgr]packet losted, message1 :242,169, message2:34,161, size=177 channelId=0
+[61643705]	2025-07-15 08:54:33.259	- Info  -	[ClientDesktopMgr] InitListener at 540
+[61643705]	2025-07-15 08:54:33.259	- Info  -	[ClientDesktopMgr] DoStartOtherModules at 1905
+[61643703]	2025-07-15 08:54:33.259	- Info  -	[ClientDesktopMgr] OnCtrlMessage ctrl 1,type 1
+[61643703]	2025-07-15 08:54:33.259	- Info  -	[ClientDesktopMgr] run display start
+[61643703]	2025-07-15 08:54:33.259	- Info  -	[DesktopMonitorServer] bDelayedRun_Sendconfig = TRUE
+[61643703]	2025-07-15 08:54:33.259	- Info  -	[desktop/345360] GetInitBuffer image header compress size(20) time(2132875660).
+[61643703]	2025-07-15 08:54:33.259	- Info  -	[desktop][Init] recv prefix message, limit [1920x1080], enable 1 at 525
+[61643703]	2025-07-15 08:54:33.259	- Info  -	[ClientDesktopMgr] run display finish
+[61643703]	2025-07-15 08:54:33.259	- Info  -	[ClientDesktopMgr] OnCtrlMessage ctrl 1,type 3
+[61643703]	2025-07-15 08:54:33.259	- Info  -	[ClientDesktopMgr] OnCtrlMessage ctrl 1,type 6
+[61643703]	2025-07-15 08:54:33.259	- Info  -	[ClientDesktopMgr] OnCtrlMessage ctrl 1,type 7
+[61643703]	2025-07-15 08:54:33.259	+Warning+	[ClientDesktopMgr]packet losted, message1 :242,8, message2:15,0, size=16 channelId=0
+[61643705]	2025-07-15 08:54:33.259	- Info  -	[ClientDesktopMgr]Run Keyboard and mouse control ok
+[61643703]	2025-07-15 08:54:33.263	- Info  -	[DesktopMonitorServer] OnProtoSetCompression format 9 fps 15 mode 0
+[61643703]	2025-07-15 08:54:33.263	- Info  -	[DesktopMonitorServer] OnProtoStartDesktopStream
+[61643703]	2025-07-15 08:54:33.263	- Info  -	[UnifiedEncoderAdapter]open width 1920, height 1080, format 9
+[61643703]	2025-07-15 08:54:33.263	- Info  -	[MacH264EncoderBridge]open width 1920, height 1080, mode 1
+[61643703]	2025-07-15 08:54:33.263	- Info  -	[VideoToolboxEncoder] start
+[61643703]	2025-07-15 08:54:33.263	- Info  -	[VideoToolboxEncoder] width: 1920, height: 1080, bitrate: 199065600, fps: 30 mode 1
+[61643705]	2025-07-15 08:54:33.263	- Info  -	[clipboard] run clipboard
+[61643705]	2025-07-15 08:54:33.263	- Info  -	[clipboard] Query Version(2) request is send
+[61643705]	2025-07-15 08:54:33.263	- Info  -	[clipboard] start clipboard...
+[61643705]	2025-07-15 08:54:33.263	- Info  -	[clipboard] start clipboard ok.
+[61643703]	2025-07-15 08:54:33.386	- Info  -	[MacH264EncoderBridge] hw encoder open successs
+[61643703]	2025-07-15 08:54:33.387	- Info  -	[displaystream] stopCapture start
+[61643703]	2025-07-15 08:54:33.387	- Info  -	[displaystream] stopCapture finish
+[61643703]	2025-07-15 08:54:33.387	- Info  -	[displaystream] startCapture mode 1
+[61643703]	2025-07-15 08:54:33.387	- Info  -	[displaystream] createcapturesession displayid 4, src: 1920x1080 out: 1920x1080, fps: 30, scale 1.0, out format 0
+[61643703]	2025-07-15 08:54:33.443	- Info  -	[displaystream] startCapture success
+[61643703]	2025-07-15 08:54:33.445	- Info  -	[DesktopMonitorServer] ID_START_DESKTOP_STREAM 2132875846
+[61643703]	2025-07-15 08:54:33.445	- Info  -	[DesktopMonitorServer] OnProtoSetCompression format 9 fps 15 mode 0
+[61643573]	2025-07-15 08:54:33.454	- Info  -	[MacForwardVideoStream] first capture frame arrived
+[61643704]	2025-07-15 08:54:33.457	- Info  -	[CSingleDesktop] first render display start, channel 0
+[61643704]	2025-07-15 08:54:33.457	- Info  -	[MacForwardVideoStream] CreateInitBuffer
+[61643704]	2025-07-15 08:54:33.457	- Info  -	[MacForwardVideoStream] start encode first frame
+[61643756]	2025-07-15 08:54:33.487	- Info  -	[MacForwardVideoStream] first encode frame arrive
+[61643704]	2025-07-15 08:54:33.489	- Info  -	[MacForwardVideoStream] finish encode first frame ok 1
+[61643704]	2025-07-15 08:54:33.489	- Info  -	[ClientDesktopMgr] send first frame
+[61643704]	2025-07-15 08:54:33.489	- Info  -	[ClientDesktopMgr] run statistical task
+[61643704]	2025-07-15 08:54:33.492	- Info  -	[CSingleDesktop] first render display finish, channel 0
+[61643703]	2025-07-15 08:54:33.905	- Info  -	[X264_CrfCalculator] rf control received first remote frame count.
+[61643706]	2025-07-15 08:54:33.988	- Info  -	[BufferSender] send first frame
+[61643703]	2025-07-15 08:54:34.177	- Info  -	[DesktopMonitorServer] OnProtoSetFrameRate
+[61643703]	2025-07-15 08:54:34.180	- Info  -	[ClientDesktopMgr] Receive MY REQ_REMOTE_UPDATE message
+[61643703]	2025-07-15 08:54:34.181	- Info  -	[DesktopMonitorServer] OnProtoSetFrameRate
+[61643703]	2025-07-15 08:54:35.108	- Info  -	[clipboard] OnReceiveQueryVersionReq 2, func: 7
+[61643703]	2025-07-15 08:54:35.109	- Info  -	[clipboard] Query Version(2) response is send
+[61643703]	2025-07-15 08:54:35.109	+Warning+	[ClientDesktopMgr]packet losted, message1 :32,12, message2:11,4, size=20 channelId=0
+[61643703]	2025-07-15 08:54:35.109	+Warning+	[ClientDesktopMgr]packet losted, message1 :32,12, message2:11,4, size=20 channelId=0
+[61643703]	2025-07-15 08:54:35.109	+Warning+	[ClientDesktopMgr]packet losted, message1 :32,12, message2:11,4, size=20 channelId=0
+[61643703]	2025-07-15 08:54:35.109	+Warning+	[ClientDesktopMgr]packet losted, message1 :32,12, message2:11,4, size=20 channelId=0
+[7135]	2025-07-15 08:56:18.777	- Info  -	[agent] [OnPluginStop] notify = .
+[7135]	2025-07-15 08:56:18.777	- Info  -	plugin stop >>
+[7135]	2025-07-15 08:56:18.777	- Info  -	[stop_plugin] plugin stop exit_lock_ with false
+[61643703]	2025-07-15 08:56:18.777	* Error *	m_queInput.PopFrontBuffer == 0, timeout( -1 )
+[61643703]	2025-07-15 08:56:18.793	- Info  -	[displaystream] stopCapture start
+[61643488]	2025-07-15 08:56:18.793	- Info  -	[displaystream] status: Stopped
+[61643703]	2025-07-15 08:56:18.794	- Info  -	[displaystream] stopCapture finish
+[61643703]	2025-07-15 08:56:18.794	- Info  -	[MacH264EncoderBridge] stop
+[61643703]	2025-07-15 08:56:18.794	- Info  -	[VideoToolboxEncoder] stop
+[61643703]	2025-07-15 08:56:18.796	- Info  -	[MacH264EncoderBridge] stop
+[61643703]	2025-07-15 08:56:18.796	- Info  -	[clipboard] pause clipboard
+[61643703]	2025-07-15 08:56:18.842	- Info  -	[clipboard] stop Clipboard ok
+[61643703]	2025-07-15 08:56:18.842	- Info  -	[displaystream] stopCapture start
+[61643703]	2025-07-15 08:56:18.842	- Info  -	[displaystream] stopCapture finish
+[61643703]	2025-07-15 08:56:18.842	- Info  -	[displaystream] stopCapture start
+[61643703]	2025-07-15 08:56:18.843	- Info  -	[displaystream] stopCapture finish
+[61643703]	2025-07-15 08:56:18.843	- Info  -	[displaystream] stopCapture start
+[61643703]	2025-07-15 08:56:18.843	- Info  -	[displaystream] stopCapture finish
+[61643703]	2025-07-15 08:56:18.843	- Info  -	[client_plugin_thread] end @ 3144
+[7135]	2025-07-15 08:56:18.843	- Info  -	plugin stop <<
+[7135]	2025-07-15 09:22:48.261	- Info  -	[agent] [OnPluginStop] notify = .
+[7135]	2025-07-15 09:22:48.261	- Info  -	plugin stop >>
+[7135]	2025-07-15 09:22:48.261	- Info  -	plugin stop <<
+[7135]	2025-07-15 09:22:48.263	- Info  -	[agent] client::handler::OnPluginStart
+[7135]	2025-07-15 09:22:48.263	- Info  -	[desktop_agent] plugin start enter
+[7135]	2025-07-15 09:22:48.263	- Info  -	plugin stop >>
+[7135]	2025-07-15 09:22:48.263	- Info  -	plugin stop <<
+[7135]	2025-07-15 09:22:48.263	- Info  -	plugin start
+[61668834]	2025-07-15 09:22:49.367	- Info  -	[MacForwardVideoStream] UpdateCaptureParam index 0 size 1920x1080 scale 1.0 output 1920x1080
+[61668834]	2025-07-15 09:22:49.367	- Info  -	[ScreenCaptureAdapter] width 1920, height 1080, scale 1.0
+[61668834]	2025-07-15 09:22:49.367	- Info  -	[displaystream] init size 1920x1080 scale 1.0 access 1 displayid 4 
+[61668834]	2025-07-15 09:22:49.368	- Info  -	[sl_codec] create decoder success, image_id 8
+[61668834]	2025-07-15 09:22:49.368	* Error *	[BlackScreen] create impl fail
+[61668836]	2025-07-15 09:22:49.368	- Info  -	[ClientDesktopMgr] InitListener at 540
+[61668834]	2025-07-15 09:22:49.368	+Warning+	[ClientDesktopMgr]packet losted, message1 :242,169, message2:34,161, size=177 channelId=0
+[61668834]	2025-07-15 09:22:49.368	- Info  -	[ClientDesktopMgr] OnCtrlMessage ctrl 1,type 1
+[61668834]	2025-07-15 09:22:49.368	- Info  -	[ClientDesktopMgr] run display start
+[61668836]	2025-07-15 09:22:49.368	- Info  -	[ClientDesktopMgr] InitListener at 540
+[61668836]	2025-07-15 09:22:49.368	- Info  -	[ClientDesktopMgr] DoStartOtherModules at 1905
+[61668834]	2025-07-15 09:22:49.368	- Info  -	[DesktopMonitorServer] bDelayedRun_Sendconfig = TRUE
+[61668834]	2025-07-15 09:22:49.368	- Info  -	[desktop/3506e0] GetInitBuffer image header compress size(20) time(2134571769).
+[61668834]	2025-07-15 09:22:49.368	- Info  -	[desktop][Init] recv prefix message, limit [1920x1080], enable 1 at 525
+[61668834]	2025-07-15 09:22:49.368	- Info  -	[ClientDesktopMgr] run display finish
+[61668834]	2025-07-15 09:22:49.368	- Info  -	[ClientDesktopMgr] OnCtrlMessage ctrl 1,type 3
+[61668834]	2025-07-15 09:22:49.368	- Info  -	[ClientDesktopMgr] OnCtrlMessage ctrl 1,type 6
+[61668834]	2025-07-15 09:22:49.368	- Info  -	[ClientDesktopMgr] OnCtrlMessage ctrl 1,type 7
+[61668836]	2025-07-15 09:22:49.368	- Info  -	[ClientDesktopMgr]Run Keyboard and mouse control ok
+[61668834]	2025-07-15 09:22:49.368	- Info  -	[DesktopMonitorServer] OnProtoSetCompression format 9 fps 15 mode 0
+[61668834]	2025-07-15 09:22:49.369	- Info  -	[DesktopMonitorServer] OnProtoStartDesktopStream
+[61668834]	2025-07-15 09:22:49.369	- Info  -	[UnifiedEncoderAdapter]open width 1920, height 1080, format 9
+[61668834]	2025-07-15 09:22:49.369	- Info  -	[MacH264EncoderBridge]open width 1920, height 1080, mode 1
+[61668836]	2025-07-15 09:22:49.369	- Info  -	[clipboard] run clipboard
+[61668836]	2025-07-15 09:22:49.369	- Info  -	[clipboard] Query Version(2) request is send
+[61668836]	2025-07-15 09:22:49.369	- Info  -	[clipboard] start clipboard...
+[61668834]	2025-07-15 09:22:49.369	- Info  -	[VideoToolboxEncoder] start
+[61668834]	2025-07-15 09:22:49.369	- Info  -	[VideoToolboxEncoder] width: 1920, height: 1080, bitrate: 199065600, fps: 30 mode 1
+[61668836]	2025-07-15 09:22:49.369	- Info  -	[clipboard] start clipboard ok.
+[61668834]	2025-07-15 09:22:49.394	- Info  -	[MacH264EncoderBridge] hw encoder open successs
+[61668834]	2025-07-15 09:22:49.394	- Info  -	[displaystream] stopCapture start
+[61668834]	2025-07-15 09:22:49.394	- Info  -	[displaystream] stopCapture finish
+[61668834]	2025-07-15 09:22:49.394	- Info  -	[displaystream] startCapture mode 1
+[61668834]	2025-07-15 09:22:49.394	- Info  -	[displaystream] createcapturesession displayid 4, src: 1920x1080 out: 1920x1080, fps: 30, scale 1.0, out format 0
+[61668834]	2025-07-15 09:22:49.428	- Info  -	[displaystream] startCapture success
+[61668834]	2025-07-15 09:22:49.428	- Info  -	[DesktopMonitorServer] ID_START_DESKTOP_STREAM 2134571829
+[61668834]	2025-07-15 09:22:49.428	- Info  -	[DesktopMonitorServer] OnProtoSetCompression format 9 fps 15 mode 0
+[61668722]	2025-07-15 09:22:49.437	- Info  -	[MacForwardVideoStream] first capture frame arrived
+[61668835]	2025-07-15 09:22:49.437	- Info  -	[CSingleDesktop] first render display start, channel 0
+[61668835]	2025-07-15 09:22:49.437	- Info  -	[MacForwardVideoStream] CreateInitBuffer
+[61668835]	2025-07-15 09:22:49.437	- Info  -	[MacForwardVideoStream] start encode first frame
+[61668917]	2025-07-15 09:22:49.460	- Info  -	[MacForwardVideoStream] first encode frame arrive
+[61668835]	2025-07-15 09:22:49.460	- Info  -	[MacForwardVideoStream] finish encode first frame ok 1
+[61668835]	2025-07-15 09:22:49.460	- Info  -	[ClientDesktopMgr] send first frame
+[61668835]	2025-07-15 09:22:49.460	- Info  -	[ClientDesktopMgr] run statistical task
+[61668835]	2025-07-15 09:22:49.465	- Info  -	[CSingleDesktop] first render display finish, channel 0
+[61668834]	2025-07-15 09:22:50.104	- Info  -	[X264_CrfCalculator] rf control received first remote frame count.
+[61668837]	2025-07-15 09:22:50.275	- Info  -	[BufferSender] send first frame
+[61668834]	2025-07-15 09:22:50.418	- Info  -	[DesktopMonitorServer] OnProtoSetFrameRate
+[61668834]	2025-07-15 09:22:50.419	- Info  -	[ClientDesktopMgr] Receive MY REQ_REMOTE_UPDATE message
+[61668834]	2025-07-15 09:22:50.419	- Info  -	[DesktopMonitorServer] OnProtoSetFrameRate
+[61668834]	2025-07-15 09:22:51.220	+Warning+	[ClientDesktopMgr]packet losted, message1 :32,12, message2:11,4, size=20 channelId=0
+[61668834]	2025-07-15 09:22:51.220	- Info  -	[clipboard] OnReceiveQueryVersionReq 2, func: 7
+[61668834]	2025-07-15 09:22:51.220	- Info  -	[clipboard] Query Version(2) response is send
+[61668834]	2025-07-15 09:22:51.220	+Warning+	[ClientDesktopMgr]packet losted, message1 :32,12, message2:11,4, size=20 channelId=0
+[61668834]	2025-07-15 09:22:51.221	+Warning+	[ClientDesktopMgr]packet losted, message1 :32,12, message2:11,4, size=20 channelId=0
+[61668834]	2025-07-15 09:22:51.221	+Warning+	[ClientDesktopMgr]packet losted, message1 :32,12, message2:11,4, size=20 channelId=0
+[7135]	2025-07-15 09:24:01.138	- Info  -	[agent] [OnPluginStop] notify = .
+[7135]	2025-07-15 09:24:01.138	- Info  -	plugin stop >>
+[7135]	2025-07-15 09:24:01.138	- Info  -	[stop_plugin] plugin stop exit_lock_ with false
+[61668834]	2025-07-15 09:24:01.138	* Error *	m_queInput.PopFrontBuffer == 0, timeout( -1 )
+[61668834]	2025-07-15 09:24:01.171	- Info  -	[displaystream] stopCapture start
+[61668910]	2025-07-15 09:24:01.172	- Info  -	[displaystream] status: Stopped
+[61668834]	2025-07-15 09:24:01.173	- Info  -	[displaystream] stopCapture finish
+[61668834]	2025-07-15 09:24:01.173	- Info  -	[MacH264EncoderBridge] stop
+[61668834]	2025-07-15 09:24:01.173	- Info  -	[VideoToolboxEncoder] stop
+[61668834]	2025-07-15 09:24:01.175	- Info  -	[MacH264EncoderBridge] stop
+[61668834]	2025-07-15 09:24:01.175	- Info  -	[clipboard] pause clipboard
+[61668834]	2025-07-15 09:24:01.178	- Info  -	[clipboard] stop Clipboard ok
+[61668834]	2025-07-15 09:24:01.178	- Info  -	[displaystream] stopCapture start
+[61668834]	2025-07-15 09:24:01.178	- Info  -	[displaystream] stopCapture finish
+[61668834]	2025-07-15 09:24:01.178	- Info  -	[displaystream] stopCapture start
+[61668834]	2025-07-15 09:24:01.178	- Info  -	[displaystream] stopCapture finish
+[61668834]	2025-07-15 09:24:01.178	- Info  -	[displaystream] stopCapture start
+[61668834]	2025-07-15 09:24:01.178	- Info  -	[displaystream] stopCapture finish
+[61668834]	2025-07-15 09:24:01.178	- Info  -	[client_plugin_thread] end @ 3144
+[7135]	2025-07-15 09:24:01.178	- Info  -	plugin stop <<
+[7135]	2025-07-15 09:59:36.625	- Info  -	[agent] [OnPluginStop] notify = .
+[7135]	2025-07-15 09:59:36.626	- Info  -	plugin stop >>
+[7135]	2025-07-15 09:59:36.626	- Info  -	plugin stop <<
+[7135]	2025-07-15 09:59:36.627	- Info  -	[agent] client::handler::OnPluginStart
+[7135]	2025-07-15 09:59:36.628	- Info  -	[desktop_agent] plugin start enter
+[7135]	2025-07-15 09:59:36.628	- Info  -	plugin stop >>
+[7135]	2025-07-15 09:59:36.628	- Info  -	plugin stop <<
+[7135]	2025-07-15 09:59:36.628	- Info  -	plugin start
+[61695975]	2025-07-15 09:59:37.675	- Info  -	[MacForwardVideoStream] UpdateCaptureParam index 0 size 1920x1080 scale 1.0 output 1920x1080
+[61695975]	2025-07-15 09:59:37.675	- Info  -	[ScreenCaptureAdapter] width 1920, height 1080, scale 1.0
+[61695975]	2025-07-15 09:59:37.675	- Info  -	[displaystream] init size 1920x1080 scale 1.0 access 1 displayid 4 
+[61695975]	2025-07-15 09:59:37.676	- Info  -	[sl_codec] create decoder success, image_id 8
+[61695975]	2025-07-15 09:59:37.676	* Error *	[BlackScreen] create impl fail
+[61695977]	2025-07-15 09:59:37.676	- Info  -	[ClientDesktopMgr] InitListener at 540
+[61695975]	2025-07-15 09:59:37.676	+Warning+	[ClientDesktopMgr]packet losted, message1 :242,307, message2:34,299, size=315 channelId=0
+[61695977]	2025-07-15 09:59:37.676	- Info  -	[ClientDesktopMgr] InitListener at 540
+[61695977]	2025-07-15 09:59:37.676	- Info  -	[ClientDesktopMgr] DoStartOtherModules at 1905
+[61695975]	2025-07-15 09:59:37.676	- Info  -	[ClientDesktopMgr] OnCtrlMessage ctrl 1,type 1
+[61695975]	2025-07-15 09:59:37.676	- Info  -	[ClientDesktopMgr] run display start
+[61695975]	2025-07-15 09:59:37.676	- Info  -	[DesktopMonitorServer] bDelayedRun_Sendconfig = TRUE
+[61695975]	2025-07-15 09:59:37.676	- Info  -	[desktop/344780] GetInitBuffer image header compress size(20) time(2136779986).
+[61695975]	2025-07-15 09:59:37.676	- Info  -	[desktop][Init] recv prefix message, limit [1920x1080], enable 1 at 525
+[61695975]	2025-07-15 09:59:37.676	- Info  -	[ClientDesktopMgr] run display finish
+[61695975]	2025-07-15 09:59:37.676	- Info  -	[ClientDesktopMgr] OnCtrlMessage ctrl 1,type 3
+[61695975]	2025-07-15 09:59:37.676	- Info  -	[ClientDesktopMgr] OnCtrlMessage ctrl 1,type 6
+[61695975]	2025-07-15 09:59:37.677	- Info  -	[ClientDesktopMgr] OnCtrlMessage ctrl 1,type 7
+[61695977]	2025-07-15 09:59:37.677	- Info  -	[ClientDesktopMgr]Run Keyboard and mouse control ok
+[61695975]	2025-07-15 09:59:37.677	- Info  -	[DesktopMonitorServer] OnProtoSetCompression format 9 fps 15 mode 0
+[61695975]	2025-07-15 09:59:37.677	- Info  -	[DesktopMonitorServer] OnProtoStartDesktopStream
+[61695975]	2025-07-15 09:59:37.677	- Info  -	[UnifiedEncoderAdapter]open width 1920, height 1080, format 9
+[61695975]	2025-07-15 09:59:37.677	- Info  -	[MacH264EncoderBridge]open width 1920, height 1080, mode 1
+[61695975]	2025-07-15 09:59:37.677	- Info  -	[VideoToolboxEncoder] start
+[61695975]	2025-07-15 09:59:37.677	- Info  -	[VideoToolboxEncoder] width: 1920, height: 1080, bitrate: 199065600, fps: 30 mode 1
+[61695977]	2025-07-15 09:59:37.677	- Info  -	[clipboard] run clipboard
+[61695977]	2025-07-15 09:59:37.677	- Info  -	[clipboard] Query Version(2) request is send
+[61695977]	2025-07-15 09:59:37.677	- Info  -	[clipboard] start clipboard...
+[61695977]	2025-07-15 09:59:37.677	- Info  -	[clipboard] start clipboard ok.
+[61695975]	2025-07-15 09:59:37.702	- Info  -	[MacH264EncoderBridge] hw encoder open successs
+[61695975]	2025-07-15 09:59:37.702	- Info  -	[displaystream] stopCapture start
+[61695975]	2025-07-15 09:59:37.702	- Info  -	[displaystream] stopCapture finish
+[61695975]	2025-07-15 09:59:37.702	- Info  -	[displaystream] startCapture mode 1
+[61695975]	2025-07-15 09:59:37.702	- Info  -	[displaystream] createcapturesession displayid 4, src: 1920x1080 out: 1920x1080, fps: 30, scale 1.0, out format 0
+[61695975]	2025-07-15 09:59:37.728	- Info  -	[displaystream] startCapture success
+[61695975]	2025-07-15 09:59:37.728	- Info  -	[DesktopMonitorServer] ID_START_DESKTOP_STREAM 2136780038
+[61695975]	2025-07-15 09:59:37.729	- Info  -	[DesktopMonitorServer] OnProtoSetCompression format 9 fps 15 mode 0
+[61695629]	2025-07-15 09:59:37.745	- Info  -	[MacForwardVideoStream] first capture frame arrived
+[61695976]	2025-07-15 09:59:37.745	- Info  -	[CSingleDesktop] first render display start, channel 0
+[61695976]	2025-07-15 09:59:37.745	- Info  -	[MacForwardVideoStream] CreateInitBuffer
+[61695976]	2025-07-15 09:59:37.745	- Info  -	[MacForwardVideoStream] start encode first frame
+[61695991]	2025-07-15 09:59:37.769	- Info  -	[MacForwardVideoStream] first encode frame arrive
+[61695976]	2025-07-15 09:59:37.770	- Info  -	[MacForwardVideoStream] finish encode first frame ok 1
+[61695976]	2025-07-15 09:59:37.770	- Info  -	[ClientDesktopMgr] send first frame
+[61695976]	2025-07-15 09:59:37.770	- Info  -	[ClientDesktopMgr] run statistical task
+[61695976]	2025-07-15 09:59:37.775	- Info  -	[CSingleDesktop] first render display finish, channel 0
+[61695975]	2025-07-15 09:59:38.382	- Info  -	[X264_CrfCalculator] rf control received first remote frame count.
+[61695978]	2025-07-15 09:59:39.251	- Info  -	[BufferSender] send first frame
+[61695975]	2025-07-15 09:59:40.554	- Info  -	[clipboard] OnReceiveQueryVersionReq 2, func: 7
+[61695975]	2025-07-15 09:59:40.554	- Info  -	[clipboard] Query Version(2) response is send
+[61695975]	2025-07-15 09:59:40.554	+Warning+	[ClientDesktopMgr]packet losted, message1 :32,12, message2:11,4, size=20 channelId=0
+[61695975]	2025-07-15 09:59:40.554	+Warning+	[ClientDesktopMgr]packet losted, message1 :32,12, message2:11,4, size=20 channelId=0
+[61695975]	2025-07-15 09:59:40.554	+Warning+	[ClientDesktopMgr]packet losted, message1 :32,12, message2:11,4, size=20 channelId=0
+[61695975]	2025-07-15 09:59:40.819	+Warning+	[ClientDesktopMgr]packet losted, message1 :32,12, message2:11,4, size=20 channelId=0
+[61695975]	2025-07-15 09:59:40.836	- Info  -	[DesktopMonitorServer] OnProtoSetFrameRate
+[61695975]	2025-07-15 09:59:40.838	- Info  -	[ClientDesktopMgr] Receive MY REQ_REMOTE_UPDATE message
+[61695975]	2025-07-15 09:59:40.840	- Info  -	[DesktopMonitorServer] OnProtoSetFrameRate
+[7135]	2025-07-15 10:01:01.345	- Info  -	[agent] [OnPluginStop] notify = .
+[7135]	2025-07-15 10:01:01.345	- Info  -	plugin stop >>
+[7135]	2025-07-15 10:01:01.345	- Info  -	[stop_plugin] plugin stop exit_lock_ with false
+[61695975]	2025-07-15 10:01:01.345	* Error *	m_queInput.PopFrontBuffer == 0, timeout( -1 )
+[61695975]	2025-07-15 10:01:01.356	- Info  -	[displaystream] stopCapture start
+[61695629]	2025-07-15 10:01:01.357	- Info  -	[displaystream] status: Stopped
+[61695975]	2025-07-15 10:01:01.358	- Info  -	[displaystream] stopCapture finish
+[61695975]	2025-07-15 10:01:01.358	- Info  -	[MacH264EncoderBridge] stop
+[61695975]	2025-07-15 10:01:01.358	- Info  -	[VideoToolboxEncoder] stop
+[61695975]	2025-07-15 10:01:01.359	- Info  -	[MacH264EncoderBridge] stop
+[61695975]	2025-07-15 10:01:01.359	- Info  -	[clipboard] pause clipboard
+[61695975]	2025-07-15 10:01:01.406	- Info  -	[clipboard] stop Clipboard ok
+[61695975]	2025-07-15 10:01:01.406	- Info  -	[displaystream] stopCapture start
+[61695975]	2025-07-15 10:01:01.406	- Info  -	[displaystream] stopCapture finish
+[61695975]	2025-07-15 10:01:01.406	- Info  -	[displaystream] stopCapture start
+[61695975]	2025-07-15 10:01:01.406	- Info  -	[displaystream] stopCapture finish
+[61695975]	2025-07-15 10:01:01.407	- Info  -	[displaystream] stopCapture start
+[61695975]	2025-07-15 10:01:01.407	- Info  -	[displaystream] stopCapture finish
+[61695975]	2025-07-15 10:01:01.407	- Info  -	[client_plugin_thread] end @ 3144
+[7135]	2025-07-15 10:01:01.407	- Info  -	plugin stop <<
+[7135]	2025-07-15 10:03:25.305	- Info  -	[agent] [OnPluginStop] notify = .
+[7135]	2025-07-15 10:03:25.305	- Info  -	plugin stop >>
+[7135]	2025-07-15 10:03:25.305	- Info  -	plugin stop <<
+[7135]	2025-07-15 10:03:25.306	- Info  -	[agent] client::handler::OnPluginStart
+[7135]	2025-07-15 10:03:25.306	- Info  -	[desktop_agent] plugin start enter
+[7135]	2025-07-15 10:03:25.306	- Info  -	plugin stop >>
+[7135]	2025-07-15 10:03:25.306	- Info  -	plugin stop <<
+[7135]	2025-07-15 10:03:25.306	- Info  -	plugin start
+[61700359]	2025-07-15 10:03:26.394	- Info  -	[MacForwardVideoStream] UpdateCaptureParam index 0 size 1920x1080 scale 1.0 output 1920x1080
+[61700359]	2025-07-15 10:03:26.394	- Info  -	[ScreenCaptureAdapter] width 1920, height 1080, scale 1.0
+[61700359]	2025-07-15 10:03:26.394	- Info  -	[displaystream] init size 1920x1080 scale 1.0 access 1 displayid 4 
+[61700359]	2025-07-15 10:03:26.395	- Info  -	[sl_codec] create decoder success, image_id 8
+[61700359]	2025-07-15 10:03:26.395	* Error *	[BlackScreen] create impl fail
+[61700361]	2025-07-15 10:03:26.395	- Info  -	[ClientDesktopMgr] InitListener at 540
+[61700359]	2025-07-15 10:03:26.395	+Warning+	[ClientDesktopMgr]packet losted, message1 :242,307, message2:34,299, size=315 channelId=0
+[61700361]	2025-07-15 10:03:26.395	- Info  -	[ClientDesktopMgr] InitListener at 540
+[61700361]	2025-07-15 10:03:26.395	- Info  -	[ClientDesktopMgr] DoStartOtherModules at 1905
+[61700359]	2025-07-15 10:03:26.395	- Info  -	[ClientDesktopMgr] OnCtrlMessage ctrl 1,type 1
+[61700359]	2025-07-15 10:03:26.395	- Info  -	[ClientDesktopMgr] run display start
+[61700359]	2025-07-15 10:03:26.395	- Info  -	[DesktopMonitorServer] bDelayedRun_Sendconfig = TRUE
+[61700359]	2025-07-15 10:03:26.395	- Info  -	[desktop/35cdc0] GetInitBuffer image header compress size(20) time(2137008702).
+[61700359]	2025-07-15 10:03:26.395	- Info  -	[desktop][Init] recv prefix message, limit [1920x1080], enable 1 at 525
+[61700359]	2025-07-15 10:03:26.395	- Info  -	[ClientDesktopMgr] run display finish
+[61700359]	2025-07-15 10:03:26.395	- Info  -	[ClientDesktopMgr] OnCtrlMessage ctrl 1,type 3
+[61700359]	2025-07-15 10:03:26.395	- Info  -	[ClientDesktopMgr] OnCtrlMessage ctrl 1,type 6
+[61700359]	2025-07-15 10:03:26.395	- Info  -	[ClientDesktopMgr] OnCtrlMessage ctrl 1,type 7
+[61700361]	2025-07-15 10:03:26.395	- Info  -	[ClientDesktopMgr]Run Keyboard and mouse control ok
+[61700359]	2025-07-15 10:03:26.395	- Info  -	[DesktopMonitorServer] OnProtoSetCompression format 9 fps 15 mode 0
+[61700359]	2025-07-15 10:03:26.395	- Info  -	[DesktopMonitorServer] OnProtoStartDesktopStream
+[61700359]	2025-07-15 10:03:26.395	- Info  -	[UnifiedEncoderAdapter]open width 1920, height 1080, format 9
+[61700359]	2025-07-15 10:03:26.395	- Info  -	[MacH264EncoderBridge]open width 1920, height 1080, mode 1
+[61700361]	2025-07-15 10:03:26.395	- Info  -	[clipboard] run clipboard
+[61700361]	2025-07-15 10:03:26.395	- Info  -	[clipboard] Query Version(2) request is send
+[61700361]	2025-07-15 10:03:26.395	- Info  -	[clipboard] start clipboard...
+[61700359]	2025-07-15 10:03:26.395	- Info  -	[VideoToolboxEncoder] start
+[61700359]	2025-07-15 10:03:26.395	- Info  -	[VideoToolboxEncoder] width: 1920, height: 1080, bitrate: 199065600, fps: 30 mode 1
+[61700361]	2025-07-15 10:03:26.396	- Info  -	[clipboard] start clipboard ok.
+[61700359]	2025-07-15 10:03:26.419	- Info  -	[MacH264EncoderBridge] hw encoder open successs
+[61700359]	2025-07-15 10:03:26.419	- Info  -	[displaystream] stopCapture start
+[61700359]	2025-07-15 10:03:26.419	- Info  -	[displaystream] stopCapture finish
+[61700359]	2025-07-15 10:03:26.419	- Info  -	[displaystream] startCapture mode 1
+[61700359]	2025-07-15 10:03:26.419	- Info  -	[displaystream] createcapturesession displayid 4, src: 1920x1080 out: 1920x1080, fps: 30, scale 1.0, out format 0
+[61700359]	2025-07-15 10:03:26.444	- Info  -	[displaystream] startCapture success
+[61700359]	2025-07-15 10:03:26.444	- Info  -	[DesktopMonitorServer] ID_START_DESKTOP_STREAM 2137008751
+[61700359]	2025-07-15 10:03:26.444	- Info  -	[DesktopMonitorServer] OnProtoSetCompression format 9 fps 15 mode 0
+[61700252]	2025-07-15 10:03:26.464	- Info  -	[MacForwardVideoStream] first capture frame arrived
+[61700360]	2025-07-15 10:03:26.465	- Info  -	[CSingleDesktop] first render display start, channel 0
+[61700360]	2025-07-15 10:03:26.465	- Info  -	[MacForwardVideoStream] CreateInitBuffer
+[61700360]	2025-07-15 10:03:26.465	- Info  -	[MacForwardVideoStream] start encode first frame
+[61700405]	2025-07-15 10:03:26.489	- Info  -	[MacForwardVideoStream] first encode frame arrive
+[61700360]	2025-07-15 10:03:26.489	- Info  -	[MacForwardVideoStream] finish encode first frame ok 1
+[61700360]	2025-07-15 10:03:26.489	- Info  -	[ClientDesktopMgr] send first frame
+[61700360]	2025-07-15 10:03:26.489	- Info  -	[ClientDesktopMgr] run statistical task
+[61700360]	2025-07-15 10:03:26.494	- Info  -	[CSingleDesktop] first render display finish, channel 0
+[61700359]	2025-07-15 10:03:26.943	- Info  -	[X264_CrfCalculator] rf control received first remote frame count.
+[61700359]	2025-07-15 10:03:27.257	- Info  -	[DesktopMonitorServer] OnProtoSetFrameRate
+[61700359]	2025-07-15 10:03:27.257	- Info  -	[ClientDesktopMgr] Receive MY REQ_REMOTE_UPDATE message
+[61700359]	2025-07-15 10:03:27.258	- Info  -	[DesktopMonitorServer] OnProtoSetFrameRate
+[61700362]	2025-07-15 10:03:27.605	- Info  -	[BufferSender] send first frame
+[61700359]	2025-07-15 10:03:28.286	+Warning+	[ClientDesktopMgr]packet losted, message1 :32,12, message2:11,4, size=20 channelId=0
+[61700359]	2025-07-15 10:03:28.286	- Info  -	[clipboard] OnReceiveQueryVersionReq 2, func: 7
+[61700359]	2025-07-15 10:03:28.287	- Info  -	[clipboard] Query Version(2) response is send
+[61700359]	2025-07-15 10:03:28.287	+Warning+	[ClientDesktopMgr]packet losted, message1 :32,12, message2:11,4, size=20 channelId=0
+[61700359]	2025-07-15 10:03:28.287	+Warning+	[ClientDesktopMgr]packet losted, message1 :32,12, message2:11,4, size=20 channelId=0
+[61700359]	2025-07-15 10:03:28.287	+Warning+	[ClientDesktopMgr]packet losted, message1 :32,12, message2:11,4, size=20 channelId=0
+[7135]	2025-07-15 10:03:36.091	- Info  -	[agent] [OnPluginStop] notify = .
+[7135]	2025-07-15 10:03:36.091	- Info  -	plugin stop >>
+[7135]	2025-07-15 10:03:36.091	- Info  -	[stop_plugin] plugin stop exit_lock_ with false
+[61700359]	2025-07-15 10:03:36.091	* Error *	m_queInput.PopFrontBuffer == 0, timeout( -1 )
+[61700359]	2025-07-15 10:03:36.123	- Info  -	[displaystream] stopCapture start
+[61700252]	2025-07-15 10:03:36.124	- Info  -	[displaystream] status: Stopped
+[61700359]	2025-07-15 10:03:36.124	- Info  -	[displaystream] stopCapture finish
+[61700359]	2025-07-15 10:03:36.124	- Info  -	[MacH264EncoderBridge] stop
+[61700359]	2025-07-15 10:03:36.124	- Info  -	[VideoToolboxEncoder] stop
+[61700359]	2025-07-15 10:03:36.126	- Info  -	[MacH264EncoderBridge] stop
+[61700359]	2025-07-15 10:03:36.126	- Info  -	[clipboard] pause clipboard
+[61700359]	2025-07-15 10:03:36.134	- Info  -	[clipboard] stop Clipboard ok
+[61700359]	2025-07-15 10:03:36.134	- Info  -	[displaystream] stopCapture start
+[61700359]	2025-07-15 10:03:36.134	- Info  -	[displaystream] stopCapture finish
+[61700359]	2025-07-15 10:03:36.134	- Info  -	[displaystream] stopCapture start
+[61700359]	2025-07-15 10:03:36.134	- Info  -	[displaystream] stopCapture finish
+[61700359]	2025-07-15 10:03:36.134	- Info  -	[displaystream] stopCapture start
+[61700359]	2025-07-15 10:03:36.134	- Info  -	[displaystream] stopCapture finish
+[61700359]	2025-07-15 10:03:36.134	- Info  -	[client_plugin_thread] end @ 3144
+[7135]	2025-07-15 10:03:36.134	- Info  -	plugin stop <<

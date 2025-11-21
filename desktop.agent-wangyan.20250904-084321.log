@@ -1,0 +1,7 @@
+[7497]	2025-08-02 16:24:35.820	- Info  -	applicationWillFinishLaunching
+[7497]	2025-08-02 16:24:35.824	- Info  -	sid(100002), username(wangyan)
+[7497]	2025-08-02 16:24:35.825	+Warning+	[agent] detect service ok.
+[7497]	2025-08-02 16:24:35.825	- Info  -	init instance
+[7751]	2025-08-02 16:24:36.883	- Info  -	[CSockConnector] attempt to connect server 127.0.0.1:16067(127.0.0.1:16067)
+[7751]	2025-08-02 16:24:36.908	- Info  -	[client::handler] connected sid(100002)
+[7751]	2025-08-02 16:24:36.908	- Info  -	[client] send CMD_AGENT_SID

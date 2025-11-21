@@ -1,0 +1,146 @@
+[9133]	2025-09-04 08:43:03.326	- Info  -	Version: 15.6.2.13600, PID: 1232
+[9133]	2025-09-04 08:43:03.343	* Error *	[Bind] rpc remove addr errcode 2
+[10409]	2025-09-04 08:43:06.400	- Info  -	[OnConnect] [shell] OnConnect
+[10409]	2025-09-04 08:43:07.809	- Info  -	[OnReceive] [shell] status_changed:1
+[10409]	2025-09-04 08:43:08.397	- Info  -	[OnReceive] [shell] status_changed:1
+[9853]	2025-09-04 08:43:13.256	- Info  -	[CSockConnector] attempt to connect server slapi.oray.net:443(118.31.165.224:443)
+[9853]	2025-09-04 08:43:14.452	- Info  -	[CSockConnector] attempt to connect server api-std.sunlogin.oray.com:443(121.199.35.89:443)
+[9853]	2025-09-04 08:43:16.185	* Error *	[token_call_back] [TOKEN] token error 401
+[9133]	2025-09-04 08:43:19.446	- Info  -	[OnUserMessage] Donot get adver info when unlogin
+[11080]	2025-09-04 08:43:19.878	- Info  -	[DoLogin]
+[12767]	2025-09-04 08:43:19.879	* Error *	[ThreadLoop] [TOKEN] use 401 wrong refreshToken
+[12767]	2025-09-04 08:43:19.879	* Error *	[login_with_token_ok] errorcode:401
+[12767]	2025-09-04 08:43:19.890	- Info  -	[disconnect]
+[12767]	2025-09-04 08:43:19.890	- Info  -	[ondisconnect] is disconnected(-1)
+[12767]	2025-09-04 08:43:19.890	- Info  -	[disconnect]
+[12767]	2025-09-04 08:43:19.890	- Info  -	[ondisconnect] is disconnected(-1)
+[12767]	2025-09-04 08:43:19.890	- Info  -	[disconnect]
+[12767]	2025-09-04 08:43:19.890	- Info  -	[ondisconnect] is disconnected(-1)
+[9133]	2025-09-04 08:43:19.894	* Error *	[TOKEN] token error with 401, show relogin
+[9853]	2025-09-04 08:43:21.075	- Info  -	[CSockConnector] attempt to connect server sl-tk.oray.com:443(47.96.86.133:443)
+[9853]	2025-09-04 08:43:24.181	- Info  -	[upload_first_datas] [MainDialog] upload data success!
+[9853]	2025-09-04 08:43:52.996	+Warning+	[passive:keepalive:] 121.199.35.89:443 disconnect by keepalive timeout(153606>=116793+30000)
+[9853]	2025-09-04 08:43:59.616	+Warning+	[passive:keepalive:] 47.96.86.133:443 disconnect by keepalive timeout(160226>=124790+30000)
+[11080]	2025-09-04 08:44:13.256	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-04 11:44:13.396	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[10409]	2025-09-04 14:07:05.698	- Info  -	[OnReceive] [shell] status_changed:0
+[10409]	2025-09-04 14:07:07.314	- Info  -	[OnReceive] [shell] status_changed:2
+[10409]	2025-09-04 14:07:07.963	- Info  -	[OnReceive] [shell] status_changed:1
+[9133]	2025-09-04 14:07:07.969	- Info  -	[OnUserMessage] Donot get adver info when unlogin
+[10409]	2025-09-04 14:07:08.170	- Info  -	[OnReceive] [shell] status_changed:1
+[9133]	2025-09-04 14:07:11.804	- Info  -	[show_wechat_login_dlg] wechat dlg with type = login
+[9133]	2025-09-04 14:07:11.843	- Info  -	[update_url] [WebBrowser] update_url
+[9133]	2025-09-04 14:07:20.340	- Info  -	[OnUserMessage] [WebBrowser] shareurl code = 031d0Gll2huafg4RQLkl2WY6mk2d0GlK
+[9133]	2025-09-04 14:07:20.340	- Info  -	PostApiInterface post api type = 0
+[9853]	2025-09-04 14:07:20.342	- Info  -	[CSockConnector] attempt to connect server api-std.sunlogin.oray.com:443(121.199.35.89:443)
+[11080]	2025-09-04 14:07:21.186	- Info  -	[DoLogin]
+[9853]	2025-09-04 14:07:21.204	- Info  -	[CSockConnector] attempt to connect server slapi.oray.net:443(47.98.140.51:443)
+[9853]	2025-09-04 14:07:21.519	- Info  -	[FireOnLogin] [REMOTEMANAGER] login account result with true
+[9133]	2025-09-04 14:07:21.546	- Info  -	[OnUserMessage] [MainDialog] first login for account down
+[9853]	2025-09-04 14:07:21.548	- Info  -	[CSockConnector] attempt to connect server sl-tk.oray.com:443(121.41.73.135:443)
+[9133]	2025-09-04 14:07:21.549	- Info  -	PostApiInterface post api type = 6
+[9133]	2025-09-04 14:07:21.549	- Info  -	PostApiInterface post api type = 5
+[9853]	2025-09-04 14:07:21.569	- Info  -	[CSockConnector] attempt to connect server user-api-v2.oray.com:443(121.199.31.192:443)
+[989997]	2025-09-04 14:07:21.569	- Info  -	[OnMessage] [LongConnect] WSS_GET_SERVER
+[9853]	2025-09-04 14:07:21.623	- Info  -	[QueryClientFeature] [MAIN_DLG]: Get next update time
+[9853]	2025-09-04 14:07:21.655	- Info  -	[CSockConnector] attempt to connect server client-api-v2.oray.com:443([2408:4005:312:e508:5ae6:e18c:d1fc:763f]:443)
+[9853]	2025-09-04 14:07:21.655	* Error *	[CSockConnector] connect failed with 65, line:330
+[9853]	2025-09-04 14:07:21.655	- Info  -	[CSockConnector] only resolve ipv4 addr
+[9853]	2025-09-04 14:07:21.655	- Info  -	[http::call3][22] disconnected, error( 57394 )
+[11080]	2025-09-04 14:07:21.655	- Info  -	[CSockConnector] attempt to connect server cdn.orayimg.com:443(180.121.81.56:443)
+[9853]	2025-09-04 14:07:21.656	- Info  -	[CSockConnector] attempt to connect server client-api-v2.oray.com:443(116.62.207.228:443)
+[9133]	2025-09-04 14:07:21.662	* Error *	[main_ad_refresh_ok] failed, error:net error
+[990005]	2025-09-04 14:07:21.879	- Info  -	[CSockConnector] attempt to connect server ws-std03.sunlogin.oray.com:443(47.99.162.54:443)
+[11080]	2025-09-04 14:07:21.886	- Info  -	[CSockConnector] attempt to connect server cdn.orayimg.com:443(180.121.81.56:443)
+[9853]	2025-09-04 14:07:21.891	- Info  -	[CSockConnector] attempt to connect server api-std.sunlogin.oray.com:443(47.96.156.45:443)
+[9853]	2025-09-04 14:07:21.891	- Info  -	[connect_websocket] [ScanLogin] connecting TCP server api-std.sunlogin.oray.com:443 success.
+[9133]	2025-09-04 14:07:22.021	- Info  -	config path: /etc/orayconfig.conf
+[9133]	2025-09-04 14:07:22.032	- Info  -	config path: /etc/orayconfig.conf
+[9133]	2025-09-04 14:07:22.037	- Info  -	config path: /etc/orayconfig.conf
+[9133]	2025-09-04 14:07:22.050	- Info  -	config path: /etc/orayconfig.conf
+[9133]	2025-09-04 14:07:22.064	- Info  -	config path: /etc/orayconfig.conf
+[11080]	2025-09-04 14:07:22.091	- Info  -	[CSockConnector] attempt to connect server cdn.orayimg.com:443(180.121.81.56:443)
+[990005]	2025-09-04 14:07:22.219	- Info  -	[websocket:47.99.162.54:443] connected
+[989997]	2025-09-04 14:07:22.219	- Info  -	[OnMessage] [LongConnect] WSS_CONNECTED
+[9133]	2025-09-04 14:07:22.223	- Info  -	[MAIN_DLG] [RED_YELLOW] LONG_CONNECTED
+[990005]	2025-09-04 14:07:22.225	- Info  -	[OnWebsocketMessage][websocket_listener] broker/Session: session_id:167779364.4300472,ttl:60030
+[990005]	2025-09-04 14:07:22.225	- Info  -	[set_ping_interval] ping_interval:54027
+[9853]	2025-09-04 14:07:23.311	- Info  -	[upload_first_datas] [MainDialog] upload data success!
+[9853]	2025-09-04 14:07:59.103	+Warning+	[passive:keepalive:] 121.41.73.135:443 disconnect by keepalive timeout(19599558>=19563766+30000)
+[11080]	2025-09-04 14:44:13.491	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-04 17:44:13.574	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-04 20:44:13.739	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-04 23:44:13.931	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-05 02:44:13.925	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-05 05:44:14.139	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-05 08:44:14.098	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-05 11:44:14.258	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-05 14:44:14.384	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-05 17:44:14.511	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[9853]	2025-09-05 18:11:02.579	- Info  -	[CSockConnector] attempt to connect server api-std.sunlogin.oray.com:443(121.199.35.89:443)
+[9853]	2025-09-05 18:11:02.872	- Info  -	[CSockConnector] attempt to connect server api-std.sunlogin.oray.com:443(121.199.35.89:443)
+[9853]	2025-09-05 18:11:16.493	- Info  -	get_isopen_host_list messge host list isopen: false 
+[9133]	2025-09-05 18:11:18.419	- Info  -	[RefreshDeviceList] [DeviceList] refresh device list begin
+[9133]	2025-09-05 18:11:18.706	- Info  -	[enable_host_list] set is true
+[9133]	2025-09-05 18:11:18.807	- Info  -	[OnUserMessage] [DeviceList] refresh device list end
+[9853]	2025-09-05 18:11:18.825	- Info  -	[CSockConnector] attempt to connect server client-api-v2.oray.com:443(47.97.194.30:443)
+[9853]	2025-09-05 18:11:26.117	- Info  -	[CSockConnector] attempt to connect server slapi.oray.net:443(118.31.165.224:443)
+[9133]	2025-09-05 18:12:15.212	- Info  -	[set_url] [WebBrowser]  openshareurl = https://sunlogin.oray.com/client/discovery?white=0
+[9133]	2025-09-05 18:12:15.212	- Info  -	[update_url] [WebBrowser] update_url
+[9133]	2025-09-05 18:12:15.260	- Info  -	[OnUserMessage] [MainDialog] WM_UPDATE_DISCOVER_URL
+[9133]	2025-09-05 18:12:15.261	- Info  -	[update_url] [WebBrowser] update_url
+[11080]	2025-09-05 20:44:14.479	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-05 23:44:14.732	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-06 02:44:14.679	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-06 05:44:14.912	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-06 08:44:14.965	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-06 11:44:15.068	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-06 14:44:15.077	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-06 17:44:15.258	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-06 20:44:15.380	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-06 23:44:15.575	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-07 02:44:15.511	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-07 05:44:15.668	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-07 08:44:15.917	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-07 11:44:15.878	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-07 14:44:16.054	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-07 17:44:16.136	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-07 20:44:16.204	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-07 23:44:16.439	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-08 02:44:16.420	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-08 05:44:16.380	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-08 08:44:16.535	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-08 11:44:16.803	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-08 14:44:16.853	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-08 17:44:17.036	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-08 20:44:17.076	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-08 23:44:17.050	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-09 02:44:17.210	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-09 05:44:17.406	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-09 08:44:17.314	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-09 11:44:17.502	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-09 14:44:17.702	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-09 17:44:17.686	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-09 20:44:17.756	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-09 23:44:17.988	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-10 02:44:17.969	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-10 05:44:18.176	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-10 08:44:18.229	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-10 11:44:18.285	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-10 14:44:18.471	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-10 17:44:18.621	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-10 20:44:18.623	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-10 23:44:18.736	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-11 02:44:18.977	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-11 05:44:18.974	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-11 08:44:19.131	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-11 11:44:19.250	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-11 14:44:19.256	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-11 17:44:19.241	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-11 20:44:19.603	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-11 23:44:19.492	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-12 02:44:19.795	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-12 05:44:19.861	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-12 08:44:19.786	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-12 11:44:20.003	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000
+[11080]	2025-09-12 14:44:20.116	- Info  -	[get_last_version_thread] [main_dlg] get_last_version_thread time: 10800000

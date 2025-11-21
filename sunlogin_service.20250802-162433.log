@@ -1,0 +1,381 @@
+[7116]	2025-07-16 11:49:13.235	- Info  -	Version: 15.6.2.13600, PID: 1006
+[7116]	2025-07-16 11:49:13.235	- Info  -	Version: 15.6.2.13600, PID: 1006
+[7116]	2025-07-16 11:49:13.236	- Info  -	[LocalServer] iniconfig create config: /etc/orayconfig.conf
+[7116]	2025-07-16 11:49:13.316	- Info  -	DesktopAgentServer created with port 16067.
+[7116]	2025-07-16 11:49:13.488	- Info  -	[LoadProxy] Not use proxy
+[7116]	2025-07-16 11:49:13.530	- Info  -	[get_client_info] get mac address: d0:11:e5:8c:99:6c
+[7116]	2025-07-16 11:49:13.538	- Info  -	[get_client_info] os name:Darwin 24.5.0
+[7116]	2025-07-16 11:49:13.550	- Info  -	[LoginServer] [LocalServer] m_clientinfo.mac: d0:11:e5:8c:99:6c
+[7116]	2025-07-16 11:49:13.677	- Info  -	[OnGetClientIdResult][LocalServer] get client-id result
+[7116]	2025-07-16 11:49:13.679	- Info  -	[Init][LocalServer] @ 1242
+[7116]	2025-07-16 11:49:13.679	* Error *	[Bind] rpc remove addr errcode 2
+[7533]	2025-07-16 11:49:13.679	- Info  -	[client] Do login start with type: license login type
+[7533]	2025-07-16 11:49:13.679	- Info  -	[client] change status to logging
+[7533]	2025-07-16 11:49:13.679	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[7515]	2025-07-16 11:49:13.686	- Info  -	[get_last_version_thread] update_rand_time:7; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-16 11:49:13.724	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[7377]	2025-07-16 11:49:13.756	- Info  -	[CSockConnector] attempt to connect server slapi.oray.net:443(118.31.165.224:443)
+[7534]	2025-07-16 11:49:13.950	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-16 11:49:13.950	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 2, netwok status: 1.
+[7534]	2025-07-16 11:49:13.950	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, do retry.
+[7534]	2025-07-16 11:49:13.950	- Info  -	[LocalServer] call Logout @ 6605
+[7534]	2025-07-16 11:49:13.954	- Info  -	[LoadProxy] Not use proxy
+[7534]	2025-07-16 11:49:13.954	* Error *	[client] retry login is no needed.
+[7534]	2025-07-16 11:49:13.978	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-16 11:49:13.979	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 2, netwok status: 1.
+[7534]	2025-07-16 11:49:13.979	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, do retry.
+[7534]	2025-07-16 11:49:13.979	- Info  -	[LocalServer] call Logout @ 6605
+[7534]	2025-07-16 11:49:13.980	- Info  -	[LoadProxy] Not use proxy
+[7534]	2025-07-16 11:49:13.980	* Error *	[client] retry login is no needed.
+[7377]	2025-07-16 11:49:14.130	- Info  -	[loginWithLicenses] [SunloginClient] IT process_run is 0
+[7377]	2025-07-16 11:49:14.147	- Info  -	[CSockConnector] attempt to connect server rc10-g9.oray.com:443(106.54.210.96:443)
+[7516]	2025-07-16 11:49:14.219	- Info  -	[OnNewClient] login success
+[7532]	2025-07-16 11:49:14.352	- Info  -	[service] send logon
+[7532]	2025-07-16 11:49:14.426	- Info  -	[service] logon OK, public address: 58.218.188.178:2124
+[7532]	2025-07-16 11:49:14.463	- Info  -	[online] OK
+[7532]	2025-07-16 11:49:14.463	- Info  -	[client] received name: mac mini, description: .
+[7811]	2025-07-16 11:49:14.464	- Info  -	[service] registering client
+[7532]	2025-07-16 11:49:14.479	- Info  -	[service] client registered
+[7532]	2025-07-16 11:49:14.479	- Info  -	[client] change status to online
+[7532]	2025-07-16 11:49:14.488	- Info  -	[OnLogin] OnLogin start
+[7532]	2025-07-16 11:49:14.488	- Info  -	[OnLogin] OnLogin end
+[7377]	2025-07-16 11:49:14.504	- Info  -	[CSockConnector] attempt to connect server sl-log.oray.net:443(120.26.160.74:443)
+[7377]	2025-07-16 11:49:14.521	- Info  -	[CSockConnector] attempt to connect server api-std.sunlogin.oray.com:443(121.199.35.89:443)
+[7533]	2025-07-16 11:49:14.733	- Info  -	[client] Do login end with license login type, status: online.
+[7533]	2025-07-16 11:49:14.733	- Info  -	[client] doLogout ...
+[7533]	2025-07-16 11:49:14.733	- Info  -	[RemoteControl] disconnected server(106.54.210.96:443),error code:0
+[7533]	2025-07-16 11:49:14.734	* Error *	[online] online disconnected,error code:0
+[7533]	2025-07-16 11:49:14.734	- Info  -	[oray][erroCode] errorcode=errorcode(0), product=0, type=0, inner code=0 [OnDisconnect:86]
+[7533]	2025-07-16 11:49:14.735	- Info  -	[service] disconnected server(106.54.210.96:443),errorcode:0
+[7533]	2025-07-16 11:49:14.735	- Info  -	[client] change status from online to offline
+[7533]	2025-07-16 11:49:14.736	- Info  -	[client] change status to offline
+[7533]	2025-07-16 11:49:14.736	- Info  -	[OnLogout] OnLogout start
+[7377]	2025-07-16 11:49:14.822	- Info  -	[LocalServer] call UpdateConfigImpl @ 6159
+[7533]	2025-07-16 11:49:14.823	- Info  -	[StopAllProjections] stop all projections
+[7533]	2025-07-16 11:49:14.823	- Info  -	[client] retry login after 1000 seconds.
+[7533]	2025-07-16 11:49:14.823	- Info  -	[OnLogout] OnLogout end
+[7533]	2025-07-16 11:49:14.823	- Info  -	[client] doLogout ...
+[7377]	2025-07-16 11:49:14.876	- Info  -	[local_server] set client accesspwd from [ChangeLoginTypeConfig : 9929]
+[7377]	2025-07-16 11:49:14.878	- Info  -	[waitting_upload] OnLogin OnUpdateConfig
+[7377]	2025-07-16 11:49:15.109	- Info  -	[waitting_upload] upload remote info ok
+[7377]	2025-07-16 11:49:15.296	- Info  -	[waitting_upload] upload configs ok
+[7533]	2025-07-16 11:49:15.890	- Info  -	[client] Do login start with type: license login type
+[7533]	2025-07-16 11:49:15.890	- Info  -	[client] change status to logging
+[7533]	2025-07-16 11:49:15.890	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[7377]	2025-07-16 11:49:15.963	- Info  -	[loginWithLicenses] [SunloginClient] IT process_run is 0
+[7377]	2025-07-16 11:49:15.988	- Info  -	[CSockConnector] attempt to connect server rc10-g8.oray.com:443(124.221.32.16:443)
+[7532]	2025-07-16 11:49:16.198	- Info  -	[service] send logon
+[7532]	2025-07-16 11:49:16.281	- Info  -	[service] logon OK, public address: 58.218.188.178:2169
+[7532]	2025-07-16 11:49:16.311	- Info  -	[online] OK
+[7532]	2025-07-16 11:49:16.313	- Info  -	[client] received name: mac mini, description: .
+[7811]	2025-07-16 11:49:16.314	- Info  -	[service] registering client
+[7532]	2025-07-16 11:49:16.329	- Info  -	[service] client registered
+[7532]	2025-07-16 11:49:16.329	- Info  -	[client] change status to online
+[7532]	2025-07-16 11:49:16.334	- Info  -	[OnLogin] OnLogin start
+[7532]	2025-07-16 11:49:16.335	- Info  -	[OnLogin] OnLogin end
+[7377]	2025-07-16 11:49:16.438	- Info  -	[LocalServer] call UpdateConfigImpl @ 6159
+[7377]	2025-07-16 11:49:16.467	- Info  -	[local_server] set client accesspwd from [ChangeLoginTypeConfig : 9929]
+[7533]	2025-07-16 11:49:16.950	- Info  -	[client] Do login end with license login type, status: online.
+[7516]	2025-07-16 11:49:18.594	- Info  -	[OnReceive] set IT JY process_run
+[7535]	2025-07-16 11:49:19.055	- Info  -	[server::handler] new agent client connected!
+
+[7535]	2025-07-16 11:49:19.055	- Info  -	[server::handler] agent(-1) client disconnected, user(), console()!
+
+[7535]	2025-07-16 11:49:19.055	- Info  -	[mdesktop] revoke remote 0 OK(27726)
+[7535]	2025-07-16 11:49:20.222	- Info  -	[server::handler] new agent client connected!
+
+[7535]	2025-07-16 11:49:20.339	- Info  -	[desktop] user_name = wangyan, user_full_name = wangyan
+[7535]	2025-07-16 11:49:20.339	- Info  -	[desktop] ============Recv sid 100002, agent id 1133, user name(wangyan)
+[7535]	2025-07-16 11:49:20.339	- Info  -	[mdesktop][tagremote] RegisterRemote 1133 OK(29011)
+[7535]	2025-07-16 11:49:20.339	- Info  -	[refresh_user_list]
+[7535]	2025-07-16 11:49:20.339	- Info  -	[refresh_user_list] console wangyan
+[7535]	2025-07-16 11:49:20.339	- Info  -	[mdesktop] (wangyan, 1133);
+[7535]	2025-07-16 11:49:20.339	- Info  -	enum user list console(wangyan)([*]1133, wangyan);
+[7377]	2025-07-16 11:49:26.565	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(35243>=22855+10000)
+[7534]	2025-07-16 12:46:21.928	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-16 12:46:21.930	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-16 12:46:21.930	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7534]	2025-07-16 12:47:49.673	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-16 12:47:49.677	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-16 12:47:49.677	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7534]	2025-07-16 12:48:23.897	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-16 12:48:23.900	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-16 12:48:23.900	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7534]	2025-07-16 13:03:29.145	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-16 13:03:29.148	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-16 13:03:29.148	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7534]	2025-07-16 13:03:52.820	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-16 13:03:52.820	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-16 13:03:52.820	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7534]	2025-07-16 13:05:18.642	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-16 13:05:18.642	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-16 13:05:18.642	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7534]	2025-07-16 13:05:55.108	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-16 13:05:55.109	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-16 13:05:55.109	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7534]	2025-07-16 13:11:46.583	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-16 13:11:46.584	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-16 13:11:46.585	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7534]	2025-07-16 13:11:54.661	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-16 13:11:54.663	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-16 13:11:54.663	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7534]	2025-07-16 13:13:20.589	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-16 13:13:20.590	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-16 13:13:20.590	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7534]	2025-07-16 13:13:57.462	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-16 13:13:57.463	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-16 13:13:57.463	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7534]	2025-07-16 17:35:49.168	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-16 17:35:49.171	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-16 17:35:49.171	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7515]	2025-07-16 18:49:13.999	- Info  -	[get_last_version_thread] update_rand_time:10; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-16 18:49:22.140	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[7377]	2025-07-16 18:49:32.730	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(25241105>=25230911+10000)
+[7515]	2025-07-17 04:49:14.411	- Info  -	[get_last_version_thread] update_rand_time:9; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-17 04:49:19.522	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[7377]	2025-07-17 04:49:30.121	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(61238205>=61227980+10000)
+[7534]	2025-07-17 08:27:12.327	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-17 08:27:12.329	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-17 08:27:12.329	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7534]	2025-07-17 08:41:33.354	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-17 08:41:33.355	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-17 08:41:33.355	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7534]	2025-07-17 08:42:16.081	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-17 08:42:16.081	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-17 08:42:16.082	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7534]	2025-07-17 09:51:51.470	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-17 09:51:51.471	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-17 09:51:51.471	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7534]	2025-07-17 09:52:25.799	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-17 09:52:25.801	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-17 09:52:25.801	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7515]	2025-07-17 13:49:14.750	- Info  -	[get_last_version_thread] update_rand_time:12; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-17 13:49:14.781	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[7377]	2025-07-17 13:49:25.190	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(93633078>=93623073+10000)
+[7534]	2025-07-17 17:41:40.287	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-17 17:41:40.289	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-17 17:41:40.289	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7515]	2025-07-18 01:49:15.160	- Info  -	[get_last_version_thread] update_rand_time:12; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-18 01:49:15.179	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[7377]	2025-07-18 01:49:25.758	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(136833388>=136823181+10000)
+[7534]	2025-07-18 08:28:04.082	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-18 08:28:04.084	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-18 08:28:04.084	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7534]	2025-07-18 09:30:01.929	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-18 09:30:01.930	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-18 09:30:01.930	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7534]	2025-07-18 09:30:08.583	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-18 09:30:08.586	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-18 09:30:08.587	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7534]	2025-07-18 09:31:07.356	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-18 09:31:07.359	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-18 09:31:07.359	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7534]	2025-07-18 09:31:41.535	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-18 09:31:41.536	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-18 09:31:41.536	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7515]	2025-07-18 13:49:15.707	- Info  -	[get_last_version_thread] update_rand_time:7; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-18 13:49:15.729	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[7377]	2025-07-18 13:49:28.556	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(180035725>=180023278+10000)
+[7534]	2025-07-18 17:37:25.417	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-18 17:37:25.419	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-18 17:37:25.419	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7515]	2025-07-18 20:49:16.027	- Info  -	[get_last_version_thread] update_rand_time:10; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-18 20:49:46.032	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[7377]	2025-07-18 20:49:56.570	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(205263495>=205253333+10000)
+[7515]	2025-07-19 06:49:16.469	- Info  -	[get_last_version_thread] update_rand_time:8; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-19 06:49:26.986	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[7377]	2025-07-19 06:49:37.419	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(241244054>=241234003+10000)
+[7534]	2025-07-19 08:30:17.662	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-19 08:30:17.666	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-19 08:30:17.666	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7534]	2025-07-19 09:19:59.151	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-19 09:19:59.158	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-19 09:19:59.158	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7534]	2025-07-19 09:20:33.496	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-19 09:20:33.497	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-19 09:20:33.497	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7515]	2025-07-19 14:49:16.852	- Info  -	[get_last_version_thread] update_rand_time:11; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-19 14:49:16.872	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[7377]	2025-07-19 14:49:27.454	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(270033857>=270023634+10000)
+[7534]	2025-07-19 17:37:01.905	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-19 17:37:01.906	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-19 17:37:01.906	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7515]	2025-07-20 01:49:17.259	- Info  -	[get_last_version_thread] update_rand_time:11; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-20 01:49:17.278	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[7377]	2025-07-20 01:49:27.849	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(309633975>=309623759+10000)
+[7515]	2025-07-20 12:49:17.758	- Info  -	[get_last_version_thread] update_rand_time:9; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-20 12:49:17.775	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[7377]	2025-07-20 12:49:28.308	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(349234038>=349223870+10000)
+[7515]	2025-07-20 21:49:18.014	- Info  -	[get_last_version_thread] update_rand_time:10; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-20 21:49:18.036	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[7377]	2025-07-20 21:49:28.426	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(381634051>=381624016+10000)
+[7515]	2025-07-21 07:49:18.477	- Info  -	[get_last_version_thread] update_rand_time:6; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-21 07:49:31.067	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[7377]	2025-07-21 07:49:41.608	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(417646894>=417636721+10000)
+[7534]	2025-07-21 08:29:36.597	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-21 08:29:36.601	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-21 08:29:36.601	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7515]	2025-07-21 13:49:18.849	- Info  -	[get_last_version_thread] update_rand_time:12; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-21 13:49:48.851	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[7377]	2025-07-21 13:50:01.743	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(439266807>=439254278+10000)
+[7534]	2025-07-21 17:39:45.044	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-21 17:39:45.047	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-21 17:39:45.047	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7515]	2025-07-22 01:49:19.343	- Info  -	[get_last_version_thread] update_rand_time:8; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-22 01:49:19.363	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[7377]	2025-07-22 01:49:29.954	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(482434598>=482424356+10000)
+[7534]	2025-07-22 08:25:01.668	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-22 08:25:01.669	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-22 08:25:01.669	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7515]	2025-07-22 09:49:19.759	- Info  -	[get_last_version_thread] update_rand_time:8; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-22 09:49:19.781	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[7377]	2025-07-22 09:49:32.655	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(511237032>=511224536+10000)
+[7534]	2025-07-22 17:46:02.942	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-22 17:46:02.943	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-22 17:46:02.944	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7515]	2025-07-22 17:49:19.968	- Info  -	[get_last_version_thread] update_rand_time:8; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-22 17:49:19.988	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[7377]	2025-07-22 17:49:30.587	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(540034815>=540024614+10000)
+[7515]	2025-07-23 01:49:20.376	- Info  -	[get_last_version_thread] update_rand_time:6; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-23 01:49:30.646	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[7377]	2025-07-23 01:49:41.254	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(568845221>=568834958+10000)
+[7515]	2025-07-23 07:49:20.728	- Info  -	[get_last_version_thread] update_rand_time:10; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-23 07:49:21.545	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[7377]	2025-07-23 07:49:32.097	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(590435856>=590425703+10000)
+[7534]	2025-07-23 08:25:27.879	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-23 08:25:27.880	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-23 08:25:27.880	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7534]	2025-07-23 16:17:04.286	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-23 16:17:04.287	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-23 16:17:04.287	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7534]	2025-07-23 16:17:49.961	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-23 16:17:49.965	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-23 16:17:49.965	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7534]	2025-07-23 17:32:48.857	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-23 17:32:48.859	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-23 17:32:48.859	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7515]	2025-07-23 17:49:21.122	- Info  -	[get_last_version_thread] update_rand_time:10; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-23 17:49:21.147	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[7377]	2025-07-23 17:49:31.663	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(626435167>=626425018+10000)
+[7515]	2025-07-24 03:49:21.604	- Info  -	[get_last_version_thread] update_rand_time:6; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-24 03:49:32.020	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[7377]	2025-07-24 03:49:42.504	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(662445665>=662435534+10000)
+[7534]	2025-07-24 08:22:51.189	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-24 08:22:51.192	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-24 08:22:51.192	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7515]	2025-07-24 09:49:21.992	- Info  -	[get_last_version_thread] update_rand_time:6; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-24 09:49:22.015	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[7377]	2025-07-24 09:49:32.605	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(684035522>=684025349+10000)
+[7534]	2025-07-24 14:34:35.471	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-24 14:34:35.472	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-24 14:34:35.473	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7515]	2025-07-24 15:49:22.234	- Info  -	[get_last_version_thread] update_rand_time:9; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-24 15:49:22.253	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[7377]	2025-07-24 15:49:32.853	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(705635667>=705625427+10000)
+[7515]	2025-07-25 00:49:22.766	- Info  -	[get_last_version_thread] update_rand_time:7; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-25 00:49:22.788	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[7377]	2025-07-25 00:49:33.289	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(738035720>=738025596+10000)
+[7515]	2025-07-25 07:49:23.114	- Info  -	[get_last_version_thread] update_rand_time:8; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-25 07:49:23.136	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[7377]	2025-07-25 07:49:33.726	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(763235960>=763225762+10000)
+[7515]	2025-07-25 15:49:23.503	- Info  -	[get_last_version_thread] update_rand_time:7; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-25 15:49:23.532	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[7377]	2025-07-25 15:49:34.123	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(792036115>=792025968+10000)
+[7515]	2025-07-25 22:49:23.859	- Info  -	[get_last_version_thread] update_rand_time:7; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-25 22:49:23.881	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[7377]	2025-07-25 22:49:34.440	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(817236210>=817226031+10000)
+[7515]	2025-07-26 05:49:24.150	- Info  -	[get_last_version_thread] update_rand_time:12; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-26 05:49:24.174	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[7377]	2025-07-26 05:49:34.661	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(842436265>=842426162+10000)
+[7515]	2025-07-26 17:49:24.670	- Info  -	[get_last_version_thread] update_rand_time:6; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-26 17:49:24.692	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[7377]	2025-07-26 17:49:35.287	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(885636500>=885626281+10000)
+[7515]	2025-07-26 23:49:24.927	- Info  -	[get_last_version_thread] update_rand_time:12; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-26 23:49:24.948	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[7377]	2025-07-26 23:49:35.530	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(907236636>=907226411+10000)
+[7516]	2025-07-27 00:33:50.357	- Info  -	[OnReceive] start refresh project
+[7515]	2025-07-27 11:49:25.385	- Info  -	[get_last_version_thread] update_rand_time:8; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-27 11:49:25.407	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[7377]	2025-07-27 11:49:36.001	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(950436776>=950426570+10000)
+[7515]	2025-07-27 19:49:25.892	- Info  -	[get_last_version_thread] update_rand_time:8; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-27 19:49:36.171	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[7377]	2025-07-27 19:49:46.738	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(979247156>=979236982+10000)
+[7515]	2025-07-28 03:49:26.274	- Info  -	[get_last_version_thread] update_rand_time:10; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-28 03:49:36.480	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[7377]	2025-07-28 03:49:47.068	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(1008047254>=1008037045+10000)
+[7534]	2025-07-28 08:30:45.716	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-28 08:30:45.718	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-28 08:30:45.718	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7534]	2025-07-28 13:46:25.781	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-28 13:46:25.784	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-28 13:46:25.784	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7534]	2025-07-28 13:47:01.395	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-28 13:47:01.396	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-28 13:47:01.397	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7515]	2025-07-28 13:49:26.756	- Info  -	[get_last_version_thread] update_rand_time:10; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-28 13:49:26.785	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[7377]	2025-07-28 13:49:37.410	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(1044037242>=1044027063+10000)
+[7534]	2025-07-28 17:50:42.709	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-28 17:50:42.710	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-28 17:50:42.710	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7515]	2025-07-28 23:49:27.164	- Info  -	[get_last_version_thread] update_rand_time:6; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-28 23:49:37.774	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[7377]	2025-07-28 23:49:48.326	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(1080047887>=1080037677+10000)
+[7515]	2025-07-29 05:49:27.604	- Info  -	[get_last_version_thread] update_rand_time:9; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-29 05:49:27.626	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[7377]	2025-07-29 05:49:38.228	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(1101637500>=1101627261+10000)
+[7534]	2025-07-29 08:27:44.173	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-29 08:27:44.177	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-29 08:27:44.177	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7515]	2025-07-29 14:49:27.952	- Info  -	[get_last_version_thread] update_rand_time:7; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-29 14:49:27.972	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[7377]	2025-07-29 14:49:38.561	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(1134037628>=1134027416+10000)
+[7515]	2025-07-29 21:49:28.286	- Info  -	[get_last_version_thread] update_rand_time:12; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-29 21:49:28.309	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[7377]	2025-07-29 21:49:38.875	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(1159237755>=1159227602+10000)
+[7515]	2025-07-30 09:49:28.740	- Info  -	[get_last_version_thread] update_rand_time:8; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-30 09:49:28.832	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[7377]	2025-07-30 09:49:41.664	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(1202440164>=1202427730+10000)
+[7515]	2025-07-30 17:49:29.194	- Info  -	[get_last_version_thread] update_rand_time:10; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-30 17:49:29.212	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[7377]	2025-07-30 17:49:39.810	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(1231238001>=1231227761+10000)
+[7515]	2025-07-31 03:49:29.656	- Info  -	[get_last_version_thread] update_rand_time:7; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-31 03:49:29.677	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[7377]	2025-07-31 03:49:40.275	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(1267238153>=1267227920+10000)
+[7515]	2025-07-31 10:49:29.915	- Info  -	[get_last_version_thread] update_rand_time:8; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-31 10:49:29.935	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[7377]	2025-07-31 10:49:40.465	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(1292438191>=1292428051+10000)
+[7534]	2025-07-31 14:19:57.134	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-31 14:19:57.135	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-31 14:19:57.136	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7534]	2025-07-31 14:20:32.939	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-07-31 14:20:32.941	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-07-31 14:20:32.941	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7515]	2025-07-31 18:49:30.286	- Info  -	[get_last_version_thread] update_rand_time:10; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-07-31 18:49:31.305	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[7377]	2025-07-31 18:49:41.842	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(1321239340>=1321229197+10000)
+[7515]	2025-08-01 04:49:30.732	- Info  -	[get_last_version_thread] update_rand_time:12; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-08-01 04:49:30.753	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[7377]	2025-08-01 04:49:41.233	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(1357238433>=1357228325+10000)
+[7534]	2025-08-01 08:51:59.963	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-08-01 08:51:59.966	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-08-01 08:51:59.966	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7534]	2025-08-01 08:52:43.482	- Info  -	++++++++++++++++++ system configure network changed
+[7534]	2025-08-01 08:52:43.484	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[7534]	2025-08-01 08:52:43.484	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[7515]	2025-08-01 16:49:31.248	- Info  -	[get_last_version_thread] update_rand_time:9; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-08-01 16:49:31.277	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[7377]	2025-08-01 16:49:41.737	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(1400438553>=1400428427+10000)
+[7515]	2025-08-02 01:49:31.654	- Info  -	[get_last_version_thread] update_rand_time:9; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-08-02 01:49:31.675	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[7377]	2025-08-02 01:49:42.256	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(1432838805>=1432828595+10000)
+[7515]	2025-08-02 10:49:32.044	- Info  -	[get_last_version_thread] update_rand_time:8; is_green:false; is_free_install:false ;is_control:false
+[7377]	2025-08-02 10:49:32.065	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[7377]	2025-08-02 10:49:42.595	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(1465238900>=1465228719+10000)
+[7535]	2025-08-02 16:23:59.483	- Info  -	[server::handler] agent(100002) client disconnected, user(wangyan), console()!
+
+[7535]	2025-08-02 16:23:59.484	- Info  -	[mdesktop] revoke_remote disconnect 1133(1485295524)
+[7535]	2025-08-02 16:23:59.484	- Info  -	[mdesktop] revoke remote 1133 OK(1485295524)
+[7534]	2025-08-02 16:23:59.730	- Info  -	++++++++++++++++++ system configure changed old(wangyan) -> current()
+[7534]	2025-08-02 16:23:59.730	- Info  -	[mdesktop] 
+[7534]	2025-08-02 16:23:59.730	- Info  -	[wts_thread] *********************** Waiting for user  login.

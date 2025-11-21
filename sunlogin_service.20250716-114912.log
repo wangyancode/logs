@@ -1,0 +1,1212 @@
+[6041]	2025-06-20 16:26:46.254	- Info  -	Version: 15.6.2.13600, PID: 596
+[6041]	2025-06-20 16:26:46.254	- Info  -	Version: 15.6.2.13600, PID: 596
+[6041]	2025-06-20 16:26:46.254	- Info  -	[LocalServer] iniconfig create config: /etc/orayconfig.conf
+[6041]	2025-06-20 16:26:46.264	- Info  -	DesktopAgentServer created with port 16067.
+[6041]	2025-06-20 16:26:46.320	- Info  -	[LoadProxy] Not use proxy
+[6041]	2025-06-20 16:26:46.340	- Info  -	[get_client_info] get mac address: d0:11:e5:8c:99:6c
+[6041]	2025-06-20 16:26:46.341	- Info  -	[get_client_info] os name:Darwin 24.5.0
+[6041]	2025-06-20 16:26:46.341	- Info  -	[LoginServer] [LocalServer] m_clientinfo.mac: d0:11:e5:8c:99:6c
+[6041]	2025-06-20 16:26:46.362	- Info  -	[OnGetClientIdResult][LocalServer] get client-id result
+[6085]	2025-06-20 16:26:46.362	- Info  -	[client] Do login start with type: license login type
+[6085]	2025-06-20 16:26:46.362	- Info  -	[client] change status to logging
+[6085]	2025-06-20 16:26:46.362	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[6081]	2025-06-20 16:26:46.362	- Info  -	[get_last_version_thread] update_rand_time:7; is_green:false; is_free_install:false ;is_control:false
+[6041]	2025-06-20 16:26:46.362	- Info  -	[Init][LocalServer] @ 1242
+[6041]	2025-06-20 16:26:46.362	* Error *	[Bind] rpc remove addr errcode 2
+[6078]	2025-06-20 16:26:46.364	* Error *	[CSockConnector] Resolve(client-api.oray.com:443) failed
+[6078]	2025-06-20 16:26:46.364	- Info  -	[http::call3][1] disconnected, error( 57394 )
+[6078]	2025-06-20 16:26:46.396	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[6078]	2025-06-20 16:26:46.396	- Info  -	[http::call3][2] disconnected, error( 57394 )
+[6078]	2025-06-20 16:26:46.396	- Info  -	[client] change status to offline
+[6078]	2025-06-20 16:26:46.396	- Info  -	[OnLogout] OnLogout start
+[6078]	2025-06-20 16:26:46.396	- Info  -	[StopAllProjections] stop all projections
+[6078]	2025-06-20 16:26:46.396	- Info  -	[client] retry login after 1000 seconds.
+[6078]	2025-06-20 16:26:46.396	- Info  -	[OnLogout] OnLogout end
+[6082]	2025-06-20 16:26:46.571	- Info  -	[OnNewClient] login success
+[6085]	2025-06-20 16:26:47.432	- Info  -	[client] Do login end with license login type, status: offline.
+[6085]	2025-06-20 16:26:47.432	- Info  -	[client] Do login start with type: license login type
+[6085]	2025-06-20 16:26:47.432	- Info  -	[client] change status to logging
+[6085]	2025-06-20 16:26:47.432	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[6078]	2025-06-20 16:26:47.435	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[6078]	2025-06-20 16:26:47.435	- Info  -	[http::call3][3] disconnected, error( 57394 )
+[6078]	2025-06-20 16:26:47.435	- Info  -	[client] change status to offline
+[6078]	2025-06-20 16:26:47.435	- Info  -	[OnLogout] OnLogout start
+[6078]	2025-06-20 16:26:47.436	- Info  -	[StopAllProjections] stop all projections
+[6078]	2025-06-20 16:26:47.436	- Info  -	[OnLogout] OnLogout end
+[6085]	2025-06-20 16:26:48.449	- Info  -	[client] Do login end with license login type, status: offline.
+[6087]	2025-06-20 16:26:49.154	- Info  -	[server::handler] new agent client connected!
+
+[6087]	2025-06-20 16:26:49.154	- Info  -	[server::handler] agent(-1) client disconnected, user(), console()!
+
+[6087]	2025-06-20 16:26:49.154	- Info  -	[mdesktop] revoke remote 0 OK(28173)
+[6086]	2025-06-20 16:26:49.662	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-06-20 16:26:49.663	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 0, netwok status: 1.
+[6086]	2025-06-20 16:26:49.663	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, do retry.
+[6086]	2025-06-20 16:26:49.664	- Info  -	[LocalServer] call Logout @ 6605
+[6086]	2025-06-20 16:26:49.664	- Info  -	[LoadProxy] Not use proxy
+[6086]	2025-06-20 16:26:49.664	- Info  -	[client] retry login after 0 seconds.
+[6085]	2025-06-20 16:26:49.664	- Info  -	[client] doLogout ...
+[6085]	2025-06-20 16:26:49.664	- Info  -	[client] Do login start with type: license login type
+[6085]	2025-06-20 16:26:49.664	- Info  -	[client] change status to logging
+[6085]	2025-06-20 16:26:49.664	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[6078]	2025-06-20 16:26:49.668	* Error *	[CSockConnector] Resolve(slapi.oray.net:443) failed
+[6078]	2025-06-20 16:26:49.669	- Info  -	[http::call3][4] disconnected, error( 57394 )
+[6078]	2025-06-20 16:26:49.669	- Info  -	[client] change status to offline
+[6078]	2025-06-20 16:26:49.669	- Info  -	[OnLogout] OnLogout start
+[6078]	2025-06-20 16:26:49.669	- Info  -	[StopAllProjections] stop all projections
+[6078]	2025-06-20 16:26:49.669	- Info  -	[client] retry login after 3000 seconds.
+[6078]	2025-06-20 16:26:49.669	- Info  -	[OnLogout] OnLogout end
+[6086]	2025-06-20 16:26:50.004	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-06-20 16:26:50.004	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 0, netwok status: 1.
+[6086]	2025-06-20 16:26:50.004	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, do retry.
+[6086]	2025-06-20 16:26:50.004	- Info  -	[LocalServer] call Logout @ 6605
+[6086]	2025-06-20 16:26:50.004	- Info  -	[LoadProxy] Not use proxy
+[6086]	2025-06-20 16:26:50.004	- Info  -	[client] retry login after 0 seconds.
+[6087]	2025-06-20 16:26:50.214	- Info  -	[server::handler] new agent client connected!
+
+[6087]	2025-06-20 16:26:50.238	- Info  -	[desktop] user_name = wangyan, user_full_name = wangyan
+[6087]	2025-06-20 16:26:50.238	- Info  -	[desktop] ============Recv sid 100003, agent id 689, user name(wangyan)
+[6087]	2025-06-20 16:26:50.238	- Info  -	[mdesktop][tagremote] RegisterRemote 689 OK(29257)
+[6087]	2025-06-20 16:26:50.238	- Info  -	[refresh_user_list]
+[6087]	2025-06-20 16:26:50.238	- Info  -	[refresh_user_list] console wangyan
+[6087]	2025-06-20 16:26:50.238	- Info  -	[mdesktop] (wangyan, 689);
+[6087]	2025-06-20 16:26:50.239	- Info  -	enum user list console(wangyan)([*]689, wangyan);
+[6085]	2025-06-20 16:26:50.683	- Info  -	[client] Do login end with license login type, status: offline.
+[6085]	2025-06-20 16:26:50.683	- Info  -	[client] doLogout ...
+[6085]	2025-06-20 16:26:50.683	- Info  -	[client] Do login start with type: license login type
+[6085]	2025-06-20 16:26:50.683	- Info  -	[client] change status to logging
+[6085]	2025-06-20 16:26:50.683	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[6078]	2025-06-20 16:26:50.686	- Info  -	[CSockConnector] attempt to connect server slapi.oray.net:443(198.18.0.74:443)
+[6078]	2025-06-20 16:26:51.070	- Info  -	[loginWithLicenses] [SunloginClient] IT process_run is 0
+[6078]	2025-06-20 16:26:51.072	- Info  -	[CSockConnector] attempt to connect server rc10-g7.oray.com:443(198.18.1.241:443)
+[6086]	2025-06-20 16:26:51.285	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-06-20 16:26:51.285	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 2, netwok status: 1.
+[6086]	2025-06-20 16:26:51.285	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, do retry.
+[6086]	2025-06-20 16:26:51.286	- Info  -	[LocalServer] call Logout @ 6605
+[6086]	2025-06-20 16:26:51.286	- Info  -	[LoadProxy] Not use proxy
+[6086]	2025-06-20 16:26:51.286	* Error *	[client] retry login is no needed.
+[6084]	2025-06-20 16:26:51.342	- Info  -	[service] send logon
+[6086]	2025-06-20 16:26:51.342	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-06-20 16:26:51.342	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 2, netwok status: 1.
+[6086]	2025-06-20 16:26:51.342	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, do retry.
+[6086]	2025-06-20 16:26:51.342	- Info  -	[LocalServer] call Logout @ 6605
+[6086]	2025-06-20 16:26:51.343	- Info  -	[LoadProxy] Not use proxy
+[6086]	2025-06-20 16:26:51.343	* Error *	[client] retry login is no needed.
+[6084]	2025-06-20 16:26:51.418	- Info  -	[service] logon OK, public address: 58.218.188.178:2092
+[6084]	2025-06-20 16:26:51.455	- Info  -	[online] OK
+[6084]	2025-06-20 16:26:51.456	- Info  -	[client] received name: mac mini, description: .
+[6168]	2025-06-20 16:26:51.458	- Info  -	[service] registering client
+[6084]	2025-06-20 16:26:51.476	- Info  -	[service] client registered
+[6084]	2025-06-20 16:26:51.476	- Info  -	[client] change status to online
+[6078]	2025-06-20 16:26:51.479	- Info  -	[CSockConnector] attempt to connect server sl-log.oray.net:443(198.18.0.78:443)
+[6084]	2025-06-20 16:26:51.491	- Info  -	[OnLogin] OnLogin start
+[6084]	2025-06-20 16:26:51.491	- Info  -	[OnLogin] OnLogin end
+[6078]	2025-06-20 16:26:51.494	- Info  -	[CSockConnector] attempt to connect server api-std.sunlogin.oray.com:443(198.18.0.79:443)
+[6078]	2025-06-20 16:26:51.577	- Info  -	[LocalServer] call UpdateConfigImpl @ 6159
+[6078]	2025-06-20 16:26:51.596	- Info  -	[local_server] set client accesspwd from [ChangeLoginTypeConfig : 9929]
+[6085]	2025-06-20 16:26:51.729	- Info  -	[client] Do login end with license login type, status: online.
+[6085]	2025-06-20 16:26:51.729	- Info  -	[client] doLogout ...
+[6085]	2025-06-20 16:26:51.729	- Info  -	[RemoteControl] disconnected server(198.18.1.241:443),error code:0
+[6085]	2025-06-20 16:26:51.733	* Error *	[online] online disconnected,error code:0
+[6085]	2025-06-20 16:26:51.733	- Info  -	[oray][erroCode] errorcode=errorcode(0), product=0, type=0, inner code=0 [OnDisconnect:86]
+[6085]	2025-06-20 16:26:51.733	- Info  -	[service] disconnected server(198.18.1.241:443),errorcode:0
+[6085]	2025-06-20 16:26:51.733	- Info  -	[client] change status from online to offline
+[6085]	2025-06-20 16:26:51.733	- Info  -	[client] change status to offline
+[6085]	2025-06-20 16:26:51.733	- Info  -	[OnLogout] OnLogout start
+[6085]	2025-06-20 16:26:51.734	- Info  -	[StopAllProjections] stop all projections
+[6085]	2025-06-20 16:26:51.734	- Info  -	[OnLogout] OnLogout end
+[6085]	2025-06-20 16:26:51.734	- Info  -	[client] doLogout ...
+[6085]	2025-06-20 16:26:52.746	- Info  -	[client] Do login start with type: license login type
+[6085]	2025-06-20 16:26:52.746	- Info  -	[client] change status to logging
+[6085]	2025-06-20 16:26:52.746	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[6078]	2025-06-20 16:26:52.859	- Info  -	[loginWithLicenses] [SunloginClient] IT process_run is 0
+[6078]	2025-06-20 16:26:52.861	- Info  -	[CSockConnector] attempt to connect server rc10.oray.com:443(198.18.1.236:443)
+[6084]	2025-06-20 16:26:53.133	- Info  -	[service] send logon
+[6084]	2025-06-20 16:26:53.157	- Info  -	[service] logon OK, public address: 58.218.188.178:16123
+[6084]	2025-06-20 16:26:53.203	- Info  -	[online] OK
+[6084]	2025-06-20 16:26:53.203	- Info  -	[client] received name: mac mini, description: .
+[6168]	2025-06-20 16:26:53.205	- Info  -	[service] registering client
+[6084]	2025-06-20 16:26:53.225	- Info  -	[service] client registered
+[6084]	2025-06-20 16:26:53.226	- Info  -	[client] change status to online
+[6084]	2025-06-20 16:26:53.241	- Info  -	[OnLogin] OnLogin start
+[6084]	2025-06-20 16:26:53.241	- Info  -	[OnLogin] OnLogin end
+[6078]	2025-06-20 16:26:53.321	- Info  -	[LocalServer] call UpdateConfigImpl @ 6159
+[6078]	2025-06-20 16:26:53.341	- Info  -	[local_server] set client accesspwd from [ChangeLoginTypeConfig : 9929]
+[6085]	2025-06-20 16:26:53.765	- Info  -	[client] Do login end with license login type, status: online.
+[6084]	2025-06-20 16:28:44.848	* Error *	[online] online disconnected,error code:0
+[6084]	2025-06-20 16:28:44.849	- Info  -	[oray][erroCode] errorcode=errorcode(0), product=0, type=0, inner code=0 [OnDisconnect:86]
+[6084]	2025-06-20 16:28:44.849	- Info  -	[RemoteControl] disconnected server(198.18.1.236:443),error code:0
+[6084]	2025-06-20 16:28:44.849	- Info  -	[service] disconnected server(198.18.1.236:443),errorcode:49152
+[6084]	2025-06-20 16:28:44.849	- Info  -	[client] change status from online to offline
+[6084]	2025-06-20 16:28:44.849	- Info  -	[client] change status to offline
+[6084]	2025-06-20 16:28:44.850	- Info  -	[OnLogout] OnLogout start
+[6084]	2025-06-20 16:28:44.851	- Info  -	[StopAllProjections] stop all projections
+[6084]	2025-06-20 16:28:44.851	- Info  -	[OnLogout] OnLogout end
+[6086]	2025-06-20 16:28:44.911	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-06-20 16:28:44.912	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 0, netwok status: 1.
+[6086]	2025-06-20 16:28:44.912	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, do retry.
+[6086]	2025-06-20 16:28:44.912	- Info  -	[LocalServer] call Logout @ 6605
+[6085]	2025-06-20 16:28:44.912	- Info  -	[client] doLogout ...
+[6086]	2025-06-20 16:28:44.912	- Info  -	[LoadProxy] Not use proxy
+[6086]	2025-06-20 16:28:44.912	- Info  -	[client] retry login after 0 seconds.
+[6085]	2025-06-20 16:28:44.912	- Info  -	[client] Do login start with type: license login type
+[6085]	2025-06-20 16:28:44.912	- Info  -	[client] change status to logging
+[6085]	2025-06-20 16:28:44.912	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[6078]	2025-06-20 16:28:44.969	- Info  -	[CSockConnector] attempt to connect server sl-log.oray.net:443(47.97.106.171:443)
+[6078]	2025-06-20 16:28:45.006	- Info  -	[CSockConnector] attempt to connect server slapi.oray.net:443(47.98.232.26:443)
+[6078]	2025-06-20 16:28:45.291	- Info  -	[loginWithLicenses] [SunloginClient] IT process_run is 0
+[6078]	2025-06-20 16:28:45.309	- Info  -	[CSockConnector] attempt to connect server rc10.oray.com:443(47.111.154.78:443)
+[6084]	2025-06-20 16:28:45.520	- Info  -	[service] send logon
+[6084]	2025-06-20 16:28:45.543	- Info  -	[service] logon OK, public address: 58.218.188.178:2192
+[6084]	2025-06-20 16:28:45.582	- Info  -	[online] OK
+[6084]	2025-06-20 16:28:45.582	- Info  -	[client] received name: mac mini, description: .
+[6168]	2025-06-20 16:28:45.583	- Info  -	[service] registering client
+[6084]	2025-06-20 16:28:45.604	- Info  -	[service] client registered
+[6084]	2025-06-20 16:28:45.604	- Info  -	[client] change status to online
+[6084]	2025-06-20 16:28:45.615	- Info  -	[OnLogin] OnLogin start
+[6084]	2025-06-20 16:28:45.616	- Info  -	[OnLogin] OnLogin end
+[6078]	2025-06-20 16:28:45.649	- Info  -	[CSockConnector] attempt to connect server api-std.sunlogin.oray.com:443(121.199.35.89:443)
+[6078]	2025-06-20 16:28:45.714	- Info  -	[LocalServer] call UpdateConfigImpl @ 6159
+[6078]	2025-06-20 16:28:45.736	- Info  -	[local_server] set client accesspwd from [ChangeLoginTypeConfig : 9929]
+[6085]	2025-06-20 16:28:45.952	- Info  -	[client] Do login end with license login type, status: online.
+[6081]	2025-06-20 23:26:46.153	- Info  -	[get_last_version_thread] update_rand_time:6; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-06-20 23:26:46.172	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[6078]	2025-06-20 23:26:56.686	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(25235993>=25225837+10000)
+[6081]	2025-06-21 05:26:46.498	- Info  -	[get_last_version_thread] update_rand_time:6; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-06-21 05:26:46.516	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[6078]	2025-06-21 05:26:57.124	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(46836203>=46825968+10000)
+[6081]	2025-06-21 11:26:46.819	- Info  -	[get_last_version_thread] update_rand_time:11; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-06-21 11:26:46.840	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[6078]	2025-06-21 11:26:57.412	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(68436316>=68426182+10000)
+[6081]	2025-06-21 22:26:47.247	- Info  -	[get_last_version_thread] update_rand_time:12; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-06-21 22:26:47.271	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[6078]	2025-06-21 22:26:57.822	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(108036447>=108026269+10000)
+[6086]	2025-06-22 00:33:51.721	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-06-22 00:33:51.723	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-06-22 00:33:51.723	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6081]	2025-06-22 10:26:47.776	- Info  -	[get_last_version_thread] update_rand_time:11; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-06-22 10:26:47.797	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[6078]	2025-06-22 10:27:00.552	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(151238794>=151226412+10000)
+[6081]	2025-06-22 21:26:48.221	- Info  -	[get_last_version_thread] update_rand_time:8; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-06-22 21:26:48.240	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[6078]	2025-06-22 21:27:01.167	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(190839088>=190826563+10000)
+[6081]	2025-06-23 05:26:48.491	- Info  -	[get_last_version_thread] update_rand_time:6; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-06-23 05:27:03.527	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[6078]	2025-06-23 05:27:13.951	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(219651700>=219641643+10000)
+[6086]	2025-06-23 08:22:05.331	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-06-23 08:22:05.332	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-06-23 08:22:05.332	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6082]	2025-06-23 08:34:08.539	- Info  -	[OnReceive] set IT JY process_run
+[6081]	2025-06-23 11:26:48.869	- Info  -	[get_last_version_thread] update_rand_time:11; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-06-23 11:26:48.886	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[6078]	2025-06-23 11:27:01.687	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(241239206>=241226786+10000)
+[6086]	2025-06-23 17:58:26.738	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-06-23 17:58:26.740	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-06-23 17:58:26.740	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6081]	2025-06-23 22:26:49.250	- Info  -	[get_last_version_thread] update_rand_time:10; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-06-23 22:26:49.272	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[6078]	2025-06-23 22:26:59.841	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(280837033>=280826857+10000)
+[6081]	2025-06-24 08:26:49.697	- Info  -	[get_last_version_thread] update_rand_time:6; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-06-24 08:26:49.716	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[6078]	2025-06-24 08:27:00.208	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(316837076>=316826958+10000)
+[6086]	2025-06-24 08:32:26.023	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-06-24 08:32:26.025	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-06-24 08:32:26.025	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6081]	2025-06-24 14:26:49.990	- Info  -	[get_last_version_thread] update_rand_time:10; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-06-24 14:26:50.009	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[6078]	2025-06-24 14:27:00.530	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(338437254>=338427101+10000)
+[6086]	2025-06-24 17:49:17.428	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-06-24 17:49:17.429	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-06-24 17:49:17.429	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6081]	2025-06-25 00:26:50.336	- Info  -	[get_last_version_thread] update_rand_time:7; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-06-25 00:26:50.352	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[6078]	2025-06-25 00:27:00.929	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(374437332>=374427124+10000)
+[6081]	2025-06-25 07:26:50.664	- Info  -	[get_last_version_thread] update_rand_time:12; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-06-25 07:26:50.688	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[6078]	2025-06-25 07:27:01.203	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(399637423>=399627304+10000)
+[6086]	2025-06-25 08:27:15.241	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-06-25 08:27:15.244	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-06-25 08:27:15.244	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6081]	2025-06-25 19:26:51.209	- Info  -	[get_last_version_thread] update_rand_time:8; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-06-25 19:26:51.232	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[6078]	2025-06-25 19:27:01.810	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(442837633>=442827416+10000)
+[6081]	2025-06-26 03:26:51.566	- Info  -	[get_last_version_thread] update_rand_time:8; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-06-26 03:26:51.587	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[6078]	2025-06-26 03:27:02.132	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(471637746>=471627558+10000)
+[6081]	2025-06-26 11:26:51.852	- Info  -	[get_last_version_thread] update_rand_time:11; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-06-26 11:26:51.879	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[6078]	2025-06-26 11:27:02.346	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(500437824>=500427765+10000)
+[6081]	2025-06-26 22:26:52.396	- Info  -	[get_last_version_thread] update_rand_time:10; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-06-26 22:26:52.417	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[6078]	2025-06-26 22:27:02.942	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(540038026>=540027881+10000)
+[6081]	2025-06-27 08:26:52.853	- Info  -	[get_last_version_thread] update_rand_time:8; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-06-27 08:26:52.873	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[6078]	2025-06-27 08:27:03.442	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(576038217>=576027989+10000)
+[6081]	2025-06-27 16:26:53.177	- Info  -	[get_last_version_thread] update_rand_time:10; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-06-27 16:26:53.200	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[6078]	2025-06-27 16:27:06.198	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(604840798>=604828154+10000)
+[6081]	2025-06-28 02:26:53.644	- Info  -	[get_last_version_thread] update_rand_time:11; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-06-28 02:26:53.672	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[6078]	2025-06-28 02:27:04.255	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(640838528>=640828279+10000)
+[6081]	2025-06-28 13:26:54.105	- Info  -	[get_last_version_thread] update_rand_time:10; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-06-28 13:26:54.124	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[6078]	2025-06-28 13:27:04.597	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(680438557>=680428459+10000)
+[6081]	2025-06-28 23:26:54.567	- Info  -	[get_last_version_thread] update_rand_time:12; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-06-28 23:26:54.584	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[6078]	2025-06-28 23:27:07.541	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(716441187>=716428611+10000)
+[13631]	2025-06-29 04:18:18.658	+Warning+	[passive:keepalive:] 47.111.154.78:443 disconnect by keepalive timeout(733912234>=733765287+120000)
+[13631]	2025-06-29 04:18:18.660	* Error *	[online] online disconnected,error code:0
+[13631]	2025-06-29 04:18:18.660	- Info  -	[oray][erroCode] errorcode=errorcode(0), product=0, type=0, inner code=0 [OnDisconnect:86]
+[13631]	2025-06-29 04:18:18.661	- Info  -	[RemoteControl] disconnected server(47.111.154.78:443),error code:0
+[13631]	2025-06-29 04:18:18.661	- Info  -	[service] disconnected server(47.111.154.78:443),errorcode:0
+[13631]	2025-06-29 04:18:18.662	- Info  -	[client] change status from online to offline
+[13631]	2025-06-29 04:18:18.663	- Info  -	[client] change status to offline
+[13631]	2025-06-29 04:18:18.663	- Info  -	[OnLogout] OnLogout start
+[13631]	2025-06-29 04:18:18.663	- Info  -	[StopAllProjections] stop all projections
+[13631]	2025-06-29 04:18:18.664	- Info  -	[client] retry login after 3000 seconds.
+[13631]	2025-06-29 04:18:18.664	- Info  -	[OnLogout] OnLogout end
+[6078]	2025-06-29 04:18:18.685	- Info  -	[CSockConnector] attempt to connect server sl-log.oray.net:443(121.40.118.44:443)
+[6085]	2025-06-29 04:18:21.669	- Info  -	[client] Do login start with type: license login type
+[6085]	2025-06-29 04:18:21.669	- Info  -	[client] change status to logging
+[6085]	2025-06-29 04:18:21.671	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[6078]	2025-06-29 04:18:21.689	- Info  -	[CSockConnector] attempt to connect server slapi.oray.net:443(47.98.232.26:443)
+[6078]	2025-06-29 04:18:22.061	- Info  -	[loginWithLicenses] [SunloginClient] IT process_run is 0
+[6078]	2025-06-29 04:18:22.091	- Info  -	[CSockConnector] attempt to connect server rc10-g2.oray.com:443(47.111.166.117:443)
+[6084]	2025-06-29 04:18:22.323	- Info  -	[service] send logon
+[6084]	2025-06-29 04:18:22.350	- Info  -	[service] logon OK, public address: 58.218.188.178:2375
+[6084]	2025-06-29 04:18:22.395	- Info  -	[online] OK
+[6084]	2025-06-29 04:18:22.396	- Info  -	[client] received name: mac mini, description: .
+[6168]	2025-06-29 04:18:22.398	- Info  -	[service] registering client
+[6084]	2025-06-29 04:18:22.420	- Info  -	[service] client registered
+[6084]	2025-06-29 04:18:22.420	- Info  -	[client] change status to online
+[6084]	2025-06-29 04:18:22.432	- Info  -	[OnLogin] OnLogin start
+[6084]	2025-06-29 04:18:22.432	- Info  -	[OnLogin] OnLogin end
+[6078]	2025-06-29 04:18:22.435	- Info  -	[CSockConnector] attempt to connect server api-std.sunlogin.oray.com:443(121.199.35.89:443)
+[6078]	2025-06-29 04:18:22.537	- Info  -	[LocalServer] call UpdateConfigImpl @ 6159
+[6078]	2025-06-29 04:18:22.569	- Info  -	[local_server] set client accesspwd from [ChangeLoginTypeConfig : 9929]
+[6085]	2025-06-29 04:18:22.809	- Info  -	[client] Do login end with license login type, status: online.
+[6081]	2025-06-29 11:26:54.990	- Info  -	[get_last_version_thread] update_rand_time:8; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-06-29 11:26:55.008	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[6078]	2025-06-29 11:27:05.597	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(759638946>=759628711+10000)
+[6081]	2025-06-29 19:26:55.361	- Info  -	[get_last_version_thread] update_rand_time:12; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-06-29 19:26:55.381	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[6078]	2025-06-29 19:27:05.860	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(788438968>=788428856+10000)
+[6081]	2025-06-30 07:26:55.807	- Info  -	[get_last_version_thread] update_rand_time:7; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-06-30 07:26:55.826	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[6078]	2025-06-30 07:27:06.236	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(831639044>=831628969+10000)
+[6086]	2025-06-30 09:34:23.261	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-06-30 09:34:23.263	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-06-30 09:34:23.263	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6086]	2025-06-30 09:34:59.707	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-06-30 09:34:59.709	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-06-30 09:34:59.709	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6081]	2025-06-30 14:26:56.123	- Info  -	[get_last_version_thread] update_rand_time:9; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-06-30 14:26:56.156	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[6078]	2025-06-30 14:27:08.920	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(856841565>=856829189+10000)
+[6081]	2025-06-30 23:26:56.478	- Info  -	[get_last_version_thread] update_rand_time:7; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-06-30 23:26:56.496	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[6078]	2025-06-30 23:27:07.006	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(889239342>=889229209+10000)
+[6081]	2025-07-01 06:26:56.695	- Info  -	[get_last_version_thread] update_rand_time:6; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-01 06:26:56.712	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[6078]	2025-07-01 06:27:07.314	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(914439513>=914429291+10000)
+[6086]	2025-07-01 11:10:49.467	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-07-01 11:10:49.469	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-07-01 11:10:49.469	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6086]	2025-07-01 11:11:10.845	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-07-01 11:11:10.847	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-07-01 11:11:10.847	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6084]	2025-07-01 11:15:50.206	- Info  -	[online] received express login
+[6084]	2025-07-01 11:15:50.208	- Info  -	[LoginUtils] receive express login request from online
+[6084]	2025-07-01 11:15:50.208	- Info  -	[SunloginClient] Check password: type(0), account(), password is empty(no)
+[6084]	2025-07-01 11:15:50.208	* Error *	oray error code:134340609,error message:verify password fail
+[6084]	2025-07-01 11:15:56.161	- Info  -	[online] received express login
+[6084]	2025-07-01 11:15:56.161	- Info  -	[LoginUtils] receive express login request from online
+[6084]	2025-07-01 11:15:56.162	- Info  -	[SunloginClient] Check password: type(0), account(), password is empty(no)
+[6084]	2025-07-01 11:15:56.162	* Error *	oray error code:134340609,error message:verify password fail
+[6084]	2025-07-01 11:16:01.541	- Info  -	[online] received express login
+[6084]	2025-07-01 11:16:01.541	- Info  -	[LoginUtils] receive express login request from online
+[6084]	2025-07-01 11:16:01.541	- Info  -	[SunloginClient] Check password: type(0), account(), password is empty(no)
+[6084]	2025-07-01 11:16:01.546	- Info  -	[service] connect pgy server, domain=slp2p-336121-std.oray.net:4118, ip=182.100.46.65:4118
+[6084]	2025-07-01 11:16:01.548	- Info  -	[session_manage] max session count = 1001
+[6084]	2025-07-01 11:16:01.587	* Error *	[udp_service] init fail, resolve hostname() fail, IPv6
+[6084]	2025-07-01 11:16:01.595	- Info  -	[p2p_server_connect] try to connect p2p server(182.100.46.65:4118), key(SHA1:qrjatydi;7mOnUK5tVxsHtLvO2/R9SOxftVQ=)
+[6084]	2025-07-01 11:16:01.595	- Info  -	[udp_service] connect SendConnectMsg encrypt is 0
+[6084]	2025-07-01 11:16:01.604	- Info  -	[udp_service] SendConnectMsg(182.100.46.65) return OK, sid=1
+[6084]	2025-07-01 11:16:01.610	- Info  -	[service] start listen OK, tcp:disable, udp:15985, udp6:0
+[6084]	2025-07-01 11:16:01.612	- Info  -	[service] connect ipv4 p2p server @ 182.100.46.65:4118
+[26907155]	2025-07-01 11:16:01.652	- Info  -	[udp_service] OnConnectOK ipport(182.100.46.65:4118) iprealport(182.100.46.65:4118), as client
+[26907155]	2025-07-01 11:16:01.652	* Error *	[p2p_server_connect] can not get local ipv6 when server connected
+[6084]	2025-07-01 11:16:01.653	- Info  -	[CConnection] instance CryptoTypeAes CConnection
+[26907155]	2025-07-01 11:16:01.697	- Info  -	[p2p_server_connect] login p2p server OK, sid 1, public ip 58.218.188.178:2258, udp forward support ON, my index 416886388
+[26907155]	2025-07-01 11:16:01.697	- Info  -	[CPgyConnector] PGYAcceptor::OnPgyLogin, public=58.218.188.178:2258, private=172.168.10.59:15295, p2pIndex=416886388
+[26907203]	2025-07-01 11:16:01.704	- Info  -	[P2PAccepter] connect p2p server 182.100.46.65:4118 OK
+[26907203]	2025-07-01 11:16:01.704	- Info  -	[P2PAccepter] detect local address 172.168.10.59:15985
+[26907203]	2025-07-01 11:16:01.753	- Info  -	[P2PAccepter] login p2p server [182.100.46.65:4118] OK, received public ip 58.218.188.178:2259, local ip 172.168.10.59:15985, index 627366345
+[26907203]	2025-07-01 11:16:01.754	- Info  -	[LoginUtils] P2P_INDEX = 627366345
+[26907203]	2025-07-01 11:16:01.754	- Info  -	[LoginUtils] access address PHSRC://627366345.slp2p-336121-std.oray.net:4118/, PHSRC_HTTPS://627366345.slp2p-336121-std.oray.net:443/, UsingMultiChannel://MP;UR://;
+[26907203]	2025-07-01 11:16:02.266	- Info  -	[P2PAccepter] attempted to create forward tunnel slp2p-336121-std.oray.net:443 with ssl
+[26907203]	2025-07-01 11:16:02.266	- Info  -	[P2PAccepter][TCP] attempt to create forward tunnel, server slp2p-336121-std.oray.net:443(182.100.46.65:443), ssl:true
+[26907203]	2025-07-01 11:16:02.266	- Info  -	[P2PAccepter][TCP] attempt to connect tcp server 182.100.46.65:443,13595
+[26907203]	2025-07-01 11:16:02.267	- Info  -	[CSockConnector] attempt to connect server 182.100.46.65:443(182.100.46.65:443)
+[6168]	2025-07-01 11:16:02.503	- Info  -	[Acceptor][HTTP] check session: true
+[6168]	2025-07-01 11:16:02.505	- Info  -	[BindForwardStream] Bind a forward(ipv4) stream
+[6168]	2025-07-01 11:16:02.505	- Info  -	[handle_event] event name: FWD_CONNECTED_4(TCP), error: 0
+[6168]	2025-07-01 11:16:02.505	- Info  -	[handle_event] switch mode to tcp4 forward
+[6168]	2025-07-01 11:16:02.505	- Info  -	[ChoiceTransferMode] switch mode to fw(tcp4)
+[6168]	2025-07-01 11:16:02.505	- Info  -	[PluginStream] MultiChannel connected server 
+[6168]	2025-07-01 11:16:02.505	- Info  -	[handle_packet] fw4 report index 0
+[6168]	2025-07-01 11:16:02.505	- Info  -	[handle_packet][0x105809c00] change mode to fw4
+[6168]	2025-07-01 11:16:02.505	- Info  -	[PluginStream] receive plugin stream logon message
+[6168]	2025-07-01 11:16:02.505	- Info  -	[PluginStream] CheckCode OK, plugin: desktop
+[6168]	2025-07-01 11:16:02.505	- Info  -	[PluginStream] CPluginStream::CheckCode succeeded, plugin: desktop
+[6168]	2025-07-01 11:16:02.505	- Info  -	[Service] start plugin desktop ...
+[6168]	2025-07-01 11:16:02.506	- Info  -	[mdesktop] IMultiDesktopRouter::RegisterControl 1 OK
+[6168]	2025-07-01 11:16:02.506	- Info  -	[Service] start plugin desktop ok, index :1
+[6168]	2025-07-01 11:16:02.506	- Info  -	[PluginStream] login successed @ 285
+[6168]	2025-07-01 11:16:02.506	- Info  -	[PluginStream] MultiChannel connection  logged
+[6168]	2025-07-01 11:16:02.506	- Info  -	[client] PostPluguinLogImpl, event: control_start, plugin: desktop
+[6078]	2025-07-01 11:16:02.527	- Info  -	[CSockConnector] attempt to connect server sl-log.oray.net:443(120.26.160.74:443)
+[26907273]	2025-07-01 11:16:02.550	+Warning+	[mdesktop] discard data control(1), size=20
+[26907273]	2025-07-01 11:16:02.550	- Info  -	[control] ******** OnEnumUser control(1) console()
+[26907273]	2025-07-01 11:16:02.550	- Info  -	[mdesktop] (wangyan, 689);
+[26907273]	2025-07-01 11:16:02.551	- Info  -	enum user list console()(689, wangyan);
+[26907273]	2025-07-01 11:16:02.595	- Info  -	[control] OnSwitchHos sid(689), id(1)
+[26907273]	2025-07-01 11:16:02.595	- Info  -	[service] Run Desktop 689, 931774549
+[26907273]	2025-07-01 11:16:02.595	- Info  -	[mdesktop] Connect desktop 689 exists.
+[26907273]	2025-07-01 11:16:02.595	- Info  -	[mdesktop] connect_desktop control(1) remote(689)
+[26907273]	2025-07-01 11:16:02.595	- Info  -	[desktop] stop plugin(wangyan)
+[26907273]	2025-07-01 11:16:02.598	- Info  -	[GetConfigDatas] [LocalServer] FastControl log in : false
+[26907273]	2025-07-01 11:16:02.599	- Info  -	[add_ctrl] add host (1)
+[26907273]	2025-07-01 11:16:02.599	- Info  -	[mdesktop] ConnectDesktop send SWITCH_HOST_MESSAGE_RES(689,1) OK
+[26907222]	2025-07-01 11:16:05.509	- Info  -	[upnp] discovery ok, find root devices: http://172.168.10.235:1900/igd.xml
+[26907222]	2025-07-01 11:16:05.511	- Info  -	[upnp] external ip address: 0.0.0.0
+[26907222]	2025-07-01 11:16:05.511	- Info  -	[upnp] search end
+[26907203]	2025-07-01 11:16:05.522	- Info  -	[P2PAccepter] [182.100.46.65:4118] receive P2P request (public 58.218.188.178:2260 local 172.168.30.243:15696), delay r:48/c:55
+[26907203]	2025-07-01 11:16:05.523	- Info  -	[udpwrapper] P2PHolePunch 58.218.188.178:2260 
+[26907203]	2025-07-01 11:16:05.587	- Info  -	[upnp] add_port_mapping external port 2259, internalclient ip 172.168.10.59, internal port 15985
+[26907203]	2025-07-01 11:16:05.589	+Warning+	[udpwrapper] add UPNP failed, Fail to add port mapping (slrc/ UDP)
+
+[26907203]	2025-07-01 11:16:11.374	- Info  -	[P2PAccepter] [182.100.46.65:4118] receive P2P request (public 58.218.188.178:2261 local 172.168.30.243:15566), delay r:48/c:74
+[26907203]	2025-07-01 11:16:11.375	- Info  -	[udpwrapper] P2PHolePunch 58.218.188.178:2261 
+[26907203]	2025-07-01 11:16:11.436	- Info  -	[upnp] add_port_mapping external port 2259, internalclient ip 172.168.10.59, internal port 15985
+[26907203]	2025-07-01 11:16:11.439	+Warning+	[udpwrapper] add UPNP failed, Fail to add port mapping (slrc/ UDP)
+
+[26907202]	2025-07-01 11:16:11.559	- Info  -	[CConnection] instance CryptoTypeAes CConnection
+[26907202]	2025-07-01 11:16:11.559	- Info  -	[udp] support straight send in peer : no 172.168.30.243:15566 OnConnectRequest
+[26907202]	2025-07-01 11:16:11.566	- Info  -	[udp] OnConnectAck with 172.168.30.243:15566, mode 2, peer straight send no
+[26907203]	2025-07-01 11:16:11.566	- Info  -	[udpwrapper] create a new stream(relay=false), and accept 0.0.0.0:15985 @ 876
+[26907203]	2025-07-01 11:16:11.566	- Info  -	[service][UdpAcceptor] new acceptor 172.168.30.243:15566-->0.0.0.0:15985
+[26907203]	2025-07-01 11:16:11.566	- Info  -	[BindP2PStream] Bind a p2p0(ipv4) stream
+[26907203]	2025-07-01 11:16:11.567	- Info  -	[handle_event] event name: P2P_CONNECTED_0(KCP OR UDX), error: 0
+[26907203]	2025-07-01 11:16:11.567	- Info  -	[handle_packet] p2p0(ipv4) report index 94
+[26907203]	2025-07-01 11:16:11.567	- Info  -	[handle_packet][0x105809c00] change mode to p2p0(ipv4)
+[6168]	2025-07-01 11:17:17.049	+Warning+	[passive:keepalive:] 182.100.46.65:4118 disconnect by keepalive timeout(931849001>=931783328+60002)
+[6168]	2025-07-01 11:17:17.049	- Info  -	[udp] Disconnect
+[6168]	2025-07-01 11:17:17.049	- Info  -	[P2PAccepter] 182.100.46.65:4118 disconnected,error code:57351
+[6168]	2025-07-01 11:17:17.049	- Info  -	[LoginUtils] tcp handler size: 0, tcp6 handler size: 0, udp handler size: 0, udp6 handler size: 0
+[26907202]	2025-07-01 11:17:17.096	- Info  -	[service][UdpAcceptor] disconnect, reason: REASON_SEND_MSG, port: 15985, remote ip 182.100.46.65:4118
+[26907202]	2025-07-01 11:17:17.096	- Info  -	[oray][erroCode] errorcode=oray_errorcode(57354), product=0, type=3, inner code=10 [OnDisconnect:955]
+[6168]	2025-07-01 11:18:22.497	- Info  -	[handle_event] event name: FWD_DISCONNECT_4(TCP), error: 0
+[6168]	2025-07-01 11:18:22.498	- Info  -	[handle_event] fw4 disconnect
+[26907202]	2025-07-01 11:18:22.682	- Info  -	[service][UdpAcceptor] disconnect, reason: REASON_RECV_MSG, port: 15985, remote ip 172.168.30.243:15566
+[26907202]	2025-07-01 11:18:22.682	- Info  -	[oray][erroCode] errorcode=oray_errorcode(57355), product=0, type=3, inner code=11 [OnDisconnect:955]
+[26907202]	2025-07-01 11:18:22.682	- Info  -	[udp] Disconnect
+[26907202]	2025-07-01 11:18:22.682	- Info  -	[handle_event] event name: P2P_DISCONNECT_0(KCP OR UDX), error: 57355
+[26907202]	2025-07-01 11:18:22.682	- Info  -	[handle_event] p2p0 disconnect
+[26907202]	2025-07-01 11:18:22.955	- Info  -	[PluginStream] MultiChannel disconnected server ,error code:57355
+[26907273]	2025-07-01 11:18:22.955	- Info  -	[mdesktop] revoke_control earse old remote 689
+[26907273]	2025-07-01 11:18:22.955	- Info  -	[mdesktop] IMultiDesktopRouter::RevokeControl 1 OK
+[26907273]	2025-07-01 11:18:22.955	- Info  -	[remove_ctrl] remove host (0)
+[26907273]	2025-07-01 11:18:22.955	- Info  -	[mdesktop] revoke_control 689
+[26907273]	2025-07-01 11:18:22.955	- Info  -	[desktop] stop plugin(wangyan)
+[26907202]	2025-07-01 11:18:22.956	- Info  -	[FlushAccessPwd] FlushAccessPwd
+[26907202]	2025-07-01 11:18:22.958	- Info  -	[client] PostPluguinLogImpl, event: control_end, plugin: desktop
+[6078]	2025-07-01 11:18:22.975	- Info  -	[CSockConnector] attempt to connect server sl-log.oray.net:443(120.26.160.74:443)
+[6168]	2025-07-01 11:18:23.756	- Info  -	[CUDPLibWrapper] map size: 0, value: 
+[26907203]	2025-07-01 11:18:23.756	- Info  -	[udp] CUdpStack::MyThread::OnStop
+[26907202]	2025-07-01 11:18:23.756	- Info  -	[udp] CUdpStack::MyThread::OnStop
+[6168]	2025-07-01 11:18:23.757	- Info  -	[service] stop listen OK
+[6084]	2025-07-01 11:19:32.805	- Info  -	[online] received express login
+[6084]	2025-07-01 11:19:32.806	- Info  -	[LoginUtils] receive express login request from online
+[6084]	2025-07-01 11:19:32.807	- Info  -	[SunloginClient] Check password: type(0), account(), password is empty(no)
+[6084]	2025-07-01 11:19:32.810	- Info  -	[service] connect pgy server, domain=slp2p-333125-std.oray.net:4118, ip=122.246.13.159:4118
+[6084]	2025-07-01 11:19:32.810	- Info  -	[udp] Disconnect
+[26907155]	2025-07-01 11:19:32.810	- Info  -	[udp] CUdpStack::MyThread::OnStop
+[26907154]	2025-07-01 11:19:32.810	- Info  -	[udp] CUdpStack::MyThread::OnStop
+[6084]	2025-07-01 11:19:32.811	- Info  -	[session_manage] max session count = 1001
+[6084]	2025-07-01 11:19:32.830	* Error *	[udp_service] init fail, resolve hostname() fail, IPv6
+[6084]	2025-07-01 11:19:32.830	- Info  -	[p2p_server_connect] try to connect p2p server(122.246.13.159:4118), key(SHA1:qrjatydi;7mOnUK5tVxsHtLvO2/R9SOxftVQ=)
+[6084]	2025-07-01 11:19:32.830	- Info  -	[udp_service] connect SendConnectMsg encrypt is 0
+[6084]	2025-07-01 11:19:32.853	- Info  -	[udp_service] SendConnectMsg(122.246.13.159) return OK, sid=1
+[6084]	2025-07-01 11:19:32.853	- Info  -	[service] start listen OK, tcp:disable, udp:15694, udp6:0
+[6084]	2025-07-01 11:19:32.853	- Info  -	[service] connect ipv4 p2p server @ 122.246.13.159:4118
+[6084]	2025-07-01 11:19:32.863	- Info  -	[CConnection] instance CryptoTypeAes CConnection
+[26912130]	2025-07-01 11:19:32.903	- Info  -	[udp_service] OnConnectOK ipport(122.246.13.159:4118) iprealport(122.246.13.159:4118), as client
+[26912130]	2025-07-01 11:19:32.903	* Error *	[p2p_server_connect] can not get local ipv6 when server connected
+[26912147]	2025-07-01 11:19:32.911	- Info  -	[P2PAccepter] connect p2p server 122.246.13.159:4118 OK
+[26912147]	2025-07-01 11:19:32.912	- Info  -	[P2PAccepter] detect local address 172.168.10.59:15694
+[26912130]	2025-07-01 11:19:32.950	- Info  -	[p2p_server_connect] login p2p server OK, sid 1, public ip 58.218.188.178:2231, udp forward support ON, my index 708135236
+[26912130]	2025-07-01 11:19:32.950	- Info  -	[CPgyConnector] PGYAcceptor::OnPgyLogin, public=58.218.188.178:2231, private=172.168.10.59:15583, p2pIndex=708135236
+[26912147]	2025-07-01 11:19:32.955	- Info  -	[P2PAccepter] login p2p server [122.246.13.159:4118] OK, received public ip 58.218.188.178:2232, local ip 172.168.10.59:15694, index 72580712
+[26912147]	2025-07-01 11:19:32.956	- Info  -	[LoginUtils] P2P_INDEX = 72580712
+[26912147]	2025-07-01 11:19:32.956	- Info  -	[LoginUtils] access address PHSRC://72580712.slp2p-333125-std.oray.net:4118/, PHSRC_HTTPS://72580712.slp2p-333125-std.oray.net:443/, UsingMultiChannel://MP;UR://;
+[26912147]	2025-07-01 11:19:33.425	- Info  -	[P2PAccepter] attempted to create forward tunnel slp2p-333125-std.oray.net:443 with ssl
+[26912147]	2025-07-01 11:19:33.425	- Info  -	[P2PAccepter][TCP] attempt to create forward tunnel, server slp2p-333125-std.oray.net:443(122.246.13.159:443), ssl:true
+[26912147]	2025-07-01 11:19:33.425	- Info  -	[P2PAccepter][TCP] attempt to connect tcp server 122.246.13.159:443,2110
+[26912147]	2025-07-01 11:19:33.426	- Info  -	[CSockConnector] attempt to connect server 122.246.13.159:443(122.246.13.159:443)
+[6168]	2025-07-01 11:19:33.693	- Info  -	[Acceptor][HTTP] check session: true
+[6168]	2025-07-01 11:19:33.693	- Info  -	[BindForwardStream] Bind a forward(ipv4) stream
+[6168]	2025-07-01 11:19:33.693	- Info  -	[handle_event] event name: FWD_CONNECTED_4(TCP), error: 0
+[6168]	2025-07-01 11:19:33.693	- Info  -	[handle_event] switch mode to tcp4 forward
+[6168]	2025-07-01 11:19:33.693	- Info  -	[ChoiceTransferMode] switch mode to fw(tcp4)
+[6168]	2025-07-01 11:19:33.693	- Info  -	[PluginStream] MultiChannel connected server 
+[6168]	2025-07-01 11:19:33.693	- Info  -	[handle_packet] fw4 report index 0
+[6168]	2025-07-01 11:19:33.693	- Info  -	[handle_packet][0x10580c800] change mode to fw4
+[6168]	2025-07-01 11:19:33.693	- Info  -	[PluginStream] receive plugin stream logon message
+[6168]	2025-07-01 11:19:33.693	- Info  -	[PluginStream] CheckCode OK, plugin: desktop
+[6168]	2025-07-01 11:19:33.693	- Info  -	[PluginStream] CPluginStream::CheckCode succeeded, plugin: desktop
+[6168]	2025-07-01 11:19:33.693	- Info  -	[Service] start plugin desktop ...
+[6168]	2025-07-01 11:19:33.693	- Info  -	[mdesktop] IMultiDesktopRouter::RegisterControl 2 OK
+[6168]	2025-07-01 11:19:33.694	- Info  -	[Service] start plugin desktop ok, index :2
+[6168]	2025-07-01 11:19:33.694	- Info  -	[PluginStream] login successed @ 285
+[6168]	2025-07-01 11:19:33.694	- Info  -	[PluginStream] MultiChannel connection  logged
+[6168]	2025-07-01 11:19:33.694	- Info  -	[client] PostPluguinLogImpl, event: control_start, plugin: desktop
+[6078]	2025-07-01 11:19:33.714	- Info  -	[CSockConnector] attempt to connect server sl-log.oray.net:443(120.26.160.74:443)
+[26912156]	2025-07-01 11:19:33.742	+Warning+	[mdesktop] discard data control(2), size=20
+[26912156]	2025-07-01 11:19:33.742	- Info  -	[control] ******** OnEnumUser control(2) console()
+[26912156]	2025-07-01 11:19:33.742	- Info  -	[mdesktop] (wangyan, 689);
+[26912156]	2025-07-01 11:19:33.742	- Info  -	enum user list console()(689, wangyan);
+[26912156]	2025-07-01 11:19:33.796	- Info  -	[control] OnSwitchHos sid(689), id(2)
+[26912156]	2025-07-01 11:19:33.796	- Info  -	[service] Run Desktop 689, 931985746
+[26912156]	2025-07-01 11:19:33.796	- Info  -	[mdesktop] Connect desktop 689 exists.
+[26912156]	2025-07-01 11:19:33.796	- Info  -	[mdesktop] connect_desktop control(2) remote(689)
+[26912156]	2025-07-01 11:19:33.796	- Info  -	[desktop] stop plugin(wangyan)
+[26912156]	2025-07-01 11:19:33.798	- Info  -	[GetConfigDatas] [LocalServer] FastControl log in : false
+[26912156]	2025-07-01 11:19:33.799	- Info  -	[add_ctrl] add host (1)
+[26912156]	2025-07-01 11:19:33.799	- Info  -	[mdesktop] ConnectDesktop send SWITCH_HOST_MESSAGE_RES(689,2) OK
+[26912148]	2025-07-01 11:19:36.569	- Info  -	[upnp] discovery ok, find root devices: http://172.168.10.244:1900/igd.xml
+[26912148]	2025-07-01 11:19:36.571	- Info  -	[upnp] external ip address: 0.0.0.0
+[26912148]	2025-07-01 11:19:36.571	- Info  -	[upnp] search end
+[26912147]	2025-07-01 11:19:36.731	- Info  -	[P2PAccepter] [122.246.13.159:4118] receive P2P request (public 58.218.188.178:2233 local 172.168.30.243:15376), delay r:44/c:94
+[26912147]	2025-07-01 11:19:36.732	- Info  -	[udpwrapper] P2PHolePunch 58.218.188.178:2233 
+[26912147]	2025-07-01 11:19:36.873	- Info  -	[upnp] add_port_mapping external port 2232, internalclient ip 172.168.10.59, internal port 15694
+[26912147]	2025-07-01 11:19:36.875	+Warning+	[udpwrapper] add UPNP failed, Fail to add port mapping (slrc/ UDP)
+
+[26912146]	2025-07-01 11:19:36.977	- Info  -	[CConnection] instance CryptoTypeAes CConnection
+[26912146]	2025-07-01 11:19:36.977	- Info  -	[udp] support straight send in peer : no 172.168.30.243:15376 OnConnectRequest
+[26912146]	2025-07-01 11:19:36.985	- Info  -	[udp] OnConnectAck with 172.168.30.243:15376, mode 2, peer straight send no
+[26912147]	2025-07-01 11:19:36.985	- Info  -	[udpwrapper] create a new stream(relay=false), and accept 0.0.0.0:15694 @ 876
+[26912147]	2025-07-01 11:19:36.985	- Info  -	[service][UdpAcceptor] new acceptor 172.168.30.243:15376-->0.0.0.0:15694
+[26912147]	2025-07-01 11:19:38.318	- Info  -	[BindP2PStream] Bind a p2p0(ipv4) stream
+[26912147]	2025-07-01 11:19:38.318	- Info  -	[handle_event] event name: P2P_CONNECTED_0(KCP OR UDX), error: 0
+[26912147]	2025-07-01 11:19:39.061	- Info  -	[handle_packet] p2p0(ipv4) report index 53
+[26912147]	2025-07-01 11:19:39.061	- Info  -	[handle_packet][0x10580c800] change mode to p2p0(ipv4)
+[6168]	2025-07-01 11:19:57.696	- Info  -	[handle_event] event name: FWD_DISCONNECT_4(TCP), error: 0
+[6168]	2025-07-01 11:19:57.697	- Info  -	[handle_event] fw4 disconnect
+[26912146]	2025-07-01 11:19:57.866	- Info  -	[service][UdpAcceptor] disconnect, reason: REASON_RECV_MSG, port: 15694, remote ip 172.168.30.243:15376
+[26912146]	2025-07-01 11:19:57.866	- Info  -	[oray][erroCode] errorcode=oray_errorcode(57355), product=0, type=3, inner code=11 [OnDisconnect:955]
+[26912146]	2025-07-01 11:19:57.866	- Info  -	[udp] Disconnect
+[26912146]	2025-07-01 11:19:57.866	- Info  -	[handle_event] event name: P2P_DISCONNECT_0(KCP OR UDX), error: 57355
+[26912146]	2025-07-01 11:19:57.866	- Info  -	[handle_event] p2p0 disconnect
+[26912146]	2025-07-01 11:19:58.136	- Info  -	[PluginStream] MultiChannel disconnected server ,error code:57355
+[26912156]	2025-07-01 11:19:58.136	- Info  -	[mdesktop] revoke_control earse old remote 689
+[26912156]	2025-07-01 11:19:58.137	- Info  -	[mdesktop] IMultiDesktopRouter::RevokeControl 2 OK
+[26912156]	2025-07-01 11:19:58.137	- Info  -	[remove_ctrl] remove host (0)
+[26912156]	2025-07-01 11:19:58.137	- Info  -	[mdesktop] revoke_control 689
+[26912156]	2025-07-01 11:19:58.137	- Info  -	[desktop] stop plugin(wangyan)
+[26912146]	2025-07-01 11:19:58.137	- Info  -	[FlushAccessPwd] FlushAccessPwd
+[26912146]	2025-07-01 11:19:58.139	- Info  -	[client] PostPluguinLogImpl, event: control_end, plugin: desktop
+[6168]	2025-07-01 11:19:58.937	- Info  -	[CUDPLibWrapper] map size: 1, value: [122.246.13.159:4118/15694-1] = 0.0.0.0:15694;
+
+[6168]	2025-07-01 11:19:58.937	- Info  -	[udp] Disconnect
+[6168]	2025-07-01 11:19:58.938	- Info  -	[P2PAccepter] 122.246.13.159:4118 disconnected,error code:0
+[6168]	2025-07-01 11:19:58.938	- Info  -	[LoginUtils] tcp handler size: 0, tcp6 handler size: 0, udp handler size: 0, udp6 handler size: 0
+[26912147]	2025-07-01 11:19:58.938	- Info  -	[udp] CUdpStack::MyThread::OnStop
+[26912146]	2025-07-01 11:19:58.938	- Info  -	[udp] CUdpStack::MyThread::OnStop
+[6168]	2025-07-01 11:19:58.938	- Info  -	[service] stop listen OK
+[6081]	2025-07-01 12:26:57.018	- Info  -	[get_last_version_thread] update_rand_time:11; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-01 12:26:57.039	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[6078]	2025-07-01 12:27:07.638	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(936039579>=936029371+10000)
+[6081]	2025-07-01 23:26:57.536	- Info  -	[get_last_version_thread] update_rand_time:10; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-01 23:26:57.559	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[6078]	2025-07-01 23:27:08.168	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(975639739>=975629512+10000)
+[6081]	2025-07-02 09:26:57.921	- Info  -	[get_last_version_thread] update_rand_time:11; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-02 09:26:57.942	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[6078]	2025-07-02 09:27:10.786	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(1011642117>=1011629623+10000)
+[26912129]	2025-07-02 17:05:34.107	+Warning+	[udpstack] connect timeout, state: 3, time interval: 90000, 1039145146, 1039047036, 98110
+[26912129]	2025-07-02 17:05:34.109	* Error *	[udp_service] session OnDisconnect sid=1, ipport=122.246.13.159:4118
+[26912129]	2025-07-02 17:05:34.109	- Info  -	[p2p_acceptor] on disconnect sid = 1
+[6081]	2025-07-02 20:26:58.264	- Info  -	[get_last_version_thread] update_rand_time:6; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-02 20:26:58.281	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[6078]	2025-07-02 20:27:08.723	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(1051239785>=1051229690+10000)
+[6081]	2025-07-03 02:26:58.601	- Info  -	[get_last_version_thread] update_rand_time:6; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-03 02:26:58.620	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[6078]	2025-07-03 02:27:09.205	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(1072840080>=1072829866+10000)
+[6081]	2025-07-03 08:26:58.977	- Info  -	[get_last_version_thread] update_rand_time:10; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-03 08:26:59.009	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[6078]	2025-07-03 08:27:09.410	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(1094440058>=1094430046+10000)
+[6081]	2025-07-03 18:26:59.339	- Info  -	[get_last_version_thread] update_rand_time:10; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-03 18:26:59.364	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[6078]	2025-07-03 18:27:09.953	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(1130440388>=1130430153+10000)
+[6081]	2025-07-04 04:26:59.724	- Info  -	[get_last_version_thread] update_rand_time:11; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-04 04:27:14.761	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[6078]	2025-07-04 04:27:25.363	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(1166455564>=1166445334+10000)
+[6086]	2025-07-04 12:28:42.592	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-07-04 12:28:42.594	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-07-04 12:28:42.594	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6086]	2025-07-04 13:31:21.249	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-07-04 13:31:21.250	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-07-04 13:31:21.251	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6081]	2025-07-04 15:27:00.310	- Info  -	[get_last_version_thread] update_rand_time:6; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-04 15:27:00.331	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[6078]	2025-07-04 15:27:13.197	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(1206042962>=1206030483+10000)
+[6081]	2025-07-04 21:27:00.566	- Info  -	[get_last_version_thread] update_rand_time:12; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-04 21:27:00.593	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[6078]	2025-07-04 21:27:11.197	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(1227640783>=1227630535+10000)
+[6081]	2025-07-05 09:27:01.131	- Info  -	[get_last_version_thread] update_rand_time:6; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-05 09:27:01.153	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[6078]	2025-07-05 09:27:11.672	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(1270840842>=1270830720+10000)
+[6081]	2025-07-05 15:27:01.380	- Info  -	[get_last_version_thread] update_rand_time:8; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-05 15:27:01.410	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[6078]	2025-07-05 15:27:11.933	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(1292441005>=1292430926+10000)
+[6086]	2025-07-05 17:08:22.918	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-07-05 17:08:22.923	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-07-05 17:08:22.923	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6086]	2025-07-05 17:08:58.618	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-07-05 17:08:58.619	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-07-05 17:08:58.619	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6086]	2025-07-05 17:48:57.269	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-07-05 17:48:57.272	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-07-05 17:48:57.272	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6081]	2025-07-05 23:27:01.652	- Info  -	[get_last_version_thread] update_rand_time:7; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-05 23:27:01.670	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[6078]	2025-07-05 23:27:12.172	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(1321241121>=1321230961+10000)
+[6081]	2025-07-06 06:27:02.148	- Info  -	[get_last_version_thread] update_rand_time:7; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-06 06:27:02.168	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[6078]	2025-07-06 06:27:12.680	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(1346441284>=1346431156+10000)
+[6081]	2025-07-06 13:27:02.509	- Info  -	[get_last_version_thread] update_rand_time:10; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-06 13:27:02.533	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[6078]	2025-07-06 13:27:13.116	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(1371641511>=1371631287+10000)
+[6081]	2025-07-06 23:27:02.925	- Info  -	[get_last_version_thread] update_rand_time:6; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-06 23:27:02.946	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[6078]	2025-07-06 23:27:13.423	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(1407641549>=1407631448+10000)
+[6081]	2025-07-07 05:27:03.178	- Info  -	[get_last_version_thread] update_rand_time:8; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-07 05:27:03.197	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[6078]	2025-07-07 05:27:13.579	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(1429241536>=1429231530+10000)
+[6086]	2025-07-07 08:27:46.813	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-07-07 08:27:46.814	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-07-07 08:27:46.814	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6081]	2025-07-07 13:27:03.527	- Info  -	[get_last_version_thread] update_rand_time:8; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-07 13:27:03.553	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[6078]	2025-07-07 13:27:14.147	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(1458041885>=1458031700+10000)
+[6081]	2025-07-07 21:27:03.878	- Info  -	[get_last_version_thread] update_rand_time:12; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-07 21:27:03.899	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[6078]	2025-07-07 21:27:14.327	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(1486841851>=1486831785+10000)
+[6081]	2025-07-08 09:27:04.362	- Info  -	[get_last_version_thread] update_rand_time:11; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-08 09:27:04.379	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[6078]	2025-07-08 09:27:17.236	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(1530044422>=1530031952+10000)
+[6086]	2025-07-08 09:46:17.610	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-07-08 09:46:17.621	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-07-08 09:46:17.621	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6086]	2025-07-08 09:46:22.937	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-07-08 09:46:22.937	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-07-08 09:46:22.937	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6086]	2025-07-08 09:46:23.006	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-07-08 09:46:23.007	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-07-08 09:46:23.007	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6081]	2025-07-08 20:27:04.849	- Info  -	[get_last_version_thread] update_rand_time:11; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-08 20:27:19.887	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[6078]	2025-07-08 20:27:30.457	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(1569657232>=1569647033+10000)
+[6081]	2025-07-09 07:27:05.305	- Info  -	[get_last_version_thread] update_rand_time:9; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-09 07:27:05.325	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[6078]	2025-07-09 07:27:15.845	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(1609242308>=1609232189+10000)
+[6081]	2025-07-09 16:27:05.697	- Info  -	[get_last_version_thread] update_rand_time:6; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-09 16:27:05.746	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[6078]	2025-07-09 16:27:18.550	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(1641644765>=1641632318+10000)
+[6081]	2025-07-09 22:27:05.920	- Info  -	[get_last_version_thread] update_rand_time:12; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-09 22:27:05.942	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[6078]	2025-07-09 22:27:16.479	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(1663242548>=1663232379+10000)
+[6081]	2025-07-10 10:27:06.434	- Info  -	[get_last_version_thread] update_rand_time:7; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-10 10:27:06.465	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[6078]	2025-07-10 10:27:19.293	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(1706444997>=1706432558+10000)
+[6081]	2025-07-10 17:27:06.683	- Info  -	[get_last_version_thread] update_rand_time:6; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-10 17:27:21.715	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[6078]	2025-07-10 17:27:34.569	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(1731660093>=1731647607+10000)
+[6081]	2025-07-10 23:27:06.843	- Info  -	[get_last_version_thread] update_rand_time:9; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-10 23:27:06.864	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[6078]	2025-07-10 23:27:17.365	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(1753242786>=1753232656+10000)
+[6081]	2025-07-11 08:27:07.201	- Info  -	[get_last_version_thread] update_rand_time:11; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-11 08:27:07.227	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[6078]	2025-07-11 08:27:17.828	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(1785643042>=1785632792+10000)
+[6086]	2025-07-11 09:43:51.315	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-07-11 09:43:51.320	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-07-11 09:43:51.320	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6086]	2025-07-11 09:44:27.859	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-07-11 09:44:27.859	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-07-11 09:44:27.860	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6086]	2025-07-11 17:44:50.387	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-07-11 17:44:50.394	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-07-11 17:44:50.394	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6086]	2025-07-11 17:46:10.093	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-07-11 17:46:10.097	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-07-11 17:46:10.097	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6086]	2025-07-11 17:46:39.992	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-07-11 17:46:39.994	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-07-11 17:46:39.994	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6086]	2025-07-11 17:47:12.232	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-07-11 17:47:12.234	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-07-11 17:47:12.235	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6081]	2025-07-11 19:27:07.773	- Info  -	[get_last_version_thread] update_rand_time:11; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-11 19:27:07.803	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[6078]	2025-07-11 19:27:18.268	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(1825243033>=1825232925+10000)
+[6081]	2025-07-12 06:27:08.189	- Info  -	[get_last_version_thread] update_rand_time:10; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-12 06:27:08.219	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[6078]	2025-07-12 06:27:18.809	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(1864843306>=1864833107+10000)
+[6086]	2025-07-12 09:15:24.608	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-07-12 09:15:24.618	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-07-12 09:15:24.618	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[24287447]	2025-07-12 09:16:55.650	+Warning+	[passive:keepalive:] 47.111.166.117:443 disconnect by keepalive timeout(1875019991>=1874876978+120000)
+[24287447]	2025-07-12 09:16:55.651	* Error *	[online] online disconnected,error code:0
+[24287447]	2025-07-12 09:16:55.651	- Info  -	[oray][erroCode] errorcode=errorcode(0), product=0, type=0, inner code=0 [OnDisconnect:86]
+[24287447]	2025-07-12 09:16:55.652	- Info  -	[RemoteControl] disconnected server(47.111.166.117:443),error code:0
+[24287447]	2025-07-12 09:16:55.652	- Info  -	[service] disconnected server(47.111.166.117:443),errorcode:0
+[24287447]	2025-07-12 09:16:55.652	- Info  -	[client] change status from online to offline
+[24287447]	2025-07-12 09:16:55.653	- Info  -	[client] change status to offline
+[24287447]	2025-07-12 09:16:55.654	- Info  -	[OnLogout] OnLogout start
+[24287447]	2025-07-12 09:16:55.654	- Info  -	[StopAllProjections] stop all projections
+[24287447]	2025-07-12 09:16:55.654	- Info  -	[client] retry login after 3000 seconds.
+[24287447]	2025-07-12 09:16:55.654	- Info  -	[OnLogout] OnLogout end
+[6078]	2025-07-12 09:16:55.676	- Info  -	[CSockConnector] attempt to connect server sl-log.oray.net:443(120.26.160.74:443)
+[6085]	2025-07-12 09:16:58.799	- Info  -	[client] Do login start with type: license login type
+[6085]	2025-07-12 09:16:58.799	- Info  -	[client] change status to logging
+[6085]	2025-07-12 09:16:58.800	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[6078]	2025-07-12 09:16:58.828	- Info  -	[CSockConnector] attempt to connect server slapi.oray.net:443(118.31.165.224:443)
+[6078]	2025-07-12 09:16:59.145	- Info  -	[loginWithLicenses] [SunloginClient] IT process_run is 0
+[6078]	2025-07-12 09:16:59.170	- Info  -	[CSockConnector] attempt to connect server rc10-g4.oray.com:443(120.26.125.108:443)
+[6084]	2025-07-12 09:16:59.410	- Info  -	[service] send logon
+[6084]	2025-07-12 09:16:59.439	- Info  -	[service] logon OK, public address: 58.218.188.178:2211
+[6084]	2025-07-12 09:16:59.488	- Info  -	[online] OK
+[6084]	2025-07-12 09:16:59.489	- Info  -	[client] received name: mac mini, description: .
+[6168]	2025-07-12 09:16:59.490	- Info  -	[service] registering client
+[6084]	2025-07-12 09:16:59.513	- Info  -	[service] client registered
+[6084]	2025-07-12 09:16:59.513	- Info  -	[client] change status to online
+[6084]	2025-07-12 09:16:59.518	- Info  -	[OnLogin] OnLogin start
+[6084]	2025-07-12 09:16:59.518	- Info  -	[OnLogin] OnLogin end
+[6078]	2025-07-12 09:16:59.521	- Info  -	[CSockConnector] attempt to connect server api-std.sunlogin.oray.com:443(121.199.35.89:443)
+[6078]	2025-07-12 09:16:59.590	- Info  -	[LocalServer] call UpdateConfigImpl @ 6159
+[6078]	2025-07-12 09:16:59.620	- Info  -	[local_server] set client accesspwd from [ChangeLoginTypeConfig : 9929]
+[6085]	2025-07-12 09:16:59.869	- Info  -	[client] Do login end with license login type, status: online.
+[6086]	2025-07-12 09:20:03.089	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-07-12 09:20:03.097	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-07-12 09:20:03.097	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6081]	2025-07-12 16:27:08.729	- Info  -	[get_last_version_thread] update_rand_time:12; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-12 16:27:08.832	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[6078]	2025-07-12 16:27:19.430	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(1900843533>=1900833323+10000)
+[6081]	2025-07-13 04:27:09.160	- Info  -	[get_last_version_thread] update_rand_time:7; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-13 04:27:09.187	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[6078]	2025-07-13 04:27:19.790	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(1944043613>=1944033373+10000)
+[6081]	2025-07-13 11:27:09.502	- Info  -	[get_last_version_thread] update_rand_time:8; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-13 11:27:09.526	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[6078]	2025-07-13 11:27:20.108	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(1969243734>=1969233525+10000)
+[6081]	2025-07-13 19:27:09.904	- Info  -	[get_last_version_thread] update_rand_time:9; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-13 19:27:09.935	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[6078]	2025-07-13 19:27:20.533	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(1998043900>=1998033685+10000)
+[6081]	2025-07-14 04:27:10.229	- Info  -	[get_last_version_thread] update_rand_time:6; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-14 04:27:10.256	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[6078]	2025-07-14 04:27:20.814	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(2030443998>=2030433808+10000)
+[6081]	2025-07-14 10:27:10.588	- Info  -	[get_last_version_thread] update_rand_time:9; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-14 10:27:10.622	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[6078]	2025-07-14 10:27:23.506	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(2052046483>=2052034066+10000)
+[6081]	2025-07-14 19:27:10.974	- Info  -	[get_last_version_thread] update_rand_time:12; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-14 19:27:11.002	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[6078]	2025-07-14 19:27:21.598	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(2084444260>=2084434035+10000)
+[49776376]	2025-07-15 03:06:24.711	+Warning+	[passive:keepalive:] 120.26.125.108:443 disconnect by keepalive timeout(2111987327>=2111844191+120000)
+[49776376]	2025-07-15 03:06:24.713	* Error *	[online] online disconnected,error code:0
+[49776376]	2025-07-15 03:06:24.713	- Info  -	[oray][erroCode] errorcode=errorcode(0), product=0, type=0, inner code=0 [OnDisconnect:86]
+[49776376]	2025-07-15 03:06:24.714	- Info  -	[RemoteControl] disconnected server(120.26.125.108:443),error code:0
+[49776376]	2025-07-15 03:06:24.715	- Info  -	[service] disconnected server(120.26.125.108:443),errorcode:0
+[49776376]	2025-07-15 03:06:24.715	- Info  -	[client] change status from online to offline
+[49776376]	2025-07-15 03:06:24.717	- Info  -	[client] change status to offline
+[49776376]	2025-07-15 03:06:24.717	- Info  -	[OnLogout] OnLogout start
+[49776376]	2025-07-15 03:06:24.718	- Info  -	[StopAllProjections] stop all projections
+[49776376]	2025-07-15 03:06:24.719	- Info  -	[client] retry login after 3000 seconds.
+[49776376]	2025-07-15 03:06:24.719	- Info  -	[OnLogout] OnLogout end
+[6078]	2025-07-15 03:06:24.740	- Info  -	[CSockConnector] attempt to connect server sl-log.oray.net:443(47.97.186.100:443)
+[6085]	2025-07-15 03:06:27.853	- Info  -	[client] Do login start with type: license login type
+[6085]	2025-07-15 03:06:27.853	- Info  -	[client] change status to logging
+[6085]	2025-07-15 03:06:27.855	- Info  -	[LocalServer] bind mac address: d0:11:e5:8c:99:6c
+[6078]	2025-07-15 03:06:27.875	- Info  -	[CSockConnector] attempt to connect server slapi.oray.net:443(118.31.165.224:443)
+[6078]	2025-07-15 03:06:28.226	- Info  -	[loginWithLicenses] [SunloginClient] IT process_run is 0
+[6078]	2025-07-15 03:06:28.253	- Info  -	[CSockConnector] attempt to connect server rc10.oray.com:443(47.111.154.78:443)
+[6084]	2025-07-15 03:06:28.469	- Info  -	[service] send logon
+[6084]	2025-07-15 03:06:28.492	- Info  -	[service] logon OK, public address: 58.218.188.178:2231
+[6084]	2025-07-15 03:06:28.531	- Info  -	[online] OK
+[6084]	2025-07-15 03:06:28.532	- Info  -	[client] received name: mac mini, description: .
+[6168]	2025-07-15 03:06:28.534	- Info  -	[service] registering client
+[6084]	2025-07-15 03:06:28.552	- Info  -	[service] client registered
+[6084]	2025-07-15 03:06:28.553	- Info  -	[client] change status to online
+[6084]	2025-07-15 03:06:28.564	- Info  -	[OnLogin] OnLogin start
+[6084]	2025-07-15 03:06:28.564	- Info  -	[OnLogin] OnLogin end
+[6078]	2025-07-15 03:06:28.582	- Info  -	[CSockConnector] attempt to connect server api-std.sunlogin.oray.com:443(47.96.156.45:443)
+[6078]	2025-07-15 03:06:28.656	- Info  -	[LocalServer] call UpdateConfigImpl @ 6159
+[6078]	2025-07-15 03:06:28.688	- Info  -	[local_server] set client accesspwd from [ChangeLoginTypeConfig : 9929]
+[6085]	2025-07-15 03:06:29.003	- Info  -	[client] Do login end with license login type, status: online.
+[6081]	2025-07-15 07:27:11.428	- Info  -	[get_last_version_thread] update_rand_time:8; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-15 07:27:11.451	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[6078]	2025-07-15 07:27:22.052	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(2127644410>=2127634182+10000)
+[6086]	2025-07-15 08:50:10.224	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-07-15 08:50:10.226	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-07-15 08:50:10.226	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6086]	2025-07-15 08:50:13.869	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-07-15 08:50:13.871	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-07-15 08:50:13.871	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6086]	2025-07-15 08:52:09.020	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-07-15 08:52:09.020	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-07-15 08:52:09.020	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6086]	2025-07-15 08:52:40.709	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-07-15 08:52:40.711	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-07-15 08:52:40.712	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6084]	2025-07-15 08:54:31.009	- Info  -	[online] received express login
+[6084]	2025-07-15 08:54:31.010	- Info  -	[LoginUtils] receive express login request from online
+[6084]	2025-07-15 08:54:31.012	- Info  -	[SunloginClient] Check password: type(0), account(), password is empty(no)
+[6084]	2025-07-15 08:54:31.015	- Info  -	[service] connect pgy server, domain=slp2p-333112-std.oray.net:4118, ip=122.246.12.45:4118
+[26912130]	2025-07-15 08:54:31.017	- Info  -	[udp] CUdpStack::MyThread::OnStop
+[26912129]	2025-07-15 08:54:31.017	- Info  -	[udp] CUdpStack::MyThread::OnStop
+[6084]	2025-07-15 08:54:31.018	- Info  -	[session_manage] max session count = 1001
+[6084]	2025-07-15 08:54:31.021	* Error *	[udp_service] init fail, resolve hostname() fail, IPv6
+[6084]	2025-07-15 08:54:31.041	- Info  -	[p2p_server_connect] try to connect p2p server(122.246.12.45:4118), key(SHA1:qrjatydi;7mOnUK5tVxsHtLvO2/R9SOxftVQ=)
+[6084]	2025-07-15 08:54:31.052	- Info  -	[udp_service] connect SendConnectMsg encrypt is 0
+[6084]	2025-07-15 08:54:31.107	- Info  -	[udp_service] SendConnectMsg(122.246.12.45) return OK, sid=1
+[6084]	2025-07-15 08:54:31.107	- Info  -	[service] start listen OK, tcp:disable, udp:15555, udp6:0
+[6084]	2025-07-15 08:54:31.108	- Info  -	[service] connect ipv4 p2p server @ 122.246.12.45:4118
+[6084]	2025-07-15 08:54:31.111	- Info  -	[CConnection] instance CryptoTypeAes CConnection
+[61643591]	2025-07-15 08:54:31.151	- Info  -	[udp_service] OnConnectOK ipport(122.246.12.45:4118) iprealport(122.246.12.45:4118), as client
+[61643591]	2025-07-15 08:54:31.151	* Error *	[p2p_server_connect] can not get local ipv6 when server connected
+[61643620]	2025-07-15 08:54:31.159	- Info  -	[P2PAccepter] connect p2p server 122.246.12.45:4118 OK
+[61643620]	2025-07-15 08:54:31.159	- Info  -	[P2PAccepter] detect local address 172.168.10.59:15555
+[61643591]	2025-07-15 08:54:31.218	- Info  -	[p2p_server_connect] login p2p server OK, sid 1, public ip 58.218.188.178:2237, udp forward support ON, my index 786500259
+[61643591]	2025-07-15 08:54:31.218	- Info  -	[CPgyConnector] PGYAcceptor::OnPgyLogin, public=58.218.188.178:2237, private=172.168.10.59:15196, p2pIndex=786500259
+[61643620]	2025-07-15 08:54:31.224	- Info  -	[P2PAccepter] login p2p server [122.246.12.45:4118] OK, received public ip 58.218.188.178:2238, local ip 172.168.10.59:15555, index 1217880850
+[61643620]	2025-07-15 08:54:31.225	- Info  -	[LoginUtils] P2P_INDEX = 1217880850
+[61643620]	2025-07-15 08:54:31.226	- Info  -	[LoginUtils] access address PHSRC://1217880850.slp2p-333112-std.oray.net:4118/, PHSRC_HTTPS://1217880850.slp2p-333112-std.oray.net:443/, UsingMultiChannel://MP;UR://;
+[61643620]	2025-07-15 08:54:31.807	- Info  -	[P2PAccepter] attempted to create forward tunnel slp2p-333112-std.oray.net:443 with ssl
+[61643620]	2025-07-15 08:54:31.807	- Info  -	[P2PAccepter][TCP] attempt to create forward tunnel, server slp2p-333112-std.oray.net:443(122.246.12.45:443), ssl:true
+[61643620]	2025-07-15 08:54:31.807	- Info  -	[P2PAccepter][TCP] attempt to connect tcp server 122.246.12.45:443,92791
+[61643620]	2025-07-15 08:54:31.807	- Info  -	[CSockConnector] attempt to connect server 122.246.12.45:443(122.246.12.45:443)
+[6168]	2025-07-15 08:54:32.057	- Info  -	[Acceptor][HTTP] check session: true
+[6168]	2025-07-15 08:54:32.058	- Info  -	[BindForwardStream] Bind a forward(ipv4) stream
+[6168]	2025-07-15 08:54:32.058	- Info  -	[handle_event] event name: FWD_CONNECTED_4(TCP), error: 0
+[6168]	2025-07-15 08:54:32.058	- Info  -	[handle_event] switch mode to tcp4 forward
+[6168]	2025-07-15 08:54:32.058	- Info  -	[ChoiceTransferMode] switch mode to fw(tcp4)
+[6168]	2025-07-15 08:54:32.058	- Info  -	[PluginStream] MultiChannel connected server 
+[6168]	2025-07-15 08:54:32.058	- Info  -	[handle_packet] fw4 report index 0
+[6168]	2025-07-15 08:54:32.058	- Info  -	[handle_packet][0x14800d800] change mode to fw4
+[6168]	2025-07-15 08:54:32.058	- Info  -	[PluginStream] receive plugin stream logon message
+[6168]	2025-07-15 08:54:32.058	- Info  -	[PluginStream] CheckCode OK, plugin: desktop
+[6168]	2025-07-15 08:54:32.058	- Info  -	[PluginStream] CPluginStream::CheckCode succeeded, plugin: desktop
+[6168]	2025-07-15 08:54:32.058	- Info  -	[Service] start plugin desktop ...
+[6168]	2025-07-15 08:54:32.059	- Info  -	[mdesktop] IMultiDesktopRouter::RegisterControl 3 OK
+[6168]	2025-07-15 08:54:32.059	- Info  -	[Service] start plugin desktop ok, index :3
+[6168]	2025-07-15 08:54:32.059	- Info  -	[PluginStream] login successed @ 285
+[6168]	2025-07-15 08:54:32.059	- Info  -	[PluginStream] MultiChannel connection  logged
+[6168]	2025-07-15 08:54:32.059	- Info  -	[client] PostPluguinLogImpl, event: control_start, plugin: desktop
+[6078]	2025-07-15 08:54:32.082	- Info  -	[CSockConnector] attempt to connect server sl-log.oray.net:443(121.41.32.171:443)
+[61643631]	2025-07-15 08:54:32.110	+Warning+	[mdesktop] discard data control(3), size=20
+[61643631]	2025-07-15 08:54:32.110	- Info  -	[control] ******** OnEnumUser control(3) console()
+[61643631]	2025-07-15 08:54:32.110	- Info  -	[mdesktop] (wangyan, 689);
+[61643631]	2025-07-15 08:54:32.110	- Info  -	enum user list console()(689, wangyan);
+[61643631]	2025-07-15 08:54:32.156	- Info  -	[control] OnSwitchHos sid(689), id(3)
+[61643631]	2025-07-15 08:54:32.156	- Info  -	[service] Run Desktop 689, 2132874557
+[61643631]	2025-07-15 08:54:32.156	- Info  -	[mdesktop] Connect desktop 689 exists.
+[61643631]	2025-07-15 08:54:32.156	- Info  -	[mdesktop] connect_desktop control(3) remote(689)
+[61643631]	2025-07-15 08:54:32.156	- Info  -	[desktop] stop plugin(wangyan)
+[61643631]	2025-07-15 08:54:32.158	- Info  -	[GetConfigDatas] [LocalServer] FastControl log in : false
+[61643631]	2025-07-15 08:54:32.158	- Info  -	[add_ctrl] add host (1)
+[61643631]	2025-07-15 08:54:32.158	- Info  -	[mdesktop] ConnectDesktop send SWITCH_HOST_MESSAGE_RES(689,3) OK
+[61643621]	2025-07-15 08:54:32.731	- Info  -	[upnp] discovery ok, find root devices: http://172.168.10.227:1900/igd.xml
+[61643621]	2025-07-15 08:54:32.734	- Info  -	[upnp] external ip address: 0.0.0.0
+[61643621]	2025-07-15 08:54:32.737	- Info  -	[upnp] search end
+[61643620]	2025-07-15 08:54:34.924	- Info  -	[P2PAccepter] [122.246.12.45:4118] receive P2P request (public 58.218.188.178:2239 local 172.168.30.206:15433), delay r:65/c:48
+[61643620]	2025-07-15 08:54:34.925	- Info  -	[udpwrapper] P2PHolePunch 58.218.188.178:2239 
+[61643620]	2025-07-15 08:54:35.036	- Info  -	[upnp] add_port_mapping external port 2238, internalclient ip 172.168.10.59, internal port 15555
+[61643620]	2025-07-15 08:54:35.041	+Warning+	[udpwrapper] add UPNP failed, Fail to add port mapping (slrc/ UDP)
+
+[61643619]	2025-07-15 08:54:35.125	- Info  -	[CConnection] instance CryptoTypeAes CConnection
+[61643619]	2025-07-15 08:54:35.129	- Info  -	[udp] support straight send in peer : no 172.168.30.206:15433 OnConnectRequest
+[61643619]	2025-07-15 08:54:35.138	- Info  -	[udp] OnConnectAck with 172.168.30.206:15433, mode 2, peer straight send no
+[61643620]	2025-07-15 08:54:35.140	- Info  -	[udpwrapper] create a new stream(relay=false), and accept 0.0.0.0:15555 @ 876
+[61643620]	2025-07-15 08:54:35.140	- Info  -	[service][UdpAcceptor] new acceptor 172.168.30.206:15433-->0.0.0.0:15555
+[61643620]	2025-07-15 08:54:35.617	- Info  -	[BindP2PStream] Bind a p2p0(ipv4) stream
+[61643620]	2025-07-15 08:54:35.617	- Info  -	[handle_event] event name: P2P_CONNECTED_0(KCP OR UDX), error: 0
+[61643620]	2025-07-15 08:54:35.617	- Info  -	[handle_packet] p2p0(ipv4) report index 62
+[61643620]	2025-07-15 08:54:35.617	- Info  -	[handle_packet][0x14800d800] change mode to p2p0(ipv4)
+[6168]	2025-07-15 08:55:46.517	+Warning+	[passive:keepalive:] 122.246.12.45:4118 disconnect by keepalive timeout(2132948918>=2132877325+60002)
+[6168]	2025-07-15 08:55:46.518	- Info  -	[udp] Disconnect
+[6168]	2025-07-15 08:55:46.518	- Info  -	[P2PAccepter] 122.246.12.45:4118 disconnected,error code:57351
+[6168]	2025-07-15 08:55:46.518	- Info  -	[LoginUtils] tcp handler size: 0, tcp6 handler size: 0, udp handler size: 0, udp6 handler size: 0
+[61643619]	2025-07-15 08:55:46.561	- Info  -	[service][UdpAcceptor] disconnect, reason: REASON_SEND_MSG, port: 15555, remote ip 122.246.12.45:4118
+[61643619]	2025-07-15 08:55:46.561	- Info  -	[oray][erroCode] errorcode=oray_errorcode(57354), product=0, type=3, inner code=10 [OnDisconnect:955]
+[6168]	2025-07-15 08:56:18.330	- Info  -	[handle_event] event name: FWD_DISCONNECT_4(TCP), error: 0
+[6168]	2025-07-15 08:56:18.330	- Info  -	[handle_event] fw4 disconnect
+[61643619]	2025-07-15 08:56:18.513	- Info  -	[service][UdpAcceptor] disconnect, reason: REASON_RECV_MSG, port: 15555, remote ip 172.168.30.206:15433
+[61643619]	2025-07-15 08:56:18.513	- Info  -	[oray][erroCode] errorcode=oray_errorcode(57355), product=0, type=3, inner code=11 [OnDisconnect:955]
+[61643619]	2025-07-15 08:56:18.513	- Info  -	[udp] Disconnect
+[61643619]	2025-07-15 08:56:18.513	- Info  -	[handle_event] event name: P2P_DISCONNECT_0(KCP OR UDX), error: 57355
+[61643619]	2025-07-15 08:56:18.513	- Info  -	[handle_event] p2p0 disconnect
+[61643619]	2025-07-15 08:56:18.776	- Info  -	[PluginStream] MultiChannel disconnected server ,error code:57355
+[61643631]	2025-07-15 08:56:18.776	- Info  -	[mdesktop] revoke_control earse old remote 689
+[61643631]	2025-07-15 08:56:18.776	- Info  -	[mdesktop] IMultiDesktopRouter::RevokeControl 3 OK
+[61643631]	2025-07-15 08:56:18.776	- Info  -	[remove_ctrl] remove host (0)
+[61643631]	2025-07-15 08:56:18.776	- Info  -	[mdesktop] revoke_control 689
+[61643631]	2025-07-15 08:56:18.777	- Info  -	[desktop] stop plugin(wangyan)
+[61643619]	2025-07-15 08:56:18.777	- Info  -	[FlushAccessPwd] FlushAccessPwd
+[61643619]	2025-07-15 08:56:18.780	- Info  -	[client] PostPluguinLogImpl, event: control_end, plugin: desktop
+[6078]	2025-07-15 08:56:18.793	- Info  -	[CSockConnector] attempt to connect server sl-log.oray.net:443(121.41.32.171:443)
+[6168]	2025-07-15 08:56:19.581	- Info  -	[CUDPLibWrapper] map size: 1, value: [122.246.13.159:4118/15694-1] = 0.0.0.0:15694;
+
+[61643620]	2025-07-15 08:56:19.582	- Info  -	[udp] CUdpStack::MyThread::OnStop
+[61643619]	2025-07-15 08:56:19.582	- Info  -	[udp] CUdpStack::MyThread::OnStop
+[6168]	2025-07-15 08:56:19.582	- Info  -	[service] stop listen OK
+[6084]	2025-07-15 09:22:47.311	- Info  -	[online] received express login
+[6084]	2025-07-15 09:22:47.311	- Info  -	[LoginUtils] receive express login request from online
+[6084]	2025-07-15 09:22:47.311	- Info  -	[SunloginClient] Check password: type(0), account(), password is empty(no)
+[6084]	2025-07-15 09:22:47.315	- Info  -	[service] connect pgy server, domain=slp2p-33316-std.oray.net:4118, ip=122.246.13.54:4118
+[6084]	2025-07-15 09:22:47.315	- Info  -	[udp] Disconnect
+[61643591]	2025-07-15 09:22:47.315	- Info  -	[udp] CUdpStack::MyThread::OnStop
+[61643590]	2025-07-15 09:22:47.315	- Info  -	[udp] CUdpStack::MyThread::OnStop
+[6084]	2025-07-15 09:22:47.315	- Info  -	[session_manage] max session count = 1001
+[6084]	2025-07-15 09:22:47.317	* Error *	[udp_service] init fail, resolve hostname() fail, IPv6
+[6084]	2025-07-15 09:22:47.317	- Info  -	[p2p_server_connect] try to connect p2p server(122.246.13.54:4118), key(SHA1:qrjatydi;7mOnUK5tVxsHtLvO2/R9SOxftVQ=)
+[6084]	2025-07-15 09:22:47.317	- Info  -	[udp_service] connect SendConnectMsg encrypt is 0
+[6084]	2025-07-15 09:22:47.339	- Info  -	[udp_service] SendConnectMsg(122.246.13.54) return OK, sid=1
+[6084]	2025-07-15 09:22:47.339	- Info  -	[service] start listen OK, tcp:disable, udp:15792, udp6:0
+[6084]	2025-07-15 09:22:47.339	- Info  -	[service] connect ipv4 p2p server @ 122.246.13.54:4118
+[6084]	2025-07-15 09:22:47.349	- Info  -	[CConnection] instance CryptoTypeAes CConnection
+[61668813]	2025-07-15 09:22:47.385	- Info  -	[udp_service] OnConnectOK ipport(122.246.13.54:4118) iprealport(122.246.13.54:4118), as client
+[61668813]	2025-07-15 09:22:47.385	* Error *	[p2p_server_connect] can not get local ipv6 when server connected
+[61668818]	2025-07-15 09:22:47.396	- Info  -	[P2PAccepter] connect p2p server 122.246.13.54:4118 OK
+[61668818]	2025-07-15 09:22:47.397	- Info  -	[P2PAccepter] detect local address 172.168.10.59:15792
+[61668813]	2025-07-15 09:22:47.429	- Info  -	[p2p_server_connect] login p2p server OK, sid 1, public ip 58.218.188.178:2231, udp forward support ON, my index 445619005
+[61668813]	2025-07-15 09:22:47.429	- Info  -	[CPgyConnector] PGYAcceptor::OnPgyLogin, public=58.218.188.178:2231, private=172.168.10.59:16018, p2pIndex=445619005
+[61668818]	2025-07-15 09:22:47.443	- Info  -	[P2PAccepter] login p2p server [122.246.13.54:4118] OK, received public ip 58.218.188.178:2232, local ip 172.168.10.59:15792, index 1561362655
+[61668818]	2025-07-15 09:22:47.444	- Info  -	[LoginUtils] P2P_INDEX = 1561362655
+[61668818]	2025-07-15 09:22:47.444	- Info  -	[LoginUtils] access address PHSRC://1561362655.slp2p-33316-std.oray.net:4118/, PHSRC_HTTPS://1561362655.slp2p-33316-std.oray.net:443/, UsingMultiChannel://MP;UR://;
+[61668818]	2025-07-15 09:22:47.916	- Info  -	[P2PAccepter] attempted to create forward tunnel slp2p-33316-std.oray.net:443 with ssl
+[61668818]	2025-07-15 09:22:47.916	- Info  -	[P2PAccepter][TCP] attempt to create forward tunnel, server slp2p-33316-std.oray.net:443(122.246.13.54:443), ssl:true
+[61668818]	2025-07-15 09:22:47.916	- Info  -	[P2PAccepter][TCP] attempt to connect tcp server 122.246.13.54:443,1026
+[61668818]	2025-07-15 09:22:47.917	- Info  -	[CSockConnector] attempt to connect server 122.246.13.54:443(122.246.13.54:443)
+[6168]	2025-07-15 09:22:48.176	- Info  -	[Acceptor][HTTP] check session: true
+[6168]	2025-07-15 09:22:48.176	- Info  -	[BindForwardStream] Bind a forward(ipv4) stream
+[6168]	2025-07-15 09:22:48.176	- Info  -	[handle_event] event name: FWD_CONNECTED_4(TCP), error: 0
+[6168]	2025-07-15 09:22:48.176	- Info  -	[handle_event] switch mode to tcp4 forward
+[6168]	2025-07-15 09:22:48.176	- Info  -	[ChoiceTransferMode] switch mode to fw(tcp4)
+[6168]	2025-07-15 09:22:48.176	- Info  -	[PluginStream] MultiChannel connected server 
+[6168]	2025-07-15 09:22:48.176	- Info  -	[handle_packet] fw4 report index 0
+[6168]	2025-07-15 09:22:48.176	- Info  -	[handle_packet][0x106032600] change mode to fw4
+[6168]	2025-07-15 09:22:48.176	- Info  -	[PluginStream] receive plugin stream logon message
+[6168]	2025-07-15 09:22:48.176	- Info  -	[PluginStream] CheckCode OK, plugin: desktop
+[6168]	2025-07-15 09:22:48.176	- Info  -	[PluginStream] CPluginStream::CheckCode succeeded, plugin: desktop
+[6168]	2025-07-15 09:22:48.176	- Info  -	[Service] start plugin desktop ...
+[6168]	2025-07-15 09:22:48.176	- Info  -	[mdesktop] IMultiDesktopRouter::RegisterControl 4 OK
+[6168]	2025-07-15 09:22:48.177	- Info  -	[Service] start plugin desktop ok, index :4
+[6168]	2025-07-15 09:22:48.177	- Info  -	[PluginStream] login successed @ 285
+[6168]	2025-07-15 09:22:48.177	- Info  -	[PluginStream] MultiChannel connection  logged
+[6168]	2025-07-15 09:22:48.177	- Info  -	[client] PostPluguinLogImpl, event: control_start, plugin: desktop
+[61668833]	2025-07-15 09:22:48.218	+Warning+	[mdesktop] discard data control(4), size=20
+[61668833]	2025-07-15 09:22:48.218	- Info  -	[control] ******** OnEnumUser control(4) console()
+[61668833]	2025-07-15 09:22:48.218	- Info  -	[mdesktop] (wangyan, 689);
+[61668833]	2025-07-15 09:22:48.218	- Info  -	enum user list console()(689, wangyan);
+[61668833]	2025-07-15 09:22:48.260	- Info  -	[control] OnSwitchHos sid(689), id(4)
+[61668833]	2025-07-15 09:22:48.260	- Info  -	[service] Run Desktop 689, 2134570662
+[61668833]	2025-07-15 09:22:48.260	- Info  -	[mdesktop] Connect desktop 689 exists.
+[61668833]	2025-07-15 09:22:48.260	- Info  -	[mdesktop] connect_desktop control(4) remote(689)
+[61668833]	2025-07-15 09:22:48.260	- Info  -	[desktop] stop plugin(wangyan)
+[61668833]	2025-07-15 09:22:48.262	- Info  -	[GetConfigDatas] [LocalServer] FastControl log in : false
+[61668833]	2025-07-15 09:22:48.263	- Info  -	[add_ctrl] add host (1)
+[61668833]	2025-07-15 09:22:48.263	- Info  -	[mdesktop] ConnectDesktop send SWITCH_HOST_MESSAGE_RES(689,4) OK
+[61668826]	2025-07-15 09:22:51.109	- Info  -	[upnp] discovery ok, find root devices: http://172.168.10.244:1900/igd.xml
+[61668826]	2025-07-15 09:22:51.111	- Info  -	[upnp] external ip address: 0.0.0.0
+[61668826]	2025-07-15 09:22:51.111	- Info  -	[upnp] search end
+[61668818]	2025-07-15 09:22:51.116	- Info  -	[P2PAccepter] [122.246.13.54:4118] receive P2P request (public 58.218.188.178:2233 local 172.168.30.206:15446), delay r:47/c:89
+[61668818]	2025-07-15 09:22:51.116	- Info  -	[udpwrapper] P2PHolePunch 58.218.188.178:2233 
+[61668818]	2025-07-15 09:22:51.227	- Info  -	[upnp] add_port_mapping external port 2232, internalclient ip 172.168.10.59, internal port 15792
+[61668818]	2025-07-15 09:22:51.229	+Warning+	[udpwrapper] add UPNP failed, Fail to add port mapping (slrc/ UDP)
+
+[61668817]	2025-07-15 09:22:51.285	- Info  -	[CConnection] instance CryptoTypeAes CConnection
+[61668817]	2025-07-15 09:22:51.285	- Info  -	[udp] support straight send in peer : no 172.168.30.206:15446 OnConnectRequest
+[61668817]	2025-07-15 09:22:51.292	- Info  -	[udp] OnConnectAck with 172.168.30.206:15446, mode 2, peer straight send no
+[61668818]	2025-07-15 09:22:51.292	- Info  -	[udpwrapper] create a new stream(relay=false), and accept 0.0.0.0:15792 @ 876
+[61668818]	2025-07-15 09:22:51.292	- Info  -	[service][UdpAcceptor] new acceptor 172.168.30.206:15446-->0.0.0.0:15792
+[61668818]	2025-07-15 09:22:51.853	- Info  -	[BindP2PStream] Bind a p2p0(ipv4) stream
+[61668818]	2025-07-15 09:22:51.853	- Info  -	[handle_event] event name: P2P_CONNECTED_0(KCP OR UDX), error: 0
+[61668818]	2025-07-15 09:22:51.854	- Info  -	[handle_packet] p2p0(ipv4) report index 47
+[61668818]	2025-07-15 09:22:51.854	- Info  -	[handle_packet][0x106032600] change mode to p2p0(ipv4)
+[6078]	2025-07-15 09:23:01.179	- Info  -	[CSockConnector] attempt to connect server sl-log.oray.net:443(121.40.118.44:443)
+[6168]	2025-07-15 09:24:00.698	- Info  -	[handle_event] event name: FWD_DISCONNECT_4(TCP), error: 0
+[6168]	2025-07-15 09:24:00.698	- Info  -	[handle_event] fw4 disconnect
+[61668817]	2025-07-15 09:24:00.877	- Info  -	[service][UdpAcceptor] disconnect, reason: REASON_RECV_MSG, port: 15792, remote ip 172.168.30.206:15446
+[61668817]	2025-07-15 09:24:00.877	- Info  -	[oray][erroCode] errorcode=oray_errorcode(57355), product=0, type=3, inner code=11 [OnDisconnect:955]
+[61668817]	2025-07-15 09:24:00.878	- Info  -	[udp] Disconnect
+[61668817]	2025-07-15 09:24:00.878	- Info  -	[handle_event] event name: P2P_DISCONNECT_0(KCP OR UDX), error: 57355
+[61668817]	2025-07-15 09:24:00.878	- Info  -	[handle_event] p2p0 disconnect
+[61668817]	2025-07-15 09:24:01.138	- Info  -	[PluginStream] MultiChannel disconnected server ,error code:57355
+[61668833]	2025-07-15 09:24:01.138	- Info  -	[mdesktop] revoke_control earse old remote 689
+[61668833]	2025-07-15 09:24:01.138	- Info  -	[mdesktop] IMultiDesktopRouter::RevokeControl 4 OK
+[61668833]	2025-07-15 09:24:01.138	- Info  -	[remove_ctrl] remove host (0)
+[61668833]	2025-07-15 09:24:01.138	- Info  -	[mdesktop] revoke_control 689
+[61668833]	2025-07-15 09:24:01.138	- Info  -	[desktop] stop plugin(wangyan)
+[61668817]	2025-07-15 09:24:01.138	- Info  -	[FlushAccessPwd] FlushAccessPwd
+[61668817]	2025-07-15 09:24:01.140	- Info  -	[client] PostPluguinLogImpl, event: control_end, plugin: desktop
+[6078]	2025-07-15 09:24:01.145	- Info  -	[CSockConnector] attempt to connect server sl-log.oray.net:443(121.40.118.44:443)
+[6168]	2025-07-15 09:24:01.943	- Info  -	[CUDPLibWrapper] map size: 2, value: [122.246.13.54:4118/15792-3] = 0.0.0.0:15792;
+[122.246.13.159:4118/15694-1] = 0.0.0.0:15694;
+
+[6168]	2025-07-15 09:24:01.943	- Info  -	[udp] Disconnect
+[6168]	2025-07-15 09:24:01.943	- Info  -	[P2PAccepter] 122.246.13.54:4118 disconnected,error code:0
+[6168]	2025-07-15 09:24:01.943	- Info  -	[LoginUtils] tcp handler size: 0, tcp6 handler size: 0, udp handler size: 0, udp6 handler size: 0
+[61668818]	2025-07-15 09:24:01.943	- Info  -	[udp] CUdpStack::MyThread::OnStop
+[61668817]	2025-07-15 09:24:01.943	- Info  -	[udp] CUdpStack::MyThread::OnStop
+[6168]	2025-07-15 09:24:01.944	- Info  -	[service] stop listen OK
+[6086]	2025-07-15 09:44:59.751	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-07-15 09:44:59.752	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-07-15 09:44:59.753	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6086]	2025-07-15 09:47:46.618	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-07-15 09:47:46.619	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-07-15 09:47:46.620	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6084]	2025-07-15 09:59:33.586	- Info  -	[online] received express login
+[6084]	2025-07-15 09:59:33.586	- Info  -	[LoginUtils] receive express login request from online
+[6084]	2025-07-15 09:59:33.587	- Info  -	[SunloginClient] Check password: type(0), account(), password is empty(no)
+[6084]	2025-07-15 09:59:33.589	- Info  -	[service] connect pgy server, domain=slp2p-33314-std.oray.net:4118, ip=122.246.13.56:4118
+[6084]	2025-07-15 09:59:33.589	- Info  -	[udp] Disconnect
+[61668813]	2025-07-15 09:59:33.589	- Info  -	[udp] CUdpStack::MyThread::OnStop
+[61668812]	2025-07-15 09:59:33.590	- Info  -	[udp] CUdpStack::MyThread::OnStop
+[6084]	2025-07-15 09:59:33.590	- Info  -	[session_manage] max session count = 1001
+[6084]	2025-07-15 09:59:33.591	* Error *	[udp_service] init fail, resolve hostname() fail, IPv6
+[6084]	2025-07-15 09:59:33.591	- Info  -	[p2p_server_connect] try to connect p2p server(122.246.13.56:4118), key(SHA1:qrjatydi;7mOnUK5tVxsHtLvO2/R9SOxftVQ=)
+[6084]	2025-07-15 09:59:33.592	- Info  -	[udp_service] connect SendConnectMsg encrypt is 0
+[6084]	2025-07-15 09:59:33.602	- Info  -	[udp_service] SendConnectMsg(122.246.13.56) return OK, sid=1
+[6084]	2025-07-15 09:59:33.603	- Info  -	[service] start listen OK, tcp:disable, udp:15950, udp6:0
+[6084]	2025-07-15 09:59:33.603	- Info  -	[service] connect ipv4 p2p server @ 122.246.13.56:4118
+[6084]	2025-07-15 09:59:33.627	- Info  -	[CConnection] instance CryptoTypeAes CConnection
+[61695888]	2025-07-15 09:59:33.657	- Info  -	[udp_service] OnConnectOK ipport(122.246.13.56:4118) iprealport(122.246.13.56:4118), as client
+[61695888]	2025-07-15 09:59:33.657	* Error *	[p2p_server_connect] can not get local ipv6 when server connected
+[61695890]	2025-07-15 09:59:33.673	- Info  -	[P2PAccepter] connect p2p server 122.246.13.56:4118 OK
+[61695890]	2025-07-15 09:59:33.674	- Info  -	[P2PAccepter] detect local address 172.168.10.59:15950
+[61695888]	2025-07-15 09:59:33.709	- Info  -	[p2p_server_connect] login p2p server OK, sid 1, public ip 58.218.188.178:2223, udp forward support ON, my index 1200947678
+[61695888]	2025-07-15 09:59:33.709	- Info  -	[CPgyConnector] PGYAcceptor::OnPgyLogin, public=58.218.188.178:2223, private=172.168.10.59:15445, p2pIndex=1200947678
+[61695890]	2025-07-15 09:59:33.718	- Info  -	[P2PAccepter] login p2p server [122.246.13.56:4118] OK, received public ip 58.218.188.178:2224, local ip 172.168.10.59:15950, index 1389867051
+[61695890]	2025-07-15 09:59:33.719	- Info  -	[LoginUtils] P2P_INDEX = 1389867051
+[61695890]	2025-07-15 09:59:33.719	- Info  -	[LoginUtils] access address PHSRC://1389867051.slp2p-33314-std.oray.net:4118/, PHSRC_HTTPS://1389867051.slp2p-33314-std.oray.net:443/, UsingMultiChannel://MP;UR://;
+[61695898]	2025-07-15 09:59:34.181	- Info  -	[upnp] discovery ok, find root devices: http://172.168.10.235:1900/igd.xml
+[61695898]	2025-07-15 09:59:34.183	- Info  -	[upnp] external ip address: 0.0.0.0
+[61695898]	2025-07-15 09:59:34.183	- Info  -	[upnp] search end
+[61695890]	2025-07-15 09:59:35.837	- Info  -	[P2PAccepter] attempted to create forward tunnel slp2p-33314-std.oray.net:443 with ssl
+[61695890]	2025-07-15 09:59:35.837	- Info  -	[P2PAccepter][TCP] attempt to create forward tunnel, server slp2p-33314-std.oray.net:443(122.246.13.56:443), ssl:true
+[61695890]	2025-07-15 09:59:35.837	- Info  -	[P2PAccepter][TCP] attempt to connect tcp server 122.246.13.56:443,15749
+[61695890]	2025-07-15 09:59:35.837	- Info  -	[CSockConnector] attempt to connect server 122.246.13.56:443(122.246.13.56:443)
+[6168]	2025-07-15 09:59:36.058	- Info  -	[Acceptor][HTTP] check session: true
+[6168]	2025-07-15 09:59:36.058	- Info  -	[BindForwardStream] Bind a forward(ipv4) stream
+[6168]	2025-07-15 09:59:36.058	- Info  -	[handle_event] event name: FWD_CONNECTED_4(TCP), error: 0
+[6168]	2025-07-15 09:59:36.058	- Info  -	[handle_event] switch mode to tcp4 forward
+[6168]	2025-07-15 09:59:36.058	- Info  -	[ChoiceTransferMode] switch mode to fw(tcp4)
+[6168]	2025-07-15 09:59:36.058	- Info  -	[PluginStream] MultiChannel connected server 
+[6168]	2025-07-15 09:59:36.058	- Info  -	[handle_packet] fw4 report index 0
+[6168]	2025-07-15 09:59:36.058	- Info  -	[handle_packet][0x10280ac00] change mode to fw4
+[6168]	2025-07-15 09:59:36.058	- Info  -	[PluginStream] receive plugin stream logon message
+[6168]	2025-07-15 09:59:36.058	- Info  -	[PluginStream] CheckCode OK, plugin: desktop
+[6168]	2025-07-15 09:59:36.058	- Info  -	[PluginStream] CPluginStream::CheckCode succeeded, plugin: desktop
+[6168]	2025-07-15 09:59:36.058	- Info  -	[Service] start plugin desktop ...
+[6168]	2025-07-15 09:59:36.058	- Info  -	[mdesktop] IMultiDesktopRouter::RegisterControl 5 OK
+[6168]	2025-07-15 09:59:36.058	- Info  -	[Service] start plugin desktop ok, index :5
+[6168]	2025-07-15 09:59:36.058	- Info  -	[PluginStream] login successed @ 285
+[6168]	2025-07-15 09:59:36.058	- Info  -	[PluginStream] MultiChannel connection  logged
+[6168]	2025-07-15 09:59:36.058	- Info  -	[client] PostPluguinLogImpl, event: control_start, plugin: desktop
+[61695967]	2025-07-15 09:59:36.120	+Warning+	[mdesktop] discard data control(5), size=20
+[61695967]	2025-07-15 09:59:36.120	- Info  -	[control] ******** OnEnumUser control(5) console()
+[61695967]	2025-07-15 09:59:36.120	- Info  -	[mdesktop] (wangyan, 689);
+[61695967]	2025-07-15 09:59:36.120	- Info  -	enum user list console()(689, wangyan);
+[61695967]	2025-07-15 09:59:36.625	- Info  -	[control] OnSwitchHos sid(689), id(5)
+[61695967]	2025-07-15 09:59:36.625	- Info  -	[service] Run Desktop 689, 2136778935
+[61695967]	2025-07-15 09:59:36.625	- Info  -	[mdesktop] Connect desktop 689 exists.
+[61695967]	2025-07-15 09:59:36.625	- Info  -	[mdesktop] connect_desktop control(5) remote(689)
+[61695967]	2025-07-15 09:59:36.625	- Info  -	[desktop] stop plugin(wangyan)
+[61695967]	2025-07-15 09:59:36.627	- Info  -	[GetConfigDatas] [LocalServer] FastControl log in : false
+[61695967]	2025-07-15 09:59:36.627	- Info  -	[add_ctrl] add host (1)
+[61695967]	2025-07-15 09:59:36.628	- Info  -	[mdesktop] ConnectDesktop send SWITCH_HOST_MESSAGE_RES(689,5) OK
+[61695890]	2025-07-15 09:59:39.081	- Info  -	[P2PAccepter] [122.246.13.56:4118] receive P2P request (public 58.218.188.178:2225 local 172.168.30.206:15590), delay r:45/c:57
+[61695890]	2025-07-15 09:59:39.081	- Info  -	[udpwrapper] P2PHolePunch 58.218.188.178:2225 
+[61695890]	2025-07-15 09:59:39.152	- Info  -	[upnp] add_port_mapping external port 2224, internalclient ip 172.168.10.59, internal port 15950
+[61695890]	2025-07-15 09:59:39.154	- Info  -	[upnp] add_port_mapping ok
+[61695889]	2025-07-15 09:59:39.210	- Info  -	[CConnection] instance CryptoTypeAes CConnection
+[61695889]	2025-07-15 09:59:39.210	- Info  -	[udp] support straight send in peer : no 172.168.30.206:15590 OnConnectRequest
+[61695889]	2025-07-15 09:59:39.228	- Info  -	[udp] OnConnectAck with 172.168.30.206:15590, mode 2, peer straight send no
+[61695890]	2025-07-15 09:59:39.228	- Info  -	[udpwrapper] create a new stream(relay=false), and accept 0.0.0.0:15950 @ 876
+[61695890]	2025-07-15 09:59:39.228	- Info  -	[service][UdpAcceptor] new acceptor 172.168.30.206:15590-->0.0.0.0:15950
+[61695890]	2025-07-15 09:59:40.707	- Info  -	[BindP2PStream] Bind a p2p0(ipv4) stream
+[61695890]	2025-07-15 09:59:40.707	- Info  -	[handle_event] event name: P2P_CONNECTED_0(KCP OR UDX), error: 0
+[61695890]	2025-07-15 09:59:42.172	- Info  -	[handle_packet] p2p0(ipv4) report index 46
+[61695890]	2025-07-15 09:59:42.173	- Info  -	[handle_packet][0x10280ac00] change mode to p2p0(ipv4)
+[6078]	2025-07-15 09:59:46.452	- Info  -	[CSockConnector] attempt to connect server sl-log.oray.net:443(47.97.183.66:443)
+[6168]	2025-07-15 10:00:48.818	+Warning+	[passive:keepalive:] 122.246.13.56:4118 disconnect by keepalive timeout(2136851127>=2136781390+60002)
+[6168]	2025-07-15 10:00:48.819	- Info  -	[udp] Disconnect
+[6168]	2025-07-15 10:00:48.820	- Info  -	[P2PAccepter] 122.246.13.56:4118 disconnected,error code:57351
+[6168]	2025-07-15 10:00:48.820	- Info  -	[LoginUtils] tcp handler size: 0, tcp6 handler size: 0, udp handler size: 0, udp6 handler size: 0
+[61695889]	2025-07-15 10:00:48.866	- Info  -	[service][UdpAcceptor] disconnect, reason: REASON_SEND_MSG, port: 15950, remote ip 122.246.13.56:4118
+[61695889]	2025-07-15 10:00:48.866	- Info  -	[oray][erroCode] errorcode=oray_errorcode(57354), product=0, type=3, inner code=10 [OnDisconnect:955]
+[6168]	2025-07-15 10:01:00.884	- Info  -	[handle_event] event name: FWD_DISCONNECT_4(TCP), error: 0
+[6168]	2025-07-15 10:01:00.884	- Info  -	[handle_event] fw4 disconnect
+[61695889]	2025-07-15 10:01:01.072	- Info  -	[service][UdpAcceptor] disconnect, reason: REASON_RECV_MSG, port: 15950, remote ip 172.168.30.206:15590
+[61695889]	2025-07-15 10:01:01.072	- Info  -	[upnp] del_port_mapping external port 2224, internalclient ip 172.168.10.59, internal port 15950
+[61695889]	2025-07-15 10:01:01.074	- Info  -	[upnp] Delete port mapping ok!
+[61695889]	2025-07-15 10:01:01.075	- Info  -	[oray][erroCode] errorcode=oray_errorcode(57355), product=0, type=3, inner code=11 [OnDisconnect:955]
+[61695889]	2025-07-15 10:01:01.075	- Info  -	[udp] Disconnect
+[61695889]	2025-07-15 10:01:01.075	- Info  -	[handle_event] event name: P2P_DISCONNECT_0(KCP OR UDX), error: 57355
+[61695889]	2025-07-15 10:01:01.075	- Info  -	[handle_event] p2p0 disconnect
+[61695889]	2025-07-15 10:01:01.344	- Info  -	[PluginStream] MultiChannel disconnected server ,error code:57355
+[61695967]	2025-07-15 10:01:01.344	- Info  -	[mdesktop] revoke_control earse old remote 689
+[61695967]	2025-07-15 10:01:01.344	- Info  -	[mdesktop] IMultiDesktopRouter::RevokeControl 5 OK
+[61695967]	2025-07-15 10:01:01.344	- Info  -	[remove_ctrl] remove host (0)
+[61695967]	2025-07-15 10:01:01.344	- Info  -	[mdesktop] revoke_control 689
+[61695967]	2025-07-15 10:01:01.344	- Info  -	[desktop] stop plugin(wangyan)
+[61695889]	2025-07-15 10:01:01.345	- Info  -	[FlushAccessPwd] FlushAccessPwd
+[61695889]	2025-07-15 10:01:01.346	- Info  -	[client] PostPluguinLogImpl, event: control_end, plugin: desktop
+[6078]	2025-07-15 10:01:01.368	- Info  -	[CSockConnector] attempt to connect server sl-log.oray.net:443(121.41.32.171:443)
+[6168]	2025-07-15 10:01:02.142	- Info  -	[CUDPLibWrapper] map size: 2, value: [122.246.13.54:4118/15792-3] = 0.0.0.0:15792;
+[122.246.13.159:4118/15694-1] = 0.0.0.0:15694;
+
+[61695890]	2025-07-15 10:01:02.143	- Info  -	[udp] CUdpStack::MyThread::OnStop
+[61695889]	2025-07-15 10:01:02.143	- Info  -	[udp] CUdpStack::MyThread::OnStop
+[6168]	2025-07-15 10:01:02.143	- Info  -	[service] stop listen OK
+[6084]	2025-07-15 10:03:24.223	- Info  -	[online] received express login
+[6084]	2025-07-15 10:03:24.223	- Info  -	[LoginUtils] receive express login request from online
+[6084]	2025-07-15 10:03:24.224	- Info  -	[SunloginClient] Check password: type(0), account(), password is empty(no)
+[6084]	2025-07-15 10:03:24.227	- Info  -	[service] connect pgy server, domain=slp2p-333124-std.oray.net:4118, ip=122.246.13.93:4118
+[6084]	2025-07-15 10:03:24.227	- Info  -	[udp] Disconnect
+[61695888]	2025-07-15 10:03:24.227	- Info  -	[udp] CUdpStack::MyThread::OnStop
+[61695887]	2025-07-15 10:03:24.227	- Info  -	[udp] CUdpStack::MyThread::OnStop
+[6084]	2025-07-15 10:03:24.227	- Info  -	[session_manage] max session count = 1001
+[6084]	2025-07-15 10:03:24.229	* Error *	[udp_service] init fail, resolve hostname() fail, IPv6
+[6084]	2025-07-15 10:03:24.229	- Info  -	[p2p_server_connect] try to connect p2p server(122.246.13.93:4118), key(SHA1:qrjatydi;7mOnUK5tVxsHtLvO2/R9SOxftVQ=)
+[6084]	2025-07-15 10:03:24.229	- Info  -	[udp_service] connect SendConnectMsg encrypt is 0
+[6084]	2025-07-15 10:03:24.270	- Info  -	[udp_service] SendConnectMsg(122.246.13.93) return OK, sid=1
+[6084]	2025-07-15 10:03:24.270	- Info  -	[service] start listen OK, tcp:disable, udp:15760, udp6:0
+[6084]	2025-07-15 10:03:24.270	- Info  -	[service] connect ipv4 p2p server @ 122.246.13.93:4118
+[6084]	2025-07-15 10:03:24.283	- Info  -	[CConnection] instance CryptoTypeAes CConnection
+[61700290]	2025-07-15 10:03:24.318	- Info  -	[udp_service] OnConnectOK ipport(122.246.13.93:4118) iprealport(122.246.13.93:4118), as client
+[61700290]	2025-07-15 10:03:24.318	* Error *	[p2p_server_connect] can not get local ipv6 when server connected
+[61700308]	2025-07-15 10:03:24.331	- Info  -	[P2PAccepter] connect p2p server 122.246.13.93:4118 OK
+[61700308]	2025-07-15 10:03:24.332	- Info  -	[P2PAccepter] detect local address 172.168.10.59:15760
+[61700290]	2025-07-15 10:03:24.365	- Info  -	[p2p_server_connect] login p2p server OK, sid 1, public ip 58.218.188.178:2235, udp forward support ON, my index 1321006644
+[61700290]	2025-07-15 10:03:24.365	- Info  -	[CPgyConnector] PGYAcceptor::OnPgyLogin, public=58.218.188.178:2235, private=172.168.10.59:15863, p2pIndex=1321006644
+[61700308]	2025-07-15 10:03:24.384	- Info  -	[P2PAccepter] login p2p server [122.246.13.93:4118] OK, received public ip 58.218.188.178:2236, local ip 172.168.10.59:15760, index 1939675216
+[61700308]	2025-07-15 10:03:24.384	- Info  -	[LoginUtils] P2P_INDEX = 1939675216
+[61700308]	2025-07-15 10:03:24.384	- Info  -	[LoginUtils] access address PHSRC://1939675216.slp2p-333124-std.oray.net:4118/, PHSRC_HTTPS://1939675216.slp2p-333124-std.oray.net:443/, UsingMultiChannel://MP;UR://;
+[61700308]	2025-07-15 10:03:24.895	- Info  -	[P2PAccepter] attempted to create forward tunnel slp2p-333124-std.oray.net:443 with ssl
+[61700308]	2025-07-15 10:03:24.895	- Info  -	[P2PAccepter][TCP] attempt to create forward tunnel, server slp2p-333124-std.oray.net:443(122.246.13.93:443), ssl:true
+[61700308]	2025-07-15 10:03:24.895	- Info  -	[P2PAccepter][TCP] attempt to connect tcp server 122.246.13.93:443,1429
+[61700308]	2025-07-15 10:03:24.895	- Info  -	[CSockConnector] attempt to connect server 122.246.13.93:443(122.246.13.93:443)
+[6168]	2025-07-15 10:03:25.158	- Info  -	[Acceptor][HTTP] check session: true
+[6168]	2025-07-15 10:03:25.158	- Info  -	[BindForwardStream] Bind a forward(ipv4) stream
+[6168]	2025-07-15 10:03:25.158	- Info  -	[handle_event] event name: FWD_CONNECTED_4(TCP), error: 0
+[6168]	2025-07-15 10:03:25.158	- Info  -	[handle_event] switch mode to tcp4 forward
+[6168]	2025-07-15 10:03:25.158	- Info  -	[ChoiceTransferMode] switch mode to fw(tcp4)
+[6168]	2025-07-15 10:03:25.158	- Info  -	[PluginStream] MultiChannel connected server 
+[6168]	2025-07-15 10:03:25.158	- Info  -	[handle_packet] fw4 report index 0
+[6168]	2025-07-15 10:03:25.158	- Info  -	[handle_packet][0x110021800] change mode to fw4
+[6168]	2025-07-15 10:03:25.158	- Info  -	[PluginStream] receive plugin stream logon message
+[6168]	2025-07-15 10:03:25.158	- Info  -	[PluginStream] CheckCode OK, plugin: desktop
+[6168]	2025-07-15 10:03:25.158	- Info  -	[PluginStream] CPluginStream::CheckCode succeeded, plugin: desktop
+[6168]	2025-07-15 10:03:25.158	- Info  -	[Service] start plugin desktop ...
+[6168]	2025-07-15 10:03:25.158	- Info  -	[mdesktop] IMultiDesktopRouter::RegisterControl 6 OK
+[6168]	2025-07-15 10:03:25.158	- Info  -	[Service] start plugin desktop ok, index :6
+[6168]	2025-07-15 10:03:25.158	- Info  -	[PluginStream] login successed @ 285
+[6168]	2025-07-15 10:03:25.158	- Info  -	[PluginStream] MultiChannel connection  logged
+[6168]	2025-07-15 10:03:25.159	- Info  -	[client] PostPluguinLogImpl, event: control_start, plugin: desktop
+[6078]	2025-07-15 10:03:25.184	- Info  -	[CSockConnector] attempt to connect server sl-log.oray.net:443(121.41.32.171:443)
+[61700318]	2025-07-15 10:03:25.200	+Warning+	[mdesktop] discard data control(6), size=20
+[61700318]	2025-07-15 10:03:25.200	- Info  -	[control] ******** OnEnumUser control(6) console()
+[61700318]	2025-07-15 10:03:25.200	- Info  -	[mdesktop] (wangyan, 689);
+[61700318]	2025-07-15 10:03:25.200	- Info  -	enum user list console()(689, wangyan);
+[61700318]	2025-07-15 10:03:25.304	- Info  -	[control] OnSwitchHos sid(689), id(6)
+[61700318]	2025-07-15 10:03:25.305	- Info  -	[service] Run Desktop 689, 2137007611
+[61700318]	2025-07-15 10:03:25.305	- Info  -	[mdesktop] Connect desktop 689 exists.
+[61700318]	2025-07-15 10:03:25.305	- Info  -	[mdesktop] connect_desktop control(6) remote(689)
+[61700318]	2025-07-15 10:03:25.305	- Info  -	[desktop] stop plugin(wangyan)
+[61700318]	2025-07-15 10:03:25.305	- Info  -	[GetConfigDatas] [LocalServer] FastControl log in : false
+[61700318]	2025-07-15 10:03:25.306	- Info  -	[add_ctrl] add host (1)
+[61700318]	2025-07-15 10:03:25.306	- Info  -	[mdesktop] ConnectDesktop send SWITCH_HOST_MESSAGE_RES(689,6) OK
+[61700310]	2025-07-15 10:03:28.038	- Info  -	[upnp] discovery ok, find root devices: http://172.168.10.244:1900/igd.xml
+[61700310]	2025-07-15 10:03:28.040	- Info  -	[upnp] external ip address: 0.0.0.0
+[61700310]	2025-07-15 10:03:28.040	- Info  -	[upnp] search end
+[61700308]	2025-07-15 10:03:28.046	- Info  -	[P2PAccepter] [122.246.13.93:4118] receive P2P request (public 58.218.188.178:2237 local 172.168.30.206:15329), delay r:52/c:43
+[61700308]	2025-07-15 10:03:28.046	- Info  -	[udpwrapper] P2PHolePunch 58.218.188.178:2237 
+[61700308]	2025-07-15 10:03:28.098	- Info  -	[upnp] add_port_mapping external port 2236, internalclient ip 172.168.10.59, internal port 15760
+[61700308]	2025-07-15 10:03:28.100	+Warning+	[udpwrapper] add UPNP failed, Fail to add port mapping (slrc/ UDP)
+
+[61700307]	2025-07-15 10:03:28.149	- Info  -	[CConnection] instance CryptoTypeAes CConnection
+[61700307]	2025-07-15 10:03:28.150	- Info  -	[udp] support straight send in peer : no 172.168.30.206:15329 OnConnectRequest
+[61700307]	2025-07-15 10:03:28.158	- Info  -	[udp] OnConnectAck with 172.168.30.206:15329, mode 2, peer straight send no
+[61700308]	2025-07-15 10:03:28.159	- Info  -	[udpwrapper] create a new stream(relay=false), and accept 0.0.0.0:15760 @ 876
+[61700308]	2025-07-15 10:03:28.159	- Info  -	[service][UdpAcceptor] new acceptor 172.168.30.206:15329-->0.0.0.0:15760
+[61700308]	2025-07-15 10:03:28.619	- Info  -	[BindP2PStream] Bind a p2p0(ipv4) stream
+[61700308]	2025-07-15 10:03:28.619	- Info  -	[handle_event] event name: P2P_CONNECTED_0(KCP OR UDX), error: 0
+[61700308]	2025-07-15 10:03:28.619	- Info  -	[handle_packet] p2p0(ipv4) report index 43
+[61700308]	2025-07-15 10:03:28.619	- Info  -	[handle_packet][0x110021800] change mode to p2p0(ipv4)
+[6168]	2025-07-15 10:03:35.663	- Info  -	[handle_event] event name: FWD_DISCONNECT_4(TCP), error: 0
+[6168]	2025-07-15 10:03:35.664	- Info  -	[handle_event] fw4 disconnect
+[61700307]	2025-07-15 10:03:35.817	- Info  -	[service][UdpAcceptor] disconnect, reason: REASON_RECV_MSG, port: 15760, remote ip 172.168.30.206:15329
+[61700307]	2025-07-15 10:03:35.817	- Info  -	[oray][erroCode] errorcode=oray_errorcode(57355), product=0, type=3, inner code=11 [OnDisconnect:955]
+[61700307]	2025-07-15 10:03:35.817	- Info  -	[udp] Disconnect
+[61700307]	2025-07-15 10:03:35.817	- Info  -	[handle_event] event name: P2P_DISCONNECT_0(KCP OR UDX), error: 57355
+[61700307]	2025-07-15 10:03:35.817	- Info  -	[handle_event] p2p0 disconnect
+[61700307]	2025-07-15 10:03:36.090	- Info  -	[PluginStream] MultiChannel disconnected server ,error code:57355
+[61700318]	2025-07-15 10:03:36.090	- Info  -	[mdesktop] revoke_control earse old remote 689
+[61700318]	2025-07-15 10:03:36.090	- Info  -	[mdesktop] IMultiDesktopRouter::RevokeControl 6 OK
+[61700318]	2025-07-15 10:03:36.090	- Info  -	[remove_ctrl] remove host (0)
+[61700318]	2025-07-15 10:03:36.090	- Info  -	[mdesktop] revoke_control 689
+[61700318]	2025-07-15 10:03:36.091	- Info  -	[desktop] stop plugin(wangyan)
+[61700307]	2025-07-15 10:03:36.091	- Info  -	[FlushAccessPwd] FlushAccessPwd
+[61700307]	2025-07-15 10:03:36.092	- Info  -	[client] PostPluguinLogImpl, event: control_end, plugin: desktop
+[6168]	2025-07-15 10:03:36.867	- Info  -	[CUDPLibWrapper] map size: 3, value: [122.246.13.54:4118/15792-3] = 0.0.0.0:15792;
+[122.246.13.93:4118/15760-5] = 0.0.0.0:15760;
+[122.246.13.159:4118/15694-1] = 0.0.0.0:15694;
+
+[6168]	2025-07-15 10:03:36.867	- Info  -	[udp] Disconnect
+[6168]	2025-07-15 10:03:36.867	- Info  -	[P2PAccepter] 122.246.13.93:4118 disconnected,error code:0
+[6168]	2025-07-15 10:03:36.867	- Info  -	[LoginUtils] tcp handler size: 0, tcp6 handler size: 0, udp handler size: 0, udp6 handler size: 0
+[61700308]	2025-07-15 10:03:36.867	- Info  -	[udp] CUdpStack::MyThread::OnStop
+[61700307]	2025-07-15 10:03:36.867	- Info  -	[udp] CUdpStack::MyThread::OnStop
+[6168]	2025-07-15 10:03:36.867	- Info  -	[service] stop listen OK
+[61700289]	2025-07-15 10:10:37.989	+Warning+	[udpstack] connect timeout, state: 3, time interval: 90000, 2137440343, 2137348993, 91350
+[61700289]	2025-07-15 10:10:37.990	* Error *	[udp_service] session OnDisconnect sid=1, ipport=122.246.13.93:4118
+[61700289]	2025-07-15 10:10:37.990	- Info  -	[p2p_acceptor] on disconnect sid = 1
+[6081]	2025-07-15 15:27:11.685	- Info  -	[get_last_version_thread] update_rand_time:6; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-15 15:27:11.711	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[6078]	2025-07-15 15:27:24.599	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(2156446749>=2156434325+10000)
+[6081]	2025-07-15 21:27:11.934	- Info  -	[get_last_version_thread] update_rand_time:10; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-15 21:27:11.959	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(47.111.3.225:443)
+[6078]	2025-07-15 21:27:22.539	+Warning+	[passive:keepalive:] 47.111.3.225:443 disconnect by keepalive timeout(2178044516>=2178034315+10000)
+[6081]	2025-07-16 07:27:12.366	- Info  -	[get_last_version_thread] update_rand_time:6; is_green:false; is_free_install:false ;is_control:false
+[6078]	2025-07-16 07:27:12.388	- Info  -	[CSockConnector] attempt to connect server client-api.oray.com:443(118.178.32.153:443)
+[6078]	2025-07-16 07:27:22.927	+Warning+	[passive:keepalive:] 118.178.32.153:443 disconnect by keepalive timeout(2214044623>=2214034447+10000)
+[6086]	2025-07-16 08:41:10.371	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-07-16 08:41:10.374	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-07-16 08:41:10.374	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6086]	2025-07-16 08:53:31.739	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-07-16 08:53:31.741	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-07-16 08:53:31.741	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6086]	2025-07-16 08:55:03.372	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-07-16 08:55:03.375	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-07-16 08:55:03.375	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6086]	2025-07-16 08:55:37.709	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-07-16 08:55:37.711	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-07-16 08:55:37.711	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6086]	2025-07-16 08:56:03.272	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-07-16 08:56:03.274	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-07-16 08:56:03.274	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6086]	2025-07-16 08:57:50.716	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-07-16 08:57:50.717	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-07-16 08:57:50.718	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.
+[6086]	2025-07-16 08:58:01.757	- Info  -	++++++++++++++++++ system configure network changed
+[6086]	2025-07-16 08:58:01.758	+Warning+	[OnSystemPowerEvent] [LocalServer] system is resumed, client status: 1, netwok status: 1.
+[6086]	2025-07-16 08:58:01.758	- Info  -	[OnSystemPowerEvent] [LocalServer] system is resumed, client is online.

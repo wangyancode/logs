@@ -1,0 +1,10 @@
+[7512]	2025-05-21 11:04:24.952	- Info  -	applicationWillFinishLaunching
+[7512]	2025-05-21 11:04:24.955	- Info  -	sid(100003), username(wangyan)
+[7512]	2025-05-21 11:04:24.955	+Warning+	[agent] detect service ok.
+[7512]	2025-05-21 11:04:24.955	- Info  -	init instance
+[8057]	2025-05-21 11:04:25.963	- Info  -	[CSockConnector] attempt to connect server 127.0.0.1:16067(127.0.0.1:16067)
+[8057]	2025-05-21 11:04:25.985	- Info  -	[client::handler] connected sid(100003)
+[8057]	2025-05-21 11:04:25.985	- Info  -	[client] send CMD_AGENT_SID
+[8057]	2025-05-21 11:05:21.650	- Info  -	[desktop_agent ] on_disconnect
+[8057]	2025-05-21 11:05:21.650	- Info  -	plugin stop >>
+[8057]	2025-05-21 11:05:21.651	- Info  -	plugin stop <<
